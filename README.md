@@ -1,10 +1,10 @@
-# UDG_MCD_Project_Dev_II
-_Material for Project Development II course of the Master of Data Science of Universidad de Guadalajara._
+# Project Development II
+_Complementary material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science of Universidad de Guadalajara._
 
 _⚠️ Note: the material of this repostory would be shared mainly in Spanish._
 
 ## Introducción
-En este repositorio se compartirá material adicional para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar Git y GitHub como herramienta de almacenamiento, control de versiones y trabajo colaborativo.
+En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar Git y GitHub como herramienta de almacenamiento, control de versiones y trabajo colaborativo.
 
 ## Referencias
 __Material para el curso__
