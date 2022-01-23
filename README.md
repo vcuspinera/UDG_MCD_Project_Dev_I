@@ -12,7 +12,7 @@ En este repositorio se compartirá material complementario para los alumnos del 
     ├── data                     <- Carpeta de bases de datos.
     │
     ├── docs                     <- Carpeta con documentos como referencias, información 
-        │   │                           adicional del curso y material de apoyo.
+    │   │                           adicional del curso y material de apoyo.
     │   └──Referencias.md        <- Archivo con referencias sobre material para el curso.
     │
     ├── src                      <- Carpeta con código de referencia apra el curso.
