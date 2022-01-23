@@ -7,20 +7,19 @@ _⚠️ Note: the material of this repostory would be shared mainly in Spanish._
 En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar Git y GitHub como herramienta de almacenamiento, control de versiones y trabajo colaborativo.
 
 ## Organización de carpetas
-
-├── README.md                <- Archivo principal README con presentación del proyecto
-│
-├── data                     <- Carpeta de bases de datos.
-│
-├── docs                     <- Carpeta con documentos como referencias, información 
-│   │                           adicional del curso y material de apoyo.
-│   └──Referencias.md        <- Archivo con referencias sobre material para el curso.
-│
-├── src                      <- Carpeta con código de referencia apra el curso.
-│   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
-│   └── logo_slack.pdf       <- PDF de código para generar logo de slack para el curso.
-│
-└── img                      <- Carpeta para guardar imágenes.
+    ├── README.md                <- Archivo principal README con presentación del proyecto
+    │
+    ├── data                     <- Carpeta de bases de datos.
+    │
+    ├── docs                     <- Carpeta con documentos como referencias, información 
+        │   │                           adicional del curso y material de apoyo.
+    │   └──Referencias.md        <- Archivo con referencias sobre material para el curso.
+    │
+    ├── src                      <- Carpeta con código de referencia apra el curso.
+    │   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
+    │   └── logo_slack.pdf       <- PDF de código para generar logo de slack para el curso.
+    │
+    └── img                      <- Carpeta para guardar imágenes.
 
 ## Referencias básicas
 - [Material base del curso se ecuentra en Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0)
