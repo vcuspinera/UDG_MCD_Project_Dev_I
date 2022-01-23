@@ -35,3 +35,4 @@ __Páginas institucionales__
     - [Email](mailto:mcd@cucea.udg.mx)
 - [**CUCEA** • Centro Universitario de Ciencias Económico Administrativas](http://www.cucea.udg.mx)
 - [**UDG** • Universidad de Guadalajara](http://www.udg.mx)
+- [Calendario escolar de UDG 2022-2023](http://escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2022-2023)

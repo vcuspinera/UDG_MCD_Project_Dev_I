@@ -1,0 +1,42 @@
+---
+title: "Logo para Slack de Desarrollo de Proyectos II"
+author: "Victor Cuspinera"
+date: "22/01/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## librerías
+```{r}
+## instalar librerías
+#install.packages("wordcloud")
+#install.packages("RColorBrewer")
+#install.packages("wordcloud2")
+
+## llamar librerías
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+```
+
+## data frame
+```{r}
+# crear tabla
+df <- data.frame(
+  "word" = c("desarrollo", "proyectos", "estadística básica", "estadística multivariada", "econometría", "métodos matemáticos", "análisis de datos", "seminario de tesis", "bases de datos", "procesamiento", "almacenamiento", "visualización", "gestión de datos", "programación", "desarrollo de proyectos", "ciencia de datos", "mcd", "udg", "big data", "informática", "computación", "matemáticas", "estadística", "economía", "negocios", "administración", "política pública", "mercadotecnia", "inglés", "tecnología", "investigación", "cucea", "datos", "algoritmos", "clasificación", "machine learning", "ai", "overfitting", "training", "testing", "underfiting", "journalism", "tools", "correlación", "promedio", "mediana", "varianza", "desviación estándar", "normalizar", "media", "muestra", "series de tiempo", "residual", "error", "eda", "pipelines", "limpiar datos", "data wrangling", "web scraping", "clustering", "arboles de decisión", "deep learning", "redes neuronales", "supervisado", "no supervisado"), 
+  "freq" = c(65, 59, 9, 3, 18, 8, 12, 5, 12, 7, 19, 9, 27, 7, 23, 26, 48, 43, 6, 20, 19, 8, 16, 12, 12, 13, 5, 4, 8, 16, 28, 45, 19, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1)
+)
+```
+
+## 
+```{r}
+# crear el word cloud para logo de slack
+set.seed(1234) # for reproducibility 
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=75,
+          random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(10, "Dark2")
+          )
+```
