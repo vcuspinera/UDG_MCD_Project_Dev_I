@@ -13,7 +13,9 @@ En este repositorio se compartirá material complementario para los alumnos del 
     │
     ├── docs                     <- Carpeta con documentos como referencias, información 
     │   │                           adicional del curso y material de apoyo.
-    │   └── Referencias.md        <- Archivo con referencias sobre material para el curso.
+    │   ├── Quizes.md            <- Ligas a los cuestionarios de control de lecturas.
+    │   ├── Referencias.md       <- Material de referencia del curso.
+    │   └── Tareas.md            <- Ligas a las tareas.
     │
     ├── src                      <- Carpeta con código de referencia apra el curso.
     │   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
@@ -25,7 +27,7 @@ En este repositorio se compartirá material complementario para los alumnos del 
 - [Material base del curso se ecuentra en Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0)
     - [Temario](https://www.dropbox.com/scl/fi/cag5czpghcbjgnk5pnufp/Temario-2022-s1-Desarrollo-de-proyectos-II.docx?dl=0&rlkey=6gcp3g6qqglykti3xrqo3jit3)
     - [Libro](https://www.dropbox.com/sh/8f30655iex1mo43/AAB7HXnhRJAixlzLRRu1h2b1a?dl=0)
-    - Controles de lectura en clase (quizes)
+    - [Controles de lectura en clase (quizes)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md)
     - [Tareas](https://www.dropbox.com/sh/cofu62ce1s1yy5j/AACx6qAOIwFnGJzVXD1kpsrwa?dl=0)
 
 <br>
