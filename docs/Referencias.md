@@ -17,6 +17,11 @@ __Material adicional__
     - [Jenny Bryan. “Happy Git and GitHub for the useR”.](https://happygitwithr.com)
 - Revistas especializadas
     - [Towards Data Science](https://towardsdatascience.com)
+- Master of Data Science de la Universidad de British Columbia (UBC)
+    - [Material público de cursos](https://github.com/UBC-MDS/public)
+    - [Curso _DSCI 521: Computing Platforms for Data Science_](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)
+- Otros
+    - [Software Carpentry](https://software-carpentry.org)
 
 <br>
 
