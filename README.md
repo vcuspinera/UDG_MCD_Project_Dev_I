@@ -28,7 +28,7 @@ En este repositorio se compartirá material complementario para los alumnos del 
     - [Temario](https://www.dropbox.com/scl/fi/cag5czpghcbjgnk5pnufp/Temario-2022-s1-Desarrollo-de-proyectos-II.docx?dl=0&rlkey=6gcp3g6qqglykti3xrqo3jit3)
     - [Libro](https://www.dropbox.com/sh/8f30655iex1mo43/AAB7HXnhRJAixlzLRRu1h2b1a?dl=0)
     - [Controles de lectura en clase (quizes)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md)
-    - [Tareas](https://www.dropbox.com/sh/cofu62ce1s1yy5j/AACx6qAOIwFnGJzVXD1kpsrwa?dl=0)
+    - [Tareas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Tareas.md)
 
 <br>
 
