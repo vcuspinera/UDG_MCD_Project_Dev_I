@@ -11,21 +11,21 @@ Sin embargo, éstas no se entregarán por correo electrónico, sino se responder
 - [Tarea #1](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUMzcyNE5YMzFBVzBPRVozVTVIVkxKSENWWC4u)  
 _(deadline 2022-02-01)_
 
-- _Tarea #2_
+- [Tarea #2](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUOUxWT0QwUERYUU9RRElIWUU3REM0TjdTMy4u)
 
-- _Tarea #3_
+- [Tarea #3](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUNFpGME1TUFkxWExBQUNJR09NRFZTSUZWRi4u)
 
-- _Tarea #4_
+- [Tarea #4](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUNE5JMVpDNU85U0MxMVBJRUpWTEo2TENMUS4u)
  
-- _Tarea #5_
+- [Tarea #5](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUN0E0Tk5ER1VWNlQzVTQyMllTSks5N0JWWi4u)
  
-- _Tarea #6_
+- [Tarea #6](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZURTdTOUwySVpQNzZEUUE1TzRPTzhBV0RRQS4u)
  
-- _Tarea #7_
+- [Tarea #7](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQUdKTjBLNjQ3WUkwR1FGM0JNMkVEMlBZUy4u)
  
-- _Tarea #8_
+- [Tarea #8](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQ0pJR1U5QUM3OTFEOFdETVJVNkFERExZUi4u)
  
-- _Tarea #9_
+- [Tarea #9](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQTdZMEZYMDVUSzBSMFFIN1ZPVEYzM0FWSS4u)
 
 ## Tareas adicionales
 
