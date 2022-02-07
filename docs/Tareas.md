@@ -6,10 +6,9 @@ A lo largo del curso se encargarán dos tipos de tareas:
 
 Las tareas del libro de texto "Libro PMI-RMP Exam Preparation" ya se encuentran subidas en la carpeta del curso de Dropbox ([dar click aquí](https://www.dropbox.com/sh/tv3uqltxs911tph/AACrsVcEWmiDh_gj3jogdQQia?dl=0)).
 
-Sin embargo, éstas no se entregarán por correo electrónico, sino se responderán a través de las siguientes ligas las cuales estarán habilitadas hasta antes de la siguiente clase:
+Sin embargo, éstas no se entregarán por correo electrónico, sino se responderán a través de las siguientes ligas las cuales __estarán habilitadas hasta_antes de la siguiente clase__:
 
 - [Tarea #1](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUMzcyNE5YMzFBVzBPRVozVTVIVkxKSENWWC4u)  
-_(deadline 2022-02-01)_
 
 - [Tarea #2](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUOUxWT0QwUERYUU9RRElIWUU3REM0TjdTMy4u)
 
