@@ -13,6 +13,7 @@ En este repositorio se compartirá material complementario para los alumnos del 
     │
     ├── docs                     <- Carpeta con documentos como referencias, información 
     │   │                           adicional del curso y material de apoyo.
+    │   ├── Material_curso.md    <- Información con indicacciones sobre el material del curso.  
     │   ├── Quizes.md            <- Ligas a los cuestionarios de control de lecturas.
     │   ├── Referencias.md       <- Material de referencia del curso.
     │   └── Tareas.md            <- Ligas a las tareas.
@@ -21,7 +22,7 @@ En este repositorio se compartirá material complementario para los alumnos del 
     │   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
     │   └── logo_slack.pdf       <- PDF de código para generar logo de slack para el curso.
     │
-    └── img                      <- Carpeta para guardar imágenes.
+    └── img                      <- Carpeta con imágenes para el material compartido.
 
 ## Referencias básicas
 - [Material base del curso se ecuentra en Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0)
