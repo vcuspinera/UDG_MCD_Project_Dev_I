@@ -16,7 +16,8 @@ En este repositorio se compartirá material complementario para los alumnos del 
     │   ├── Material_curso.md    <- Información con indicacciones sobre el material del curso.  
     │   ├── Quizes.md            <- Ligas a los cuestionarios de control de lecturas.
     │   ├── Referencias.md       <- Material de referencia del curso.
-    │   └── Tareas.md            <- Ligas a las tareas.
+    │   ├── Tareas.md            <- Ligas a las tareas.
+    │   └── Temario_IH602.md     <- Temario del curso para el semestre de primavera 2022.
     │
     ├── src                      <- Carpeta con código de referencia apra el curso.
     │   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
