@@ -5,6 +5,8 @@ En esta carpeta se compartirán distintos documentos como referencias, informaci
 
 - [__Material_curso__](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Material_curso.md). Contiene información general con las ligas e indicaciones sobre el material del curso de Desarrollo de Proyectos II.
 
+- [__Puntos_extras__](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Puntos_extras.md). Detalle de actividades adicionales: proyectos personales, publicaciones, voluntariados y hackathones, para obtener puntos extras en evaluación final.
+
 - [__Quizes__](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md). Contiene las ligas a los cuestionarios de control de lecturas.
 
 - [__Tareas__](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Tareas.md). Indicaciones y ligas a las tareas del libro y adicionales.
