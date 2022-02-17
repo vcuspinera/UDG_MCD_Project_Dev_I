@@ -1,4 +1,4 @@
-# Documentos
+# Documentos del repositorio
 En esta carpeta se compartirán distintos documentos como referencias, información adicional del curso y material de apoyo.
 
 ## Documentos de la carpeta
