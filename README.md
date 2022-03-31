@@ -1,15 +1,24 @@
 <img src="img/logo_slack.png" width="160" align = "right">
 
 # Project Development II
-_Complementary material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science of Universidad de Guadalajara._
+_Complementary material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science at Universidad de Guadalajara._
 
-_⚠️ Note: the material of this repostory would be shared mainly in Spanish._
+_⚠️ Note: the material of this repository would be shared mainly in Spanish._
 
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Profesor
+
+Cualquier duda, aclaración o comentario sobre el material de este repositorio pueden contactarme a través de los siguientes canales:
+
+|Nombre |Correo electrónico |Usuario GitHub| Página web |
+|:----:|:----:|:-----:|:-----:|
+|Victor Cuspinera | vcuspinera@gmail.com | [vcuspinera](https://github.com/vcuspinera) | [<img src="https://raw.githubusercontent.com/vcuspinera/Canada_response_covid/8d616c02dcdf9a0362a6f8ecb98471eae8f0e28b/img/logo_vcuspinera.png" width=20%/>](https://vcuspinera.github.io) |
+
+
 ## Introducción
-En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar Git y GitHub como herramienta de almacenamiento, control de versiones y trabajo colaborativo.
+En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, control de versiones y trabajo colaborativo.
 
 ## Material del curso
 
