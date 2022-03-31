@@ -1,9 +1,12 @@
-<img src="img/logo_slack.png" width="120" align = "right">
+<img src="img/logo_slack.png" width="160" align = "right">
 
 # Project Development II
 _Complementary material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science of Universidad de Guadalajara._
 
 _⚠️ Note: the material of this repostory would be shared mainly in Spanish._
+
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introducción
 En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar Git y GitHub como herramienta de almacenamiento, control de versiones y trabajo colaborativo.
