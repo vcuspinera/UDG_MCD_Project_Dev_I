@@ -1,3 +1,5 @@
+<img src="img/logo_slack.png" width="120" align = "right">
+
 # Project Development II
 _Complementary material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science of Universidad de Guadalajara._
 
