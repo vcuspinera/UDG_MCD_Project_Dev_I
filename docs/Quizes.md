@@ -9,6 +9,7 @@ A continuación, se comparten las ligas para realizar los quizes con cuestionari
  
 ## Ligas a cuestionarios 
  
+### Quizes de capítulos del libro
 [Cuestionario de control #1](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQzFONVkwOUE0U1gxRFo3UEhKQzJRUVIzRC4u)
 
 [Cuestionario de control #2](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQkxOT1NUM0RDUjVPQzRUNjZWSk9LQjg5NC4u) 
@@ -26,3 +27,6 @@ A continuación, se comparten las ligas para realizar los quizes con cuestionari
 [Cuestionario de control #8](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUMFlVNjBLNTZETTBEM0VNU1BESDIzVThSSi4u) 
  
 [Cuestionario de control #9](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUMlcwRkVJRTdKN043RkxBQjNFVlFTVjkwSy4u) 
+
+### Quiz opcional
+[Cuestionario de control #A](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAATmlbQZUQ0s1SlhZUFE0VENQRDlESURIRzU1Mjg3WS4u), sobre las prácticas recomendadas para programación y manejo de información en Ciencia de Datos.
