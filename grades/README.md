@@ -1,13 +1,11 @@
 # Calificaciones
-Se comparten las calificaciones considerando los puntos obtenidos hasta el día 31 de marzo de 2022.
-
-Aún se encuentran pendientes las siguientes actividades: un quiz de _papers_ sobre mejores práctivas para ciencia de datos, calificación a la tarea 9, el examen final y la revisión de actividades para puntos extras. Por lo anterior, la `calificación final` refleja el acumulado de puntos obtenidos hasta el momento y podría varirar de acuerdo a los resultados de las actividades pendientes.
+Se comparten las calificaciones considerando los puntos obtenidos hasta el día 6 de abril de 2022.
 
 <br>
 
 |ID.|Nombre|Exposiciones<br>(30%)|Quizes<br>(30%)|Tareas<br>(20%)|Examen final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|220981245|José Raúl Castro Esparza|100|100|90.9|0|0|__78.2__|
+|220981245|José Raúl Castro Esparza|100|100|90.9|0|5|__83.2__|
 |399515449|Martha Olivia Ramos Lara|100|100|90.9|0|0|__78.2__|
 |207595964|Carol Desireé Ramírez Durán|100|90.4|82.3|0|0|__73.6__|
 |211776124|César Iván Vargas López|100|82.2|82.3|0|0|__71.1__|
@@ -20,4 +18,10 @@ Aún se encuentran pendientes las siguientes actividades: un quiz de _papers_ so
 
 <br>
 
-En caso de cualquier duda, comentario o aclaración favor de contactar al maestro Víctor Cuspinera a través de Slack o al correo vcuspinera@gmail.com
+Aún se encuentran pendientes de considerar las siguientes actividades:
+ - __quiz A__ de los _papers_ sobre mejores práctivas para ciencia de datos,
+ - calificación de la __tarea 9__,
+ - el __examen final__, y
+ - la revisión de actividades para __puntos extras__.
+ 
+Por lo anterior, la `calificación final` refleja el acumulado de puntos obtenidos hasta el momento y podría varirar de acuerdo a los resultados de las actividades pendientes. En caso de cualquier duda, comentario o aclaración favor de contactar al maestro Víctor Cuspinera a través de Slack o al correo vcuspinera@gmail.com
