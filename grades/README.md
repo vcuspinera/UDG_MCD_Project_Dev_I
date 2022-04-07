@@ -22,4 +22,6 @@ Aún se encuentran pendientes de considerar las siguientes actividades:
  - el __examen final__, y
  - la revisión de actividades para __puntos extras__.
  
-Por lo anterior, la `calificación final` refleja el acumulado de puntos obtenidos hasta el momento y podría varirar de acuerdo a los resultados de las actividades pendientes. En caso de cualquier duda, comentario o aclaración favor de contactar al maestro Víctor Cuspinera a través de Slack o al correo vcuspinera@gmail.com
+Por lo anterior, la `calificación final` refleja el acumulado de puntos obtenidos hasta el momento y podría varirar de acuerdo a los resultados de las actividades pendientes. Para ver mayor detalle de las calificaciones para cada una de las actividades del curso: tareas, quizes, exposiciones, examen final y puntos extras, revisar el archivo en Excel [Calificaciones.xlsx](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Calificaciones.xlsx).  
+
+En caso de cualquier duda, comentario o aclaración favor de contactar al maestro Víctor Cuspinera a través de Slack o al correo vcuspinera@gmail.com

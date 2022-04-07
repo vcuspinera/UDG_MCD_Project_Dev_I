@@ -48,16 +48,23 @@ La compilación completa de referencias se encuentra en [la carpeta `docs` archi
     │
     ├── docs                     <- Carpeta con documentos como referencias, información 
     │   │                           adicional del curso y material de apoyo.
+    │   ├── README.md            <- Descripción de carpeta.
     │   ├── Material_curso.md    <- Información con indicacciones sobre el material del curso.  
     │   ├── Puntos_extras.md     <- Detalle de actividades como proyectos personales, voluntariados
     │   │                           y hackathones para obtener puntos extras en evaluación final.
     │   ├── Quizes.md            <- Ligas a los cuestionarios de control de lecturas.
+    │   ├── Referencias.md       <- Material de referencia del curso.
     │   ├── Tareas.md            <- Ligas a las tareas.
-    │   ├── Temario_IH602.md     <- Temario del curso para el semestre de primavera 2022.
-    │   └── Referencias.md       <- Material de referencia del curso.
+    │   └── Temario_IH602.md     <- Temario del curso para el semestre de primavera 2022.
     │
-    ├── src                      <- Carpeta con código de referencia apra el curso.
+    ├── grades                   <- Carpeta con calificaciones.
+    │   ├── README.md            <- Descripción de carpeta y resumen de calificaciones.
+    │   └── Calificaciones.pdf   <- Detalle de calificaciones de quizes, tareas, puntos extras, etc.
+    │
+    ├── img                      <- Carpeta con imágenes para el material compartido.
+    │
+    ├── src                      <- Carpeta con código de referencia.
     │   ├── logo_slack.Rmd       <- Código en R para generar logo de slack para el curso.
-    │   └── logo_slack.pdf       <- PDF de código para generar logo de slack para el curso.
+    │   └── logo_slack.pdf       <- PDF de código para generar logo de slack.
     │
-    └── img                      <- Carpeta con imágenes para el material compartido.
+    └── LICENSE                  <- File with the licence of the material on the repository.
