@@ -12,7 +12,7 @@ __Material base__
 - [Controles de lectura (_quizes_)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md)
 - [Tareas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Tareas.md)
 - [Material para proyectos con @Risk](https://www.dropbox.com/sh/i8mcs1ccutgp891/AADvhXit2qQV20OVecyxDch-a?dl=0)
-- [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Calificaciones.md)
+- [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 <br>
 
