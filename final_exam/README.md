@@ -110,7 +110,7 @@ En el repositorio de GitHub de [UDG_MCD_Project_Dev_II](https://github.com/vcusp
 ⚠️ _Nota: En caso de tener algún problema para enviar los archivos favor de contactarme a la brevedad vía slack o a través de mi correo vcuspinera@gmail.com_
 
 ## 📅 Deadline
-La fecha límite para enviar los entregables y subir sus resultados a GitHub es el día **miércoles, 11 de mayo de 2022** a las **23:59 hr.**  
+La fecha límite para enviar los entregables y subir sus resultados a GitHub es el día **domingo, 15 de mayo de 2022** a las **23:59 hr.**  
 
 ...en caso de compartir sus archivos o resultados posterior a esa fecha habrá una **penalización del 50%** sobre la calificación del examen final.  
 
