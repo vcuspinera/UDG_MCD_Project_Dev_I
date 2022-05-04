@@ -1,5 +1,5 @@
 # Reporte de resultados
-En este documento se comparten el detalle de los resultados del examen final para la materia de Desarrollo de Proyectos II de la Maestría en Ciencia de los Datos (MCD) de la Universidad de Guadalajara (UDG).
+En este documento se comparte el detalle de los resultados del examen final para la materia de Desarrollo de Proyectos II de la Maestría en Ciencia de los Datos (MCD) de la Universidad de Guadalajara (UDG).
 
 
 ## Información del equipo
