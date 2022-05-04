@@ -52,7 +52,7 @@ Dentro de la carpeta `final_exam` se encuentra un folder para cada equipo, donde
 ⚠️ _Nota:_ En caso de tener algún problema para subir alguno de los archivos, favor de contactarme a la brevedad vía slack o a través de mi correo vcuspinera@gmail.com  
 
 ## 📅 Deadline
-⚠️ La fecha límite para subir sus resultados es el día **11 de mayo de 2022 a las 23:59 hr.**  
+⚠️ La fecha límite para subir sus resultados es el día **miércoles, 11 de mayo de 2022** a las **23:59 hr.**  
 
 ...si suben sus resultados posterior a esa fecha, habrá una **penalidad del 50%**.
 
