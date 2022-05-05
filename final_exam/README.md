@@ -20,37 +20,37 @@ Considere el proyecto de lanzamiento de cierto producto al mercado cuyas tareas 
 |No. de tarea|Nombre de tarea|Duración|Predecesor|Recursos|
 |:---:|:---|:---:|:---:|:---|
 ||Lanzamiento del nuevo producto||||
-|1|Fase 1: Planeación||||
-|2|Identificar el equipo de lanzamiento|3||Ingeniería, Fabricación, Marketing, Ventas, Soporte Técnico, Servicio de campo|
-|3|Determinar los objetivos de ventas|2||Director de producto|
-|4|Determinar socios||||
-|5|Identificar socios del canal|4|3|Director de producto|
-|6|Identificar socios de ventas|2|3 y 5|Marketing|
-|7|Establecer presupuesto de lanzamiento||||
-|8|Identificar requisitos de presupuesto|2|5 y 6|Marketing|
-|9|Obtener aprobación del presupuesto de lanzamiento|2|8|Marketing|
-|10|Fase de planeación completada|0|9||
-|11|Fase 2: iniciación y preparación||||
-|12|Puesta en marcha|2|10|Director de producto|
-|13|Marketing||||
-|14|Definir el resumen creativo|3|12|Director de producto, Marketing, Ventas|
-|15|Preparar marco de trabajo de mensajería||||
-|16|Revisar información actual y planear nuevos requisitos|2|14|Director de producto|
-|17|Definir información de especificaciones de producto|3|14|Marketing|
-|18|Definir necesidades de comunicación internas|4|14|Servicio de campo|
-|19|Coordinar las fechas de lanzamiento del producto|3|14|Ingeniería|
-|20|Preparar la fabricación de acuerdo con los objetivos|3|14|Fabricación|
-|21|Plantear personal del equipo para apoyar a ventas|5|14|Ventas|
-|22|Fase de iniciación completada|0|16 a 21||
-|23|Fase 3 : Lanzamiento a fabricación||||
-|24|Certificar producto|4|22|Director de producto|
-|25|Fabricar el volumen planeado del producto|10|22|Fabricación|
-|26|Contratar y formar al personal de ventas|3|22, 24 y 25|Ventas|
-|27|Contratar y formar al personal de soporte de productos|2|26|Soporte Técnico|
-|28|Contratar y formar al personal del servicio de campo|2|26|Servicio de campo|
-|29|Realizar revisión de calidad final|3|27 y 28|Director de producto, Fabricación, Ingeniería, Marketing, Servicio de campo, Soporte Técnico, Ventas|
-|30|Lanzar producto|1|29|Director de producto|
-|31|Fase de lanzamiento finalizada|0|30||
+|1|**Fase 1: Planeación**||||
+|2| &emsp; Identificar el equipo de lanzamiento|3||Ingeniería, Fabricación, Marketing, Ventas, Soporte Técnico, Servicio de campo|
+|3| &emsp; Determinar los objetivos de ventas|2||Director de producto|
+|4| &emsp; **Determinar socios**||||
+|5| &emsp; &emsp; Identificar socios del canal|4|3|Director de producto|
+|6| &emsp; &emsp; Identificar socios de ventas|2|3 y 5|Marketing|
+|7| &emsp; **Establecer presupuesto de lanzamiento**||||
+|8| &emsp; &emsp; Identificar requisitos de presupuesto|2|5 y 6|Marketing|
+|9| &emsp; &emsp; Obtener aprobación del presupuesto de lanzamiento|2|8|Marketing|
+|10| &emsp; Fase de planeación completada|0|9||
+|11|**Fase 2: iniciación y preparación**||||
+|12|&emsp; Puesta en marcha|2|10|Director de producto|
+|13|&emsp; **Marketing**||||
+|14|&emsp; &emsp; Definir el resumen creativo|3|12|Director de producto, Marketing, Ventas|
+|15|&emsp; &emsp; **Preparar marco de trabajo de mensajería**||||
+|16|&emsp; &emsp; &emsp; Revisar información actual y planear nuevos requisitos|2|14|Director de producto|
+|17|&emsp; &emsp; &emsp; Definir información de especificaciones de producto|3|14|Marketing|
+|18|&emsp; &emsp; &emsp; Definir necesidades de comunicación internas|4|14|Servicio de campo|
+|19|&emsp; &emsp; &emsp; Coordinar las fechas de lanzamiento del producto|3|14|Ingeniería|
+|20|&emsp; &emsp; &emsp; Preparar la fabricación de acuerdo con los objetivos|3|14|Fabricación|
+|21|&emsp; &emsp; &emsp; Plantear personal del equipo para apoyar a ventas|5|14|Ventas|
+|22|&emsp; Fase de iniciación completada|0|16 a 21||
+|23|**Fase 3 : Lanzamiento a fabricación**||||
+|24|&emsp; Certificar producto|4|22|Director de producto|
+|25|&emsp; Fabricar el volumen planeado del producto|10|22|Fabricación|
+|26|&emsp; Contratar y formar al personal de ventas|3|22, 24 y 25|Ventas|
+|27|&emsp; Contratar y formar al personal de soporte de productos|2|26|Soporte Técnico|
+|28|&emsp; Contratar y formar al personal del servicio de campo|2|26|Servicio de campo|
+|29|&emsp; Realizar revisión de calidad final|3|27 y 28|Director de producto, Fabricación, Ingeniería, Marketing, Servicio de campo, Soporte Técnico, Ventas|
+|30|&emsp; Lanzar producto|1|29|Director de producto|
+|31|&emsp; Fase de lanzamiento finalizada|0|30||
 
 En dicha tabla, se describe la duración de cada tarea, así como la relación de sus predecesoras y los recursos (equipos de trabajo) que utiliza, para los cuales se tienen los siguientes costos:
 
