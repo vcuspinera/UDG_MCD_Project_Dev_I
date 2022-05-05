@@ -24,23 +24,23 @@ Considere el proyecto de lanzamiento de cierto producto al mercado cuyas tareas 
 |2| &emsp; Identificar el equipo de lanzamiento|3||Ingeniería, Fabricación, Marketing, Ventas, Soporte Técnico, Servicio de campo|
 |3| &emsp; Determinar los objetivos de ventas|2||Director de producto|
 |4| &emsp; **Determinar socios**||||
-|5| &emsp; &emsp; Identificar socios del canal|4|3|Director de producto|
-|6| &emsp; &emsp; Identificar socios de ventas|2|3 y 5|Marketing|
+|5| &emsp; Identificar socios del canal|4|3|Director de producto|
+|6| &emsp; Identificar socios de ventas|2|3 y 5|Marketing|
 |7| &emsp; **Establecer presupuesto de lanzamiento**||||
-|8| &emsp; &emsp; Identificar requisitos de presupuesto|2|5 y 6|Marketing|
-|9| &emsp; &emsp; Obtener aprobación del presupuesto de lanzamiento|2|8|Marketing|
+|8| &emsp; Identificar requisitos de presupuesto|2|5 y 6|Marketing|
+|9| &emsp; Obtener aprobación del presupuesto de lanzamiento|2|8|Marketing|
 |10| &emsp; Fase de planeación completada|0|9||
 |11|**Fase 2: iniciación y preparación**||||
 |12|&emsp; Puesta en marcha|2|10|Director de producto|
 |13|&emsp; **Marketing**||||
-|14|&emsp; &emsp; Definir el resumen creativo|3|12|Director de producto, Marketing, Ventas|
-|15|&emsp; &emsp; **Preparar marco de trabajo de mensajería**||||
-|16|&emsp; &emsp; &emsp; Revisar información actual y planear nuevos requisitos|2|14|Director de producto|
-|17|&emsp; &emsp; &emsp; Definir información de especificaciones de producto|3|14|Marketing|
-|18|&emsp; &emsp; &emsp; Definir necesidades de comunicación internas|4|14|Servicio de campo|
-|19|&emsp; &emsp; &emsp; Coordinar las fechas de lanzamiento del producto|3|14|Ingeniería|
-|20|&emsp; &emsp; &emsp; Preparar la fabricación de acuerdo con los objetivos|3|14|Fabricación|
-|21|&emsp; &emsp; &emsp; Plantear personal del equipo para apoyar a ventas|5|14|Ventas|
+|14|&emsp; Definir el resumen creativo|3|12|Director de producto, Marketing, Ventas|
+|15|&emsp; **Preparar marco de trabajo de mensajería**||||
+|16|&emsp; Revisar información actual y planear nuevos requisitos|2|14|Director de producto|
+|17|&emsp; Definir información de especificaciones de producto|3|14|Marketing|
+|18|&emsp; Definir necesidades de comunicación internas|4|14|Servicio de campo|
+|19|&emsp; Coordinar las fechas de lanzamiento del producto|3|14|Ingeniería|
+|20|&emsp; Preparar la fabricación de acuerdo con los objetivos|3|14|Fabricación|
+|21|&emsp; Plantear personal del equipo para apoyar a ventas|5|14|Ventas|
 |22|&emsp; Fase de iniciación completada|0|16 a 21||
 |23|**Fase 3 : Lanzamiento a fabricación**||||
 |24|&emsp; Certificar producto|4|22|Director de producto|
