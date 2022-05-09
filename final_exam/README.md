@@ -17,7 +17,7 @@ El examen final de la materia de _Desarrollo de Proyectos II_ tiene un valor del
 
 Considere el proyecto de lanzamiento de cierto producto al mercado cuyas tareas están enlistadas de la siguiente manera:
 
-|No. de tarea|Nombre de tarea|Duración|Predecesor|Recursos|
+|No. de tarea|Nombre de tarea|Duración (en días) |Predecesor|Recursos|
 |:---:|:---|:---:|:---:|:---|
 ||Lanzamiento del nuevo producto||||
 |1|**Fase 1: Planeación**||||
