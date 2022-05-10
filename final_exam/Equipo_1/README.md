@@ -29,8 +29,11 @@ Por tal motivo, la fecha de terminación sería establecida para el 26/Agosto/20
 
 2. **¿Cuál es el riesgo de no terminar al 15 de septiembre del 2022 cuando consideramos los riesgos y variaciones expuestas anteriormente?**  
 
-Explicación de respuesta a pregunta 2.
+De acuerdo al histograma de frecuencias en @RISK obtenido para este proyecto en su fecha de terminación tenemos:
 
+<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_1/Grafico_2.png">
+
+Así, la probabilidad de no terminar al 15/Sep/2022 es del 9.8%
 
 3. **Proporcione un intervalo del 95% para el costo de todo el proyecto.**
 
