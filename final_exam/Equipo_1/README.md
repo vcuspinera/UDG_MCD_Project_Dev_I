@@ -43,7 +43,16 @@ Con una confianza del 95% podemos decir que el costo del proyecto estará entre 
 
 4. **¿Cuáles son aquellos 3 riesgos que más impactan en la variabilidad de la fecha de terminación? Explique a detalle en función del gráfico que soporta su respuesta.**  
 
-Explicación de respuesta a pregunta 4.
+Al obtener el diagrama de tornado correspondiente tenemos:
+
+<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_1/Grafico_4.png">
+
+Por consiguiente, los tres componentes de riesgo que impactan más en la variabilidad de la fecha de entrega son:
+1)	Tener personal inadecuado
+2)	Disponibilidad de materiales
+3)	Permiso de registro
+
+Entre todos ellos, suman un total del 79.7% de la variabilidad (lo cual de acuerdo a la regla de Pareto representa el 80% que se captura en casi el 20% del total desplegado en la lista).
 
 
 5. **¿Qué tan probable es que la Fase 2 tarde menos de 40 días?**  
