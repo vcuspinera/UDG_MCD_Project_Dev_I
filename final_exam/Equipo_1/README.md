@@ -37,8 +37,9 @@ Así, la probabilidad de no terminar al 15/Sep/2022 es del 9.8%
 
 3. **Proporcione un intervalo del 95% para el costo de todo el proyecto.**
 
-Explicación de respuesta a pregunta 3.
+Con una confianza del 95% podemos decir que el costo del proyecto estará entre $102,231 y $129,459, de acuerdo al histograma obtenido para el costo total del proyecto siguiente:
 
+<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_1/Grafico_3.png">
 
 4. **¿Cuáles son aquellos 3 riesgos que más impactan en la variabilidad de la fecha de terminación? Explique a detalle en función del gráfico que soporta su respuesta.**  
 
