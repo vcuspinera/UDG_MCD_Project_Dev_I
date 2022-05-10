@@ -57,14 +57,15 @@ Entre todos ellos, suman un total del 79.7% de la variabilidad (lo cual de acuer
 
 5. **¿Qué tan probable es que la Fase 2 tarde menos de 40 días?**  
 
-Explicación de respuesta a pregunta 5.
+La probabilidad de que la fase 2 tarde menos de 40 días es del 88.5%, de acuerdo al histograma de frecuencias de la salida asociada a esta variable, como se puede ver a continuación:
 
-
+<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_1/Grafico_5.png">
 
 6. **¿Qué fue lo que más le gustó de este curso?, ¿qué fue lo que menos le gustó?, y ¿qué mejoras sugiere hacer para que este curso sea más enriquecedor en la formación de quienes cursen esta maestría?**
 
-Lo que más me gustó...
+Lo que más nos gustó del curso fue la flexibilidad por parte del profesor para responder dudas y compartir su conocimiento en diversas áreas. Siempre hubo una actitud positiva al trabajo en equipo, lo cual favoreció el aprendizaje. Asimismo, la opción de puntos extras fue una idea excelente, que desafortunadamente muy pocos supieron aprovechar.
 
-Lo que menos me gustó...
+En lo referente a lo que menos nos gustó podemos mencionar las prórrogas de último minuto y cambios en fechas de entrega, derivadas del poco trabajo que algunos tuvieron a lo largo del curso. No es culpa del profesor que en muchos casos no se asistía a clase o se hacía caso omiso a las indicaciones sobre @RISK para estar a la par con lo que se estaba explicando. 
 
-Mis sugerencias...
+Recomendacion: Creemos que debería existir mayor exigencia en ese sentido.
+
