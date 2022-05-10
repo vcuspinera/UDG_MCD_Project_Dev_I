@@ -13,7 +13,7 @@ Integrantes:
 
 
 ## Descripción del problema
-Aquí incluir una breve descripción del problema considerando de 1 o 2 párrafos.
+En este examen se considera un proyecto de lanzamiento de cierto producto al mercado en donde se enlistan las tareas inivolucradas, su orden de precedencia, las variaciones a que están expuestas en sus duraciones y los riesgos adicionales que se pueden experimentar. Asimismo, se incliuyen los costo asociados a los recursos que se utilizan para dicho fin.
 
 
 ## Respuestas
