@@ -21,9 +21,11 @@ Con base en la información anterior y mediante el uso de @RISK con 10,000 escen
 
 1. **¿Cuál es la fecha estimada y costo de terminación para dicho lanzamiento, asumiendo que las cosas salen de acuerdo a lo planeado (sin variaciones) y laborando de lunes a viernes? Elabore un Diagrama de Gantt que muestre la planificación de este proyecto de manera detallada.**  
 
-Explicación de respuesta a pregunta 1.
+El modelo desarrollado en @RISK se puede apreciar en las siguientes imágenes (donde las celdas de color azul representan variables aleatorias de entrada, y las rojas son variables de salida):
 
+<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_1/Grafico_1.png">
 
+Por tal motivo, la fecha de terminación sería establecida para el 26/Agosto/2022
 
 2. **¿Cuál es el riesgo de no terminar al 15 de septiembre del 2022 cuando consideramos los riesgos y variaciones expuestas anteriormente?**  
 
