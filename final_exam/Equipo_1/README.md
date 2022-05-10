@@ -63,9 +63,9 @@ La probabilidad de que la fase 2 tarde menos de 40 días es del 88.5%, de acuerd
 
 6. **¿Qué fue lo que más le gustó de este curso?, ¿qué fue lo que menos le gustó?, y ¿qué mejoras sugiere hacer para que este curso sea más enriquecedor en la formación de quienes cursen esta maestría?**
 
-Lo que más nos gustó del curso fue la flexibilidad por parte del profesor para responder dudas y compartir su conocimiento en diversas áreas. Siempre hubo una actitud positiva al trabajo en equipo, lo cual favoreció el aprendizaje. Asimismo, la opción de puntos extras fue una idea excelente, que desafortunadamente muy pocos supieron aprovechar.
+Lo que más nos gustó del curso fue la flexibilidad por parte del profesor para responder dudas y compartir su conocimiento en diversas áreas. Siempre hubo una actitud positiva al trabajo en equipo, lo cual favoreció el aprendizaje. Asimismo, la opción de puntos extras fue una idea excelente.
 
-En lo referente a lo que menos nos gustó podemos mencionar las prórrogas de último minuto y cambios en fechas de entrega, derivadas del poco trabajo que algunos tuvieron a lo largo del curso. No es culpa del profesor que en muchos casos no se asistía a clase o se hacía caso omiso a las indicaciones sobre @RISK para estar a la par con lo que se estaba explicando. 
+En lo referente a lo que menos nos gustó podemos mencionar los cambios de último minuto. 
 
-Recomendacion: Creemos que debería existir mayor exigencia en ese sentido.
+Recomendacion: En lo general podrían definirse fechas de entrega desde el inicio del curso para no andar con prisas al final del semestre y asi evitar posibles cambios.
 
