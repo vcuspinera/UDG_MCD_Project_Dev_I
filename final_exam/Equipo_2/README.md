@@ -74,10 +74,13 @@ Una solución es definir el total de días con riesgos y variaciones para la fas
 - Omdena, se podría llevar un proyecto a la par con la materia en lugar de quizes y controles de lectura 
 
 *Lo que menos*
-- Demasiada memorización de términos del PMBOK que si bien son importantes, el reforzamiento es tedioso y abrumador
-- Mucho enfoque téorico y poco práctico, tal vez alguna dinámica con metodologías ágiles ayudaría
+- Demasiada memorización de términos del PMBOK que si bien son importantes, el reforzamiento es tedioso y abrumador. 
+- Mucho enfoque téorico y poco práctico
 - El sistema de administración de información, es más fácil utilizar algo centralizado como classroom que dropbox + slack + github
 
-
-
+*Mejoras*  
+ * Tal vez alguna dinámica con metodologías ágiles ayudaría
+ * Tener invitados que estén en la parte de producción estaría increíble 
+ * Hacer los procesos de @risk y Project en Python o cualquier otro software libre
+ * El tiempo de quizes y controles de lectura se podría ocupar en casos prácticos
 
