@@ -67,6 +67,9 @@ Utilizar la celda del total de total de impacto por riesgos para visualizar su d
 **5. ¿Qué tan probable es que la fase 2 tarde menos de 40 días?**   
 Una solución es definir el total de días con riesgos y variaciones para la fase 2 y visualizar su distribución, pero revisando las tareas de tal fase se tiene que durante 10 días con solo 3 tareas que contribuyen a la ruta crítica (marcadas en rojo en la hoja de Excel) que pueden variar +/- 2 días y que no se ven afectadas por los riesgos de tal forma que con estos números siempre cae en una duración de menos de 40 días.     
 
+Aún considerando un total de días (sin tomar en cuenta ruta crítica) el total es menor a 40 días con las condiciones de media y desviación estándar utilizadas para el experimento aunque se observa que a una desviación mayor aumenta la duración de la tarea. Se incluye la imagen obtenida sin ruta crítica
+
+![fase 2 40 dias](https://user-images.githubusercontent.com/98497219/168516548-586769e0-c0be-432a-b3f6-f6c21da34e73.jpg)
 
 **6. ¿Qué fue lo que más le gustó del curso?, ¿qúe fue lo que menos le gusto?, ¿mejoras?**     
 *lo que más*  
@@ -77,10 +80,12 @@ Una solución es definir el total de días con riesgos y variaciones para la fas
 - Demasiada memorización de términos del PMBOK que si bien son importantes, el reforzamiento es tedioso y abrumador. 
 - Mucho enfoque téorico y poco práctico
 - El sistema de administración de información, es más fácil utilizar algo centralizado como classroom que dropbox + slack + github
+- Demasiado control sobre las lecturas
 
 *Mejoras*  
  * Tal vez alguna dinámica con metodologías ágiles ayudaría
  * Tener invitados que estén en la parte de producción estaría increíble 
  * Hacer los procesos de @risk y Project en Python o cualquier otro software libre
  * El tiempo de quizes y controles de lectura se podría ocupar en casos prácticos
+ * El programa pudiera enfocarse a desarrollar proyectos de ciencia de datos y reducir la parte administrativa y de soporta a lo mínimo necesario
 
