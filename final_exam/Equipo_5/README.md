@@ -17,7 +17,6 @@ Integrantes:
 
 R. Que termine el proyecto el 28 de agosto 2022 con un costo 48,200 
 
-<img src="https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/final_exam/Equipo_5/Captura%20de%20Pantalla%202022-05-12%20a%20la(s)%2016.12.03.png">
  
 2. ¿Cuál es el riesgo de no terminar al 15 de septiembre del 2022 cuando consideramos los riesgos y variaciones expuestas anteriormente?
 
@@ -37,6 +36,7 @@ Por último, la contratación del personal de ventas, podría ser la primera, ll
 
 5. ¿Qué tan probable es que la Fase 2 tarde menos de 40 días?
  
+
 
 6. ¿Qué fue lo que más le gustó de este curso?, ¿qué fue lo que menos le gustó?, y ¿qué mejoras sugiere hacer para que este curso sea más enriquecedor en la formación de quienes cursen esta maestría?
 
