@@ -1,5 +1,5 @@
 # Calificaciones
-Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad al día 11 de mayo de 2022.
+Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad al día 16 de mayo de 2022.
 
 <br>
 
@@ -12,7 +12,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |220981202|Pedro Martínez Ayala|30|23.6|20|0|0|__73.6__|
 |398813438|Afra Julieta Lomelí Avila|30|30|20|0|0|__80.0__|
 |220981261|Mónica Alonso Soria|30|15.7|18.3|0|0|__64.0__|
-|220981296|Mario Palomino Hernández|30|24.7|18.3|0|0|__73.0__|
+|220981296|Mario Palomino Hernández|30|24.7|18.3|0|10|__83.0__|
 |220981229|Luis Enrique Neri González|25.5|19.3|18|0|0|__62.8__|
 |220981288|Carlos Samuel Cruz Mariscal|30|26.3|18|0|5|__79.3__|
 
