@@ -1,5 +1,5 @@
 # Calificaciones
-Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad al día 18 de mayo de 2022.
+Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad al día 21 de mayo de 2022.
 
 <br>
 
@@ -12,17 +12,14 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |220981202|Pedro Martínez Ayala|30|23.6|20|0|0|__73.6__|
 |398813438|Afra Julieta Lomelí Avila|30|30|20|0|0|__80.0__|
 |220981261|Mónica Alonso Soria|30|15.7|18.3|15|0|__79.0__|
-|220981296|Mario Palomino Hernández|30|24.7|18.3|15|10|__98.0__|
+|220981296|Mario Palomino Hernández|30|24.7|18.3|15|15|__100.0__|
 |220981229|Luis Enrique Neri González|25.5|19.3|18|20|0|__82.8__|
 |220981288|Carlos Samuel Cruz Mariscal|30|26.3|18|20|5|__99.3__|
 
 <br>
-
-Aún se encuentran pendientes de considerar las siguientes actividades:
- - la revisión de actividades para __puntos extras__.
  
-Por lo anterior, la `calificación final` refleja el puntaje acumulado obtenido hasta el momento y podría varirar de acuerdo a los resultados de las actividades pendientes. Estos puntajes ya se encuentran ponderados por actividad, es decir, si el alumno sacó en promedio 100 en tareas debido a que esta actividad tiene una ponderación del 30% entonces tendrá 30 puntos para esa actividad.  
+Por lo anterior, la `calificación final` refleja el puntaje acumulado obtenido durante el curso. Los puntajes ya se encuentran ponderados por actividad, es decir, si el alumno sacó en promedio 75.0 en tareas debido a que esta actividad tiene una ponderación del 20% entonces tendrá 15 puntos para esa actividad.  
 
-Para ver mayor detalle de las calificaciones para cada una de las actividades del curso por alumno (tareas, quizes, exposiciones, examen final y puntos extras) recomiendo revisar el [archivo en Excel `Calificaciones.xlsx`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Calificaciones.xlsx).  
+Recomiendo revisar el archivo [archivo en Excel `Calificaciones.xlsx`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Calificaciones.xlsx) para ver mayor detalle de las calificaciones para cada una de las actividades del curso por alumno (tareas, quizes, exposiciones, examen final y puntos extras).  
 
-En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través de Slack o al correo vcuspinera@gmail.com
+En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través del correo vcuspinera@gmail.com
