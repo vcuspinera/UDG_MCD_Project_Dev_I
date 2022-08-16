@@ -11,12 +11,12 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 ## Detalles de la materia
 
 ### Curso
-Nombre: Desarrollo de Proyectos II
-NRC: 182400
-Clave: IH602
-Ciclo escolar: 2022-B (sem. otoño)
-Horario: Miércoles de 18:00 a 21:00 hr.
-Fechas: de agosto a diciembre 2022
+Nombre: Desarrollo de Proyectos II  
+NRC: 182400  
+Clave: IH602  
+Ciclo escolar: 2022-B (sem. otoño)  
+Horario: Miércoles de 18:00 a 21:00 hr.  
+Fechas: de agosto a diciembre 2022  
 
 ### Profesor
 
