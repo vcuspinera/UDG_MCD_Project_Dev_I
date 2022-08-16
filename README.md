@@ -30,15 +30,15 @@ Cualquier duda, aclaración o comentario sobre el material de este repositorio p
 Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
-|:----:|:----:|:----:|:-----:|
-|213388296 |CAROL MIROSLAVA CASTAÑEDA MARTINEZ |carol.castaneda3882@alumnos.udg.mx | |
-|221310808 |JORGE GOMEZ CERVANTES |jorge.gomez1080@alumnos.udg.mx | |
-|220981326 |ROSA GUADALUPE GUERRERO HERRERA |rosa.guerrero8132@alumnos.udg.mx | |
-|221310778 |RICARDO RODOLFO GUTIERREZ ROQUE |ricardo.gutierrez1077@alumnos.udg.mx | |
-|221310727 |ESTHER MORENO TELLEZ |esther.moreno1072@alumnos.udg.mx | |
-|221310786 |JUAN PATRICIO OROZCO GARCIA |juan.orozco1078@alumnos.udg.mx | |
-|211680429 |CRISTIAN OMAR RUIZ RINCON |cristian.ruiz8042@alumnos.udg.mx | |
-|221310743 |EDUARDO SANCHEZ ZAVALA |eduardo.sanchez1074@alumnos.udg.mx | |
+|:----:|:----:|:----:|:-----:|:-----:|
+|213388296 |CAROL MIROSLAVA CASTAÑEDA MARTINEZ |carol.castaneda3882@alumnos.udg.mx | | |
+|221310808 |JORGE GOMEZ CERVANTES |jorge.gomez1080@alumnos.udg.mx | | |
+|220981326 |ROSA GUADALUPE GUERRERO HERRERA |rosa.guerrero8132@alumnos.udg.mx | | |
+|221310778 |RICARDO RODOLFO GUTIERREZ ROQUE |ricardo.gutierrez1077@alumnos.udg.mx | | |
+|221310727 |ESTHER MORENO TELLEZ |esther.moreno1072@alumnos.udg.mx | | |
+|221310786 |JUAN PATRICIO OROZCO GARCIA |juan.orozco1078@alumnos.udg.mx | | |
+|211680429 |CRISTIAN OMAR RUIZ RINCON |cristian.ruiz8042@alumnos.udg.mx | | |
+|221310743 |EDUARDO SANCHEZ ZAVALA |eduardo.sanchez1074@alumnos.udg.mx | | |
 
 
 ## Introducción
