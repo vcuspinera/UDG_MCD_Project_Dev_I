@@ -8,23 +8,49 @@ _⚠️ Note: the material of this repository would be shared mainly in Spanish.
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Profesor
+## Detalles de la materia
+
+### Curso
+Nombre: Desarrollo de Proyectos II
+NRC: 182400
+Clave: IH602
+Ciclo escolar: 2022-B (sem. otoño)
+Horario: Miércoles de 18:00 a 21:00 hr.
+Fechas: de agosto a diciembre 2022
+
+### Profesor
 
 Cualquier duda, aclaración o comentario sobre el material de este repositorio pueden contactarme a través de los siguientes canales:
 
-|Nombre |Correo electrónico |Usuario GitHub| Página web |
+|Nombre |e-mail |GitHub user| Página web |
 |:----:|:----:|:-----:|:-----:|
-|Victor Cuspinera | vcuspinera@gmail.com | [vcuspinera](https://github.com/vcuspinera) | [<img src="https://raw.githubusercontent.com/vcuspinera/Canada_response_covid/8d616c02dcdf9a0362a6f8ecb98471eae8f0e28b/img/logo_vcuspinera.png" width=20%/>](https://vcuspinera.github.io) |
+|VICTOR CUSPINERA | vcuspinera@gmail.com | [vcuspinera](https://github.com/vcuspinera) | [<img src="https://raw.githubusercontent.com/vcuspinera/Canada_response_covid/8d616c02dcdf9a0362a6f8ecb98471eae8f0e28b/img/logo_vcuspinera.png" width=20%/>](https://vcuspinera.github.io) |
+
+### Alumnos
+Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
+
+|Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
+|:----:|:----:|:----:|:-----:|
+|213388296 |CAROL MIROSLAVA CASTAÑEDA MARTINEZ |carol.castaneda3882@alumnos.udg.mx | |
+|221310808 |JORGE GOMEZ CERVANTES |jorge.gomez1080@alumnos.udg.mx | |
+|220981326 |ROSA GUADALUPE GUERRERO HERRERA |rosa.guerrero8132@alumnos.udg.mx | |
+|221310778 |RICARDO RODOLFO GUTIERREZ ROQUE |ricardo.gutierrez1077@alumnos.udg.mx | |
+|221310727 |ESTHER MORENO TELLEZ |esther.moreno1072@alumnos.udg.mx | |
+|221310786 |JUAN PATRICIO OROZCO GARCIA |juan.orozco1078@alumnos.udg.mx | |
+|211680429 |CRISTIAN OMAR RUIZ RINCON |cristian.ruiz8042@alumnos.udg.mx | |
+|221310743 |EDUARDO SANCHEZ ZAVALA |eduardo.sanchez1074@alumnos.udg.mx | |
 
 
 ## Introducción
-En este repositorio se compartirá material complementario para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, control de versiones y trabajo colaborativo.
+En este repositorio se compartirá material para los alumnos del curso _Desarrollo de proyectos II_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, administración de control de versiones y trabajo colaborativo.
 
 ## Material del curso
 
+# PENDIENTE DESDE AQUI !!!!!!!!!!!!!!
+
 __Repositorios__
 - [Dropbox del curso](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0)
-- [Repositorio de GitHub `UDG_MCD_Project_Dev_II`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
+- [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
 
 __Material base__
 - [Temario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Temario_IH602.pdf)
