@@ -34,14 +34,14 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
 |:----:|:----:|:----:|:-----:|:-----:|
-|213388296 |Carol Castañeda | [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | | |
-|221310808 |Jorge Gomez |[jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | | |
-|220981326 |Rosa Guadalupe Guerrero|[rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | | |
-|221310778 |Ricardo Gutiérrez |[ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | | |
-|221310727 |Esther Moreno|[esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) | | |
-|221310786 |Patricio Orozco |[juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | | |
-|211680429 |Cristian Omar Ruiz |[cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | | |
-|221310743 |Eduardo Sánchez|[eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) | | |
+|213388296 |Carol Castañeda | [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) |carol.castaneda3882@alumnos.udg.mx |Carol-Castaneda |
+|221310808 |Jorge Gomez |[jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) |jore.gc@gmail.com |joregc |
+|220981326 |Rosa Guerrero|[rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) |rosy.gue.her@gmail.com |RosaGuerrero05 |
+|221310778 |Ricardo Gutiérrez |[ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) |rgutierrezroque@gmail.com |rgutierrezroqueudg |
+|221310727 |Esther Moreno|[esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) |esthermo90@gmail.com | |
+|221310786 |Patricio Orozco |[juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) |patricio.orozco@outlook.com | |
+|211680429 |Cristian Omar Ruiz |[cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) |cristian.ruiz8042@alumnos.udg.mx |CrisRuizRn |
+|221310743 |Eduardo Sánchez|[eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) |esz1911@gmail.com | |
 
 ## Evaluación
 Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
@@ -116,11 +116,11 @@ __Material extendido__
 Para mayor detalle de la bibliografía del curso, revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Referencias.md).
 
 ## Organización de carpetas
-    ├── actividades             <- Carpeta con actividades del curso.
+    ├── proyectos               <- Carpeta con proyectos del curso.
     │   ├── eda_analysis        <- Carpeta para proyecto con análisis exploratiorio.
     │   └── final_eval          <- Carpeta para proyecto final de la materia.
     │
-    ├── actividades                  <- Carpeta con material para el curso
+    ├── actividades             <- Carpeta con actividades y material para el curso.
     │   ├── data                <- Descripción de carpeta.
     │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
