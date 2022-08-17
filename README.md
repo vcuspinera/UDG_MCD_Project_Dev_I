@@ -47,43 +47,44 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
 
 ### ✏️ Evaluación general
-|Descripción| Porcentaje|
-|:---|:---:|
-|1) Presentaciones<br>*Exposición de alumnos sobre el material del libro.*| 20%|
-|2) Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
-|3) Actividades<br>*Replicar actividades vistas en clase.*| 20%|
-|4) Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
-|5) Proyecto final<br>*Proyecto integral al cierre de curso.*| 20%|
-|**Total**| **100%**|
+|#|Descripción| Porcentaje|
+|---|:---|:---:|
+|1| Presentaciones<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
+|2| Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
+|3| Actividades<br>*Replicar actividades vistas en clase.*| 20%|
+|4| Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
+|5| Proyecto final<br>*Proyecto integral al cierre de curso.*| 20%|
+| |**Total**| **100%**|
 
 
 ### ⭐️ Puntos extras
-|Descripción| Porcentaje|
-|:---|:---:|
-|A) Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|
-|B) Publicación <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de <br>datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
-|C) Voluntariado <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
-|D) Eventos <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
+|#|Descripción| Porcentaje|
+|---|:---|:---:|
+|A| Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|
+|B| Publicación <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de <br>datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
+|C| Voluntariado <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
+|D| Eventos <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
 ⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un mácimo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.*
 
 ## Material del curso
+Esta es una vista general sobre el material del curso, para mayor detalle revisar los links correspondientes.
 
 ### Clases 
 
 El material y actividades por clase se enlistan a continuación:
 
 |#| Fecha| Tema | Material y/o actividad |
-|:---:|:---:|:---|:---|
-|01| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
-|02| 2022-08-24| Pendiente | |
-|03| 2022-08-31| Pendiente| |
-|04| 2022-09-07| Pendiente| |
-|05| 2022-09-14| Pendiente| |
-|06| 2022-09-21| Pendiente| |
-|07| 2022-09-28| Pendiente| |
-|08| 2022-10-05| Pendiente| |
-|09| 2022-10-12| Pendiente| |
+|---:|:---:|:---|:---|
+|1| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
+|2| 2022-08-24| Pendiente | |
+|3| 2022-08-31| Pendiente| |
+|4| 2022-09-07| Pendiente| |
+|5| 2022-09-14| Pendiente| |
+|6| 2022-09-21| Pendiente| |
+|7| 2022-09-28| Pendiente| |
+|8| 2022-10-05| Pendiente| |
+|9| 2022-10-12| Pendiente| |
 |10| 2022-10-19| Pendiente| |
 |11| 2022-10-26| Pendiente| |
 |12| 2022-11-02| Pendiente| |
@@ -125,7 +126,7 @@ Para mayor detalle revisar el documento de [`Referencias.md`](https://github.com
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
     │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API
     │   ├── src                 <- Carpeta con programas y código.
-    │   ├── material            <- Carpeta con material para el curso.
+    │   └── material            <- Carpeta con material para el curso.
     │       ├── Libro_PMI-RMP   <- Carpeta del libro de Riesgo de *Project Managment*.
     │       └── Papers          <- Carpeta con papers a revisar en clases.
     │
