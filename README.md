@@ -53,17 +53,17 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 |2) Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
 |3) Actividades<br>*Replicar actividades vistas en clase.*| 20%|
 |4) Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
-|5) Proyecto final| 20%|
+|5) Proyecto final<br>*Proyecto integral al cierre de curso.*| 20%|
 |**Total**| **100%**|
 
 
 ### ⭐️ Puntos extras
 |Descripción| Porcentaje|
 |:---|:---:|
-|A) Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, redes sociales u otro canal.*| 5%|
-|B) Publicación <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
-|C) Voluntariado <br> *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
-|D) Eventos <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
+|A) Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|
+|B) Publicación <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de <br>datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
+|C) Voluntariado <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
+|D) Eventos <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
 ⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un mácimo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.*
 
