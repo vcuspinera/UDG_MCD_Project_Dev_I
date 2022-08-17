@@ -1,4 +1,4 @@
-<img src="clases/img/logo_slack.png" width="160" align = "right">
+<img src="actividades/img/logo_slack.png" width="160" align = "right">
 
 # Project Development II
 _Material for the course Desarrollo de Proyectos II (Project Development II) of the Master of Data Science at Universidad de Guadalajara._  
@@ -70,7 +70,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ## Material del curso
 Esta es una vista general sobre el material del curso, para mayor detalle revisar los links correspondientes.
 
-### Clases 
+### Actividades 
 
 El material y actividades por clase se enlistan a continuación:
 
@@ -103,32 +103,32 @@ __Canales principales__
 
 __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)
-- [Clases](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases)
-- [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Libro_PMI-RMP)
+- [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades)
+- [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Libro_PMI-RMP)
 - [Tests de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 __Material extendido__
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
-- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Papers)
+- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers)
 
 Para mayor detalle de la bibliografía del curso, revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Referencias.md).
 
 ## Organización de carpetas
     ├── actividades             <- Carpeta con actividades del curso.
-    │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.
     │   ├── eda_analysis        <- Carpeta para proyecto con análisis exploratiorio.
     │   └── final_eval          <- Carpeta para proyecto final de la materia.
     │
-    ├── clases                  <- Carpeta con material para el curso
+    ├── actividades                  <- Carpeta con material para el curso
     │   ├── data                <- Descripción de carpeta.
+    │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
     │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API
     │   ├── src                 <- Carpeta con programas y código.
     │   └── material            <- Carpeta con material para el curso.
     │       ├── Libro_PMI-RMP   <- Carpeta del libro de Riesgo de *Project Managment*.
-    │       └── Papers          <- Carpeta con papers a revisar en clases.
+    │       └── Papers          <- Carpeta con papers a revisar en actividades.
     │
     ├── grades                  <- Carpeta con calificaciones del curso.
     │
