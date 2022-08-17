@@ -101,16 +101,12 @@ __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
 - [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
 
-<br>
-
 __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)
 - [Clases](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases)
 - [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Libro_PMI-RMP)
 - [Tests de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
-
-<br>
 
 __Material extendido__
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Puntos_extras.md)
