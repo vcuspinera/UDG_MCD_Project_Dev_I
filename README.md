@@ -15,11 +15,9 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 
 |Nombre | Desarrollo de Proyectos II |
 |:----:|:----:|
-|NRC |182400 | 
 |Clave |IH602 | 
-|Ciclo escolar |2022-B (sem. otoño) | 
+|Ciclo escolar |2022-B (otoño) | 
 |Horario |Miércoles de 18 a 21 hr. | 
-|Fechas |Agosto a diciembre 2022 | 
 |Medio |Virtual | 
 |Liga clase|[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/82510744015) |
 
@@ -36,23 +34,22 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
 |:----:|:----:|:----:|:-----:|:-----:|
-|213388296 |Carol Castañeda | [carol.castaneda3882](carol.castaneda3882@alumnos.udg.mx) | | |
-|221310808 |Jorge Gomez |[jorge.gomez1080](jorge.gomez1080@alumnos.udg.mx) | | |
-|220981326 |Rosa Guadalupe Guerrero|[rosa.guerrero8132](rosa.guerrero8132@alumnos.udg.mx) | | |
-|221310778 |Ricardo Gutiérrez |[ricardo.gutierrez1077](ricardo.gutierrez1077@alumnos.udg.mx) | | |
-|221310727 |Esther Moreno|[esther.moreno1072](esther.moreno1072@alumnos.udg.mx) | | |
-|221310786 |Patricio Orozco |[juan.orozco1078](juan.orozco1078@alumnos.udg.mx) | | |
-|211680429 |Cristian Omar Ruiz |[cristian.ruiz8042](cristian.ruiz8042@alumnos.udg.mx) | | |
-|221310743 |Eduardo Sánchez|[eduardo.sanchez1074](eduardo.sanchez1074@alumnos.udg.mx) | | |
+|213388296 |Carol Castañeda | [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | | |
+|221310808 |Jorge Gomez |[jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | | |
+|220981326 |Rosa Guadalupe Guerrero|[rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | | |
+|221310778 |Ricardo Gutiérrez |[ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | | |
+|221310727 |Esther Moreno|[esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) | | |
+|221310786 |Patricio Orozco |[juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | | |
+|211680429 |Cristian Omar Ruiz |[cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | | |
+|221310743 |Eduardo Sánchez|[eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) | | |
 
 ## Evaluación
-Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
+Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
 
 ### ✏️ Evaluación general
 |Descripción| Porcentaje|
 |:---|:---:|
-|1) Presentaciones<br>
-*Exposición de alumnos sobre el material del libro*| 20%|
+|1) Presentaciones<br>*Exposición de alumnos sobre el material del libro*| 20%|
 |2) Tests de lecturas| 30%|
 |3) Actividades| 20%|
 |4) Proyecto de análisis EDA| 10%|
@@ -63,16 +60,12 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ### ⭐️ Puntos extras
 |Descripción| Porcentaje|
 |:---|:---:|
-|A) Proyecto personal de ciencia de datos. <br>
-*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, redes sociales u otro canal.*| 5%|
-|B) Publicación <br> 
-*Publicación de 'Papers' o de artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
-|C) Voluntariado <br> 
-*Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
-|D) Eventos <br> 
-*Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
+|A) Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, redes sociales u otro canal.*| 5%|
+|B) Publicación <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
+|C) Voluntariado <br> *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
+|D) Eventos <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
-⚠️ Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un mácimo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.  
+⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un mácimo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.*
 
 ## Material del curso
 
