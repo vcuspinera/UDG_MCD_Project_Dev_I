@@ -1,3 +1,3 @@
-# Evaluación final
+# Presentaciones
 
-En esta carpeta se compartirán las instrucciones para el examen final.
+En esta carpeta se compartirán las presentaciones de capítulos del libro y papers y artículos de ciencia de los datos.
