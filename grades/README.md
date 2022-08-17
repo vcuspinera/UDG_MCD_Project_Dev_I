@@ -7,11 +7,10 @@ Para la evaluación existen dos componentes:
 ### ✏️ Evaluación general
 |Descripción| Porcentaje|
 |:---|:---:|
-|1) Presentaciones<br>
-*Exposición de alumnos sobre el material del libro*| 20%|
-|2) Tests de lecturas| 30%|
-|3) Seguimiento de actividades| 20%|
-|4) Proyecto de análisis EDA| 10%|
+|1) Presentaciones<br>*Exposición de alumnos sobre el material del libro.*| 20%|
+|2) Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
+|3) Actividades<br>*Replicar actividades vistas en clase.*| 20%|
+|4) Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
 |5) Proyecto final| 20%|
 |**Total**| **100%**|
 
@@ -36,14 +35,10 @@ Trabajo en equipo a realizar al final del semestre un proyecto.
 ### ⭐️ Puntos extras
 |Descripción| Porcentaje|
 |:---|:---:|
-|A) Proyecto personal de ciencia de datos. <br>
-*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, redes sociales u otro canal.*| 5%|
-|B) Publicación <br> 
-*Publicación de 'Papers' o de artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
-|C) Voluntariado <br> 
-*Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
-|D) Eventos <br> 
-*Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
+|A) Proyecto personal de ciencia de datos. <br> *Desarrollo del proyecto y divulgación en GitHub, LinkedIn, redes sociales u otro canal.*| 5%|
+|B) Publicación <br>  *Publicación de 'Papers' o de artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
+|C) Voluntariado <br>  *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
+|D) Eventos <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
 ⚠️ Consideraciones de puntos extras: 
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.  
@@ -56,7 +51,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 <br>
 
-|ID.|Nombre|Presentaciones<br>(20%)|Tests de lecturas<br>(30%)|Seguimiento de actividades<br>(20%)|Proyecto de análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
+|ID.|Nombre|Presentaciones<br>(20%)|Tests lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||||||||
 |213388296 |Carol Castañeda ||||||||

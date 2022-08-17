@@ -49,10 +49,10 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ### ✏️ Evaluación general
 |Descripción| Porcentaje|
 |:---|:---:|
-|1) Presentaciones<br>*Exposición de alumnos sobre el material del libro*| 20%|
-|2) Tests de lecturas| 30%|
-|3) Actividades| 20%|
-|4) Proyecto de análisis EDA| 10%|
+|1) Presentaciones<br>*Exposición de alumnos sobre el material del libro.*| 20%|
+|2) Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
+|3) Actividades<br>*Replicar actividades vistas en clase.*| 20%|
+|4) Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
 |5) Proyecto final| 20%|
 |**Total**| **100%**|
 
@@ -69,6 +69,28 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 
 ## Material del curso
 
+### Material por clase
+
+|#| Tema | Material|
+|:---:|:---|:---|
+|1| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li></ul> |
+|2| Pendiente | |
+|3| Pendiente| |
+|4| Pendiente| |
+|5| Pendiente| |
+|6| Pendiente| |
+|7| Pendiente| |
+|8| Pendiente| |
+|9| Pendiente| |
+|10| Pendiente| |
+|11| Pendiente| |
+|12| Pendiente| |
+|13| Pendiente| |
+|14| Pendiente| |
+|15| Pendiente| |
+|16| Pendiente| |
+
+### Links relevantes
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
 - [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
