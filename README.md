@@ -69,26 +69,31 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 
 ## Material del curso
 
-### Material por clase
+### Clases 
 
-|#| Tema | Material|
-|:---:|:---|:---|
-|1| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
-|2| Pendiente | |
-|3| Pendiente| |
-|4| Pendiente| |
-|5| Pendiente| |
-|6| Pendiente| |
-|7| Pendiente| |
-|8| Pendiente| |
-|9| Pendiente| |
-|10| Pendiente| |
-|11| Pendiente| |
-|12| Pendiente| |
-|13| Pendiente| |
-|14| Pendiente| |
-|15| Pendiente| |
-|16| Pendiente| |
+El material y actividades por clase se enlistan a continuación:
+
+|#| Fecha| Tema | Material y/o actividad |
+|:---:|:---:|:---|:---|
+|01| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
+|02| 2022-08-24| Pendiente | |
+|03| 2022-08-31| Pendiente| |
+|04| 2022-09-07| Pendiente| |
+|05| 2022-09-14| Pendiente| |
+|06| 2022-09-21| Pendiente| |
+|07| 2022-09-28| Pendiente| |
+|08| 2022-10-05| Pendiente| |
+|09| 2022-10-12| Pendiente| |
+|10| 2022-10-19| Pendiente| |
+|11| 2022-10-26| Pendiente| |
+|12| 2022-11-02| Pendiente| |
+|13| 2022-11-09| Pendiente| |
+|14| 2022-11-16| Pendiente| |
+|15| 2022-11-23| Pendiente| |
+|16| 2022-11-30| Pendiente| |
+|17| 2022-12-07| Pendiente| |
+
+[Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/nuevo-calendario-escolar-para-centros-universitarios-2022-2023) para revisar el calendario oficial de la UDG del ciclo escolar 2022-B.
 
 ### Links relevantes
 __Canales principales__
@@ -98,16 +103,16 @@ __Canales principales__
 __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)
 - [Clases](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases)
-- [Libro de Administración de Riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Libro_PMI-RMP)
-- [Tests de lectura](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md)
+- [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Libro_PMI-RMP)
+- [Tests de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Quizes.md)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
-- [Videos de clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
+- [Videos de la clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
 
 __Material adicional__
 - [Papers](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases/material/Papers)
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Puntos_extras.md)
 
-Para mayor detalle reviar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Referencias.md)
+Para mayor detalle revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Referencias.md)
 
 ## Organización de carpetas
     ├── actividades             <- Carpeta con actividades del curso.
