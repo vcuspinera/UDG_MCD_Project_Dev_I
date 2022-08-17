@@ -73,7 +73,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 
 |#| Tema | Material|
 |:---:|:---|:---|
-|1| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li></ul> |
+|1| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
 |2| Pendiente | |
 |3| Pendiente| |
 |4| Pendiente| |
