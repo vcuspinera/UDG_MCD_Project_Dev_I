@@ -34,14 +34,14 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
 |:----:|:----:|:----:|:-----:|:-----:|
-|213388296 |Carol Castañeda | -[X] [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | |Carol-Castaneda |
-|221310808 |Jorge Gomez | -[X] [jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | -[ ] jore.gc@gmail.com |joregc |
-|220981326 |Rosa Guerrero| -[X] [rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | -[ ] rosy.gue.her@gmail.com |RosaGuerrero05 |
-|221310778 |Ricardo Gutiérrez | -[X] [ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | -[ ] rgutierrezroque@gmail.com |rgutierrezroqueudg |
-|221310727 |Esther Moreno| -[X] [esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) | -[ ] esthermo90@gmail.com |Esthermo|
-|221310786 |Patricio Orozco | -[ ] [juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | -[X] patricio.orozco@outlook.com |patrickscln |
-|211680429 |Cristian Omar Ruiz | -[X] [cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | -[ ] cristian.ruiz8042@alumnos.udg.mx |CrisRuizRn |
-|221310743 |Eduardo Sánchez| -[X] [eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) | -[ ] esz1911@gmail.com |EduardoSanchezZ |
+|213388296 |Carol Castañeda |[carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | |Carol-Castaneda |
+|221310808 |Jorge Gomez | [jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | jore.gc@gmail.com |joregc |
+|220981326 |Rosa Guerrero| [rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | rosy.gue.her@gmail.com |RosaGuerrero05 |
+|221310778 |Ricardo Gutiérrez | [ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | rgutierrezroque@gmail.com |rgutierrezroqueudg |
+|221310727 |Esther Moreno| [esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) |  esthermo90@gmail.com |Esthermo|
+|221310786 |Patricio Orozco | [juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | patricio.orozco@outlook.com |patrickscln |
+|211680429 |Cristian Ruiz | [cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) |  |CrisRuizRn |
+|221310743 |Eduardo Sánchez|  [eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) |  esz1911@gmail.com |EduardoSanchezZ |
 
 ## Evaluación
 Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
@@ -50,7 +50,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
 |1| Presentaciones<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
-|2| Tests de lecturas<br>*Control de lecturas de libro y papers.*| 30%|
+|2| Quizes de lecturas<br>*Control de lecturas de libro, papers y artículos.*| 30%|
 |3| Actividades<br>*Replicar actividades vistas en clase.*| 20%|
 |4| Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
 |5| Proyecto final<br>*Proyecto integral al cierre de curso.*| 20%|
@@ -76,7 +76,7 @@ El material y actividades por clase se enlistan a continuación:
 
 |#| Fecha| Tema | Material y/o actividad |
 |---:|:---:|:---|:---|
-|1| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación caps. 2 a 5 del libro](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Actividad 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li><li>[Actividad 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|
+|1| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación caps. 2 a 5 del libro](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Actividad 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Actividad 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|
 |2| 2022-08-24| Pendiente | |
 |3| 2022-08-31| Pendiente| |
 |4| 2022-09-07| Pendiente| |
@@ -105,7 +105,7 @@ __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)
 - [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades)
 - [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Libro_PMI-RMP)
-- [Tests de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
+- [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 __Material extendido__
