@@ -34,14 +34,14 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail UDG |e-mail alternativo |GitHub user| 
 |:----:|:----:|:----:|:-----:|:-----:|
-|213388296 |Carol Castañeda | [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) |carol.castaneda3882@alumnos.udg.mx |Carol-Castaneda |
-|221310808 |Jorge Gomez |[jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) |jore.gc@gmail.com |joregc |
-|220981326 |Rosa Guerrero|[rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) |rosy.gue.her@gmail.com |RosaGuerrero05 |
-|221310778 |Ricardo Gutiérrez |[ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) |rgutierrezroque@gmail.com |rgutierrezroqueudg |
-|221310727 |Esther Moreno|[esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) |esthermo90@gmail.com | |
-|221310786 |Patricio Orozco |[juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) |patricio.orozco@outlook.com | |
-|211680429 |Cristian Omar Ruiz |[cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) |cristian.ruiz8042@alumnos.udg.mx |CrisRuizRn |
-|221310743 |Eduardo Sánchez|[eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) |esz1911@gmail.com | |
+|213388296 |Carol Castañeda | -[X] [carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | |Carol-Castaneda |
+|221310808 |Jorge Gomez | -[X] [jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | -[ ] jore.gc@gmail.com |joregc |
+|220981326 |Rosa Guerrero| -[X] [rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | -[ ] rosy.gue.her@gmail.com |RosaGuerrero05 |
+|221310778 |Ricardo Gutiérrez | -[X] [ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | -[ ] rgutierrezroque@gmail.com |rgutierrezroqueudg |
+|221310727 |Esther Moreno| -[X] [esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) | -[ ] esthermo90@gmail.com |Esthermo|
+|221310786 |Patricio Orozco | -[ ] [juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | -[X] patricio.orozco@outlook.com |patrickscln |
+|211680429 |Cristian Omar Ruiz | -[X] [cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | -[ ] cristian.ruiz8042@alumnos.udg.mx |CrisRuizRn |
+|221310743 |Eduardo Sánchez| -[X] [eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) | -[ ] esz1911@gmail.com |EduardoSanchezZ |
 
 ## Evaluación
 Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
@@ -76,7 +76,7 @@ El material y actividades por clase se enlistan a continuación:
 
 |#| Fecha| Tema | Material y/o actividad |
 |---:|:---:|:---|:---|
-|1| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Clase 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li></ul>|
+|1| 2022-08-17| Introducción| <ul><li>[Presentación general](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Test 00, diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación caps. 2 a 5 del libro](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Actividad 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/clases/01_Herramientas.md)</li><li>[Actividad 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|
 |2| 2022-08-24| Pendiente | |
 |3| 2022-08-31| Pendiente| |
 |4| 2022-09-07| Pendiente| |
