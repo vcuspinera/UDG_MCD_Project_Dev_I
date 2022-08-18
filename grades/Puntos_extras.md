@@ -36,7 +36,7 @@ Algunos ejemplos de proyectos personales:
 - [Análisis de sentimiento de respuesta de Canadá a Covid-19](https://www.linkedin.com/pulse/canada-response-covid-19-victor-cuspinera/) por Leopoldo y Victor Cuspinera.
 - [Elección de nombres de bebé usando Python](https://github.com/vcuspinera/Baby_names) por Victor Cuspinera.
 
-## (B) Publicación en revisas
+## (B) Publicación
 Una vez realizado un proyecto personal, se puede intentar publicar en distintas revistas de ciencias de datos como [Towards Data Science](https://towardsdatascience.com), o revistas de divulgación de la ciencia como [EconoQuantum](https://econoquantum.cucea.udg.mx/index.php/EQ/index) de CUCEA con la UDG, o [¿Cómo ves?](http://www.comoves.unam.mx) de la UNAM.
 
 ### Ventajas y desventajas
@@ -69,17 +69,19 @@ Se comparten distintos voluntariados, seleccionar la opción `online`, y buscar 
 ### [Data Science for Social Good](https://www.solveforgood.org)
 Plataforma que busca apoyar organizaciones de bienestar social con proyectos. Los proyectos impulsados por esta organización se encuentran en [este link](https://www.solveforgood.org/proj/).
 
-## D) Hackathon
+## D) Eventos
 Otra manera de aprender y desarrollar un portafolio de proyectos es participando en competencias y hackathones de ciencia de datos y análisis de información. Entre los más famosos están los de [Kaggle](https://www.kaggle.com/competitions) y [Driven Data](https://www.drivendata.org/competitions/). Por otro lado, algunas instituciones organizan o patrocinan hackathones a manera de reclutamiento como Google, IBM, BBVA, CitiBanamex, Grupo Modelo, entre muchos otros.
 
-### Eventos
-Para queines estén interesados, les comparto próximos eventos que identifiqué:
-- [Hackathon Discorruption 2022](https://discorruption.mx) el 4 y 5 de marzo 2022.
-- [Ocean Hackathon 7 México 2022](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL. Pendiente de fecha.
+### Próximos eventos
+Para quienes estén interesados, les comparto próximos eventos que identifiqué:
+- [LATAM Conferencia de inteligencia artificial aplicada (IAA)](https://www.latam-ai.com).
+- Hackathon [MXHacks III](https://mxhacks-iii.devpost.com) por el Tec de Monterrey.
 
 Recomiendo que estén atentos y revisen constantemente nuevos eventos que se anuncien.
 
 Por otro lado, algunos hackathones pasados organizados en México son:
+- [Hackathon Discorruption 2022](https://discorruption.mx).
+- [Ocean Hackathon 7 México 2022](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL.
 - [Hackathon BBVA 2021](https://openinnovation.bbva.com/es/evento/hackathon-bbva-2021) por banco BBVA.
 - [Breweing Data Cup 2020](https://www.facebook.com/brewingdatacup/) por Grupo Modelo.
 - [Ocean Hackathon 6 México 2021](https://ifal.mx/ciencias/ocean-hackathon-mexico) por IFAL.
