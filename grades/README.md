@@ -25,11 +25,11 @@ Para la evaluación existen dos componentes:
 ## ✏️ Evaluación general
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|1| Presentaciones<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
-|2| Quizes de lecturas<br>*Control de lecturas de libro, papers y artículos.*| 30%|
-|3| Actividades<br>*Replicar actividades vistas en clase.*| 20%|
-|4| Proyecto de análisis EDA<br>*Proyecto corto a mediado de semestre.*| 10%|
-|5| Proyecto final<br>*Proyecto integral al cierre de curso.*| 20%|
+|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
+|2| [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas de libro, papers y artículos.*| 30%|
+|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 20%|
+|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediado de semestre.*| 10%|
+|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre de curso.*| 20%|
 | |**Total**| **100%**|
 
 Los detalles sobre los puntos anteriores:
@@ -54,7 +54,7 @@ Trabajo en equipo a realizar a mediados de semestre, en el cual se seleccionará
 ### 5) Proyecto final
 Trabajo en equipo a realizar al final del semestre un proyecto.
 
-## ⭐️ Puntos extras
+## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
 |A| Proyecto personal de ciencia de datos. <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|

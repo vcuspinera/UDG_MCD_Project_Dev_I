@@ -109,7 +109,7 @@ __Material base__
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 __Material extendido__
-- [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Puntos_extras.md)
+- [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
 - [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers)
 
