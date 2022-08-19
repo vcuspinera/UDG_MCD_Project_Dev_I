@@ -76,23 +76,25 @@ El material y actividades por clase se enlistan a continuación:
 
 |# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
-|1| 2022-08-17| Introducción| <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación de caps. 2 a 5 del libro](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Actividad 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Actividad 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|<ul><li>[Ver Issue #23](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/23)</li></ul> |
-|2| 2022-08-24| Pendiente|<ul><li>[Quiz 01, cap. 1 del libro PMI-RMP]()</li></ul> | |
-|3| 2022-08-31| Pendiente|<ul><li>[Quiz 02, cap. 2 del libro PMI-RMP]()</li></ul> | |
-|4| 2022-09-07| Pendiente|<ul><li>[Quiz 03, cap. 3 del libro PMI-RMP]()</li></ul> | |
-|5| 2022-09-14| Pendiente|<ul><li>[Quiz 04, cap. 4 del libro PMI-RMP]()</li></ul> | |
-|6| 2022-09-21| Pendiente|<ul><li>[Quiz 05, cap. 5 del libro PMI-RMP]()</li></ul> | |
+|1| 2022-08-17| Introducción| <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación de caps. 2 a 5 del libro](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Actividad 01, Herramientas de Ciencia de Datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Actividad 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|-[Ver Issue #23](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/23)|
+|2| 2022-08-24| Pendiente|<ul><li>Quiz 01, cap. 1 del libro PMI-RMP</li></ul> | |
+|3| 2022-08-31| Pendiente|<ul><li>Quiz 02, cap. 2 del libro PMI-RMP</li></ul> | |
+|4| 2022-09-07| Pendiente|<ul><li>Quiz 03, cap. 3 del libro PMI-RMP</li></ul> | |
+|5| 2022-09-14| Pendiente|<ul><li>Quiz 04, cap. 4 del libro PMI-RMP</li></ul> | |
+|6| 2022-09-21| Pendiente|<ul><li>Quiz 05, cap. 5 del libro PMI-RMP</li></ul> | |
 |7| 2022-09-28| Pendiente| | |
 |8| 2022-10-05| Pendiente| | |
-|9| 2022-10-12| __*No habrá clase*__| | |
+|9| 2022-10-12| N/A |__*No habrá clase*__ | |
 |10| 2022-10-19| Pendiente| | |
 |11| 2022-10-26| Pendiente| | |
-|12| 2022-11-02| __*No habrá clase*__| | |
+|12| 2022-11-02| N/A |__*No habrá clase*__| |
 |13| 2022-11-09| Pendiente| | |
 |14| 2022-11-16| Pendiente| | |
 |15| 2022-11-23| Pendiente| | |
 |16| 2022-11-30| Pendiente| | |
 |17| 2022-12-07| Pendiente| | |
+
+*Nota: el término __N/A__ significa "No aplica".*
 
 [Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/nuevo-calendario-escolar-para-centros-universitarios-2022-2023) para revisar el calendario oficial de la UDG del ciclo escolar 2022-B.
 
