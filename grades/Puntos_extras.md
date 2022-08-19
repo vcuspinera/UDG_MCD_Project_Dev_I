@@ -22,10 +22,10 @@ En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/b
 - Para tener acceso a los puntos extras se necesita una calificación de al menos 70% en el `Total` de la Evaluación General ([revisar sección `16.Evaluación` del temario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Temario_IH602.pdf)).
 
 ## (A) Proyectos personales de ciencia de datos
-Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica.
+Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica. Para tener estos puntos además de realizar el proyecto se deberá divulgarlo en GitHub, LinkedIn, redes sociales u otro canal.
 
 ### Ventajas y desventajas
-- __Ventajas:__ administrar su propio tiempo, desarrollar proyectos de su completo interés.
+- __Ventajas:__ administrar su propio tiempo, desarrollar y dar difusión a proyectos de su completo interés.
 - __Desventajas:__ promover su proyecto por ustedes mismos.
 
 ### Ejemplos
@@ -37,18 +37,18 @@ Algunos ejemplos de proyectos personales:
 - [Elección de nombres de bebé usando Python](https://github.com/vcuspinera/Baby_names) por Victor Cuspinera.
 
 ## (B) Publicación
-Una vez realizado un proyecto personal, se puede intentar publicar en distintas revistas de ciencias de datos como [Towards Data Science](https://towardsdatascience.com), o revistas de divulgación de la ciencia como [EconoQuantum](https://econoquantum.cucea.udg.mx/index.php/EQ/index) de CUCEA con la UDG, o [¿Cómo ves?](http://www.comoves.unam.mx) de la UNAM.
+Publicación de *Papers* o artículos relacionados con ciencias de datos en revistas de ciencia de datos como [Towards Data Science](https://towardsdatascience.com), o revistas de divulgación de la ciencia como [EconoQuantum](https://econoquantum.cucea.udg.mx/index.php/EQ/index) de CUCEA con la UDG, o [¿Cómo ves?](http://www.comoves.unam.mx) de la UNAM.
 
 ### Ventajas y desventajas
-- __Ventajas:__ mayor difusión y alcance de proyectos personales.
+- __Ventajas:__ mayor difusión y alcance de proyectos personales desarrollados.
 - __Desventajas:__ dedicar tiempo a dar formato al proyecto personal, y a trámites administrativos para su publicación.
 
 ## (C) Voluntariado
 Hay distintas instituciones que organizan proyectos y actividades de voluntariados utilizando herramientas y conocimientos de ciencia de datos como [Omdena](https://omdena.com), [United Nations Volunteers](https://app.unv.org/?type=online), [Data Science for Social Good](https://www.solveforgood.org), entre otras instituciones.
 
 ### Ventajas y desventajas
-- __Ventajas:__ existen múltiples opciones de proyectos, aprender nuevas herramientas y habilidades, ampliar su red de contactos
-- __Desventaja:__ consume mucho tiempo (15-20 hr por semana, de 4 a 8 semanas), no ingreso monetario
+- __Ventajas:__ existen múltiples opciones de proyectos, aprender nuevas herramientas y habilidades, ampliar su red de contactos.
+- __Desventaja:__ consume mayor tiempo que los proyectos personales (15-20 hr por semana, de 4 a 8 semanas), trabajar/apoyar a alguna institución sin recibir ingreso monetario a cambio.
 
 ### [Omdena](https://omdena.com)
 Busca apoyar instituciones y proyectos con impacto social utilizando herramientas de inteligencia artifical. Existen dos tipos de proyectos:
@@ -70,16 +70,16 @@ Se comparten distintos voluntariados, seleccionar la opción `online`, y buscar 
 Plataforma que busca apoyar organizaciones de bienestar social con proyectos. Los proyectos impulsados por esta organización se encuentran en [este link](https://www.solveforgood.org/proj/).
 
 ## D) Eventos
-Otra manera de aprender y desarrollar un portafolio de proyectos es participando en competencias y hackathones de ciencia de datos y análisis de información. Entre los más famosos están los de [Kaggle](https://www.kaggle.com/competitions) y [Driven Data](https://www.drivendata.org/competitions/). Por otro lado, algunas instituciones organizan o patrocinan hackathones a manera de reclutamiento como Google, IBM, BBVA, CitiBanamex, Grupo Modelo, entre muchos otros.
+Otra manera de aprender, obtener experiencia y desarrollar un portafolio de proyectos es participando eventos relacionados con Ciencia de Datos como competencias y *hackathones*, congresos y conferencias. Entre los más famosos *hackathones* están los de [Kaggle](https://www.kaggle.com/competitions) y [Driven Data](https://www.drivendata.org/competitions/). Por otro lado, algunas instituciones organizan o patrocinan *hackathones* a manera de reclutamiento como Google, IBM, BBVA, CitiBanamex, Grupo Modelo, entre muchos otros.
 
 ### Próximos eventos
-Para quienes estén interesados, les comparto próximos eventos que identifiqué:
+Para quienes estén interesados, les comparto algunos próximos eventos que identifiqué:
 - [LATAM Conferencia de inteligencia artificial aplicada (IAA)](https://www.latam-ai.com).
 - Hackathon [MXHacks III](https://mxhacks-iii.devpost.com) por el Tec de Monterrey.
 
 Recomiendo que estén atentos y revisen constantemente nuevos eventos que se anuncien.
 
-Por otro lado, algunos hackathones pasados organizados en México son:
+Por otro lado, a manera de referencia, algunos *hackathones* pasados organizados en México son:
 - [Hackathon Discorruption 2022](https://discorruption.mx).
 - [Ocean Hackathon 7 México 2022](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL.
 - [Hackathon BBVA 2021](https://openinnovation.bbva.com/es/evento/hackathon-bbva-2021) por banco BBVA.

@@ -3,7 +3,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 <br>
 
-|ID.|Nombre|Presentaciones<br>(20%)|Tests lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
+|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||||||||
 |213388296 |Carol Castañeda ||||||||
@@ -37,11 +37,11 @@ Los detalles sobre los puntos anteriores:
 Las presentaciones se realizarán en equipo y tendrán una duración de 20 a 40 minutos, dependiendo del material de cada capítulo o papers. El equipo que exponga deberá **encender su cámara.** Inicialmente las presentaciones se compartirán en Dropbox ([click aquí](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)), y posteriormente se subirán a la carpeta de presentaciones del repositorio de GitHub ([dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/presentaciones)).
 
 ### 2) Quizes de lecturas
-Los *quizes* (o controles) de lectura se realizarán de forma __individual__, durante la última sección de la clase y los alumnos tendrán hasta __las 9 PM del mismo día__ para responder.
+Los *quizes* (o controles) de lectura se realizarán de forma __individual__ durante la última sección de la clase. Los alumnos tendrán hasta __las 9 PM del mismo día__ para responder.
 
-Para los alumnos que envien el *quiz* __posterior a las 9 PM habrá una penalización__ que consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
+Para los alumnos que contesten el *quiz* __posterior a las 9 PM habrá una penalización__, la cual consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
 
-En caso de __no responder__ la calificación será __cero__.
+En caso de __no responder__ a un Quiz, la calificación será __cero__.
 
 ### 3) Seguimiento de actividades
 Se revisará que los alumnos realicen las actividades expuestas y que estarán disponibles en la carpeta [`actividades`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/clases).
