@@ -1,24 +1,3 @@
-# Calificaciones 
-Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
-
-<br>
-
-|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
-|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||||
-|213388296 |Carol Castañeda ||||||||
-|221310808 |Jorge Gomez ||||||||
-|220981326 |Rosa Guerrero||||||||
-|221310778 |Ricardo Gutiérrez ||||||||
-|221310727 |Esther Moreno||||||||
-|221310786 |Patricio Orozco ||||||||
-|211680429 |Cristian Ruiz ||||||||
-|221310743 |Eduardo Sánchez||||||||
-
-<br>
-
-En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través del correo vcuspinera@gmail.com
-
 # Forma de evaluación
 Para la evaluación existen dos componentes:
 
@@ -66,3 +45,25 @@ Trabajo en equipo a realizar al final del semestre un proyecto.
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.  
 - Máximos puntos extras a obtener: 20% adicional a la evaluación general.  
 - Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.  
+
+
+# Calificaciones 
+Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
+
+<br>
+
+|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||||||||
+|213388296 |Carol Castañeda ||||||||
+|221310808 |Jorge Gomez ||||||||
+|220981326 |Rosa Guerrero||||||||
+|221310778 |Ricardo Gutiérrez ||||||||
+|221310727 |Esther Moreno||||||||
+|221310786 |Patricio Orozco ||||||||
+|211680429 |Cristian Ruiz ||||||||
+|221310743 |Eduardo Sánchez||||||||
+
+<br>
+
+En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través del correo vcuspinera@gmail.com
