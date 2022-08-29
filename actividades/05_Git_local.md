@@ -46,7 +46,7 @@ Ir a la página https://git-scm.com/download/win y descargar la versión de Git 
 
 - En la página **Select Components**, añadir Git Bash profile a la terminal de Windows:
 
-<img src="img/05-01_install_git.png" width="800" align = "centre">
+<img src="img/05-01_install_git.png" width="650" align = "centre">
 
 [Fuente original](https://ubc-mds.github.io/resources_pages/install_ds_stack_windows/#git-bash-and-windows-terminal) en la guía para instalación de software del programa UBC MDS.
 
@@ -61,7 +61,7 @@ Después de la instalación, abrir la Windows Terminal, y dar click sobre la fle
 
 Una vez realizado lo anterior, cerrar la Terminal y volverla a abrir, y deberá de verse similar a la siguiente pantalla. Se recomienda usar de ahora en adelante la Terminal en el lugar de PowerShell.
 
-<img src="img/05-02_terminal_windows.png" width="800" align = "centre">
+<img src="img/05-02_terminal_windows.png" width="650" align = "centre">
 
 ### 1.4 Instalación en Linux
 En Linux se utiliza el siguiente código para Ubuntu o Debian:
