@@ -77,17 +77,17 @@ El material y actividades por clase se enlistan a continuación:
 |# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
 |1| 2022-08-17| Introducción | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Asignación de caps. 2 a 5 PMBOK](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_caps_2-5.ipynb)</li><li>[Activ. 01, Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Activ. 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>|<ul><li>[Ver Issue #23](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/23)</li></ul>|
-|2| 2022-08-24| El rol del administrador de proyectos |<ul><li>[Conferencia "El impacto de AI en los negocios."](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/25)</li><li>[Activ. 03, Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/03_GitHub_firstie.md)</li><li>[Quiz 01, cap. 1 del libro PMI-RMP](https://forms.office.com/r/E4fgfDunwj)</li></ul> |P.D. |
-|3| 2022-08-31| Administración de riesgos de proyecto |<ul><li>Quiz 02, cap. 2 del libro PMI-RMP</li></ul> |P.D. |
+|2| 2022-08-24| El rol del administrador de proyectos |<ul><li>[Conferencia "El impacto de AI en los negocios."](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/25)</li><li>[Presentación cap. 1, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>[Activ. 03, Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/03_GitHub_firstie.md)</li><li>[Quiz 01, cap. 1 del libro PMI-RMP](https://forms.office.com/r/E4fgfDunwj)</li></ul> |[Ver Issue #26](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/26)|
+|3| 2022-08-31| Administración de riesgos de proyecto |<ul><li>Charla con [Mario Rodriguez - Omdena](https://www.linkedin.com/in/emmanuel-rotm/) </li><li>Presentación cap. 2, libro PMI-RMP</li><li>[Quiz 02, cap. 2 del libro PMI-RMP](https://forms.office.com/r/Z7sgzDh8bi)</li></ul> |P.D. |
 |4| 2022-09-07| Compromiso de _stakeholders_ |<ul><li>Quiz 03, cap. 3 del libro PMI-RMP</li></ul> |P.D. |
 |5| 2022-09-14| Planeación del riesgo |<ul><li>Quiz 04, cap. 4 del libro PMI-RMP</li></ul> |P.D. |
 |6| 2022-09-21| Identificación de riesgos |<ul><li>Quiz 05, cap. 5 del libro PMI-RMP</li></ul> |P.D. |
 |7| 2022-09-28| P.D. |P.D. |P.D. |
 |8| 2022-10-05| P.D. |P.D. |P.D. |
-|9| 2022-10-12| N/A |__*No habrá clase*__ |P.D. |
+|9| 2022-10-12| N/A |__No habrá clase__ |P.D. |
 |10| 2022-10-19| P.D. |P.D. |P.D. |
 |11| 2022-10-26| P.D. |P.D. |P.D. |
-|12| 2022-11-02| N/A |__*No habrá clase*__|P.D. |
+|12| 2022-11-02| N/A |__No habrá clase__|P.D. |
 |13| 2022-11-09| P.D. |P.D. |P.D. |
 |14| 2022-11-16| P.D. |P.D. |P.D. |
 |15| 2022-11-23| P.D. |P.D. |P.D. |
