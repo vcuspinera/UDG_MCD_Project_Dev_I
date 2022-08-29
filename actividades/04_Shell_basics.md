@@ -52,29 +52,29 @@ La ruta relativa se va seleccionando de acuerdo al directorio en el que te encue
 
 Por ejemplo, supongamos que actualmente estoy en este directorio:
 
-<img src="img/04-02_example_p1.png" width="800" align = "centre">
+<img src="img/04-02_example_01.png" width="800" align = "centre">
 
 <br>
  
 Y dentro de este directorio tengo las siguientes carpetas:
 
-<img src="img/04-03_example_p2.png" width="800" align = "centre">
+<img src="img/04-03_example_02.png" width="800" align = "centre">
 
 Si quiero seleccionar la carpeta “Tareas”, puedo hacerlo de las dos siguientes maneras:
 
-**cd /Users/vcuspinera/Documents/Project_Dev_II/Tareas**
+`cd /Users/vcuspinera/Documents/levic/05_Projects_levic/Projects_git/Baby_names/docs`
 
 ó
 
-**cd Tareas**
+`cd docs`
 
 <br>
 
 **¿Ventajas de usar ruta absoluta para seleccionar carpetas?**  
-Las rutas absolutas son fáciles de enetender, pero pueden causar inconvenientes ya que es necesario incluir la dirección desde la raíz lo que varía entre usuarios y hace que el código sea más largo.
+Las rutas absolutas son fáciles de enetender y te comparten más información, pero pueden causar inconvenientes ya que es necesario incluir la dirección desde el directorio raíz lo que varía entre usuarios y hace que al momento de programar el código sea más largo.
 
 **¿Ventajas de usar ruta relativa para seleccionar carpetas?**  
-Aunque la ruta relativa contiene menos información que la ruta absoluta, es más fácil y dinámico para usar, se adapta mejor a las necesidades de un usuario para replicar un proyecto y la dirección es más corta lo que lo hace conveniente principalmente en directorios muy profundos.
+Aunque la ruta relativa contiene menos información que la ruta absoluta, es más fácil y dinámica para usar, se adapta mejor a las necesidades de un usuario para replicar un proyecto y la dirección es más corta lo que la hace más conveniente principalmente en directorios muy profundos.
 
 ## 5. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.
