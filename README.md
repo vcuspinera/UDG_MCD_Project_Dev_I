@@ -19,7 +19,7 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 |Ciclo escolar |2022-B (otoño) | 
 |Horario |Miércoles de 18 a 21 hr. | 
 |Medio |Virtual | 
-|Liga clase|[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/82510744015) |
+|Liga clase|[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/82618219020) |
 
 ### Profesor
 
