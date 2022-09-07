@@ -52,7 +52,8 @@ H1 alternativo para encabezado para título
 H2 alterantivo para encabezado para subtítulo
 ---
 
-<center>— ⭕️ —</center>
+<br>
+<br>
 
 ## 2. Énfasis
 Existen distintos tipos de énfasis:
