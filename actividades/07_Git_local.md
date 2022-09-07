@@ -1,4 +1,4 @@
-# 06 • Git local
+# 07 • Git local
 *Guía básica para instalar y configurar el sistema Git de controlador de versiones en nuestro equipo local*
 
 Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). En esta sección veremos como instalar Git desde distintos sistemas operativos, y realizar la configuración de usuario.

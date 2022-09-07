@@ -26,13 +26,13 @@ En este caso, las opciones del repositorio serán las siguientes:
 - Seleccionar la opción: **Add README file**
 - Dar click en `Create repository`
 
-<center><img src="img/06-01_new_repo.png" width="350"></center>
+<center><img src="img/06-01_new_repo.png" width="500"></center>
 
 ## 2. Secciones del nuevo repositorio
 
 El nuevo repositorio tiene una vista similar a la siguiente, donde se han marcado algunas de las opciones más comunes a utilizar:
 
-<center><img src="img/06-02_sections.png" width="650"></center>
+<center><img src="img/06-02_sections.png" width="800"></center>
 
 ## 3. Edición manualmente de un archivo
 Lo primero que haremos es modificar manualmente el archivo README.md dando click sobre el lápiz de edición ✏️
@@ -63,7 +63,7 @@ Así es como cambia visualmente de la versión inicial a la versión editada del
 
 |Versión inicial | Versión final|
 |:---:|:---:|
-|<img src="img/06-03_vInicial.png" width="400">|<img src="img/06-04_vFinal.png" width="400">|
+|<img src="img/06-03_vInicial.png" width="500">|<img src="img/06-04_vFinal.png" width="500">|
 
 ## 4. Crear y administrar un *Issue*
 Los *Issues* nos sirven para tener un control sobre el proyecto en el repositorio, asignar tareas, dar seguimiento a pendientes, escribir el *status* del proyecto, compartir minutas, documentos y materiales.
@@ -98,7 +98,7 @@ Su compañero de equipo recibirá un correo como el siguiente donde deberá acep
 
 |Correo recibido|Aceptación de invitación|
 |:---:|:---:|
-|<img src="img/06-05_colab1.png" width="220">|<img src="img/06-06_colab2.png" width="350">|
+|<img src="img/06-05_colab1.png" width="300">|<img src="img/06-06_colab2.png" width="500">|
 
 
 **⭐️ Actividad para todos:**  
@@ -110,7 +110,7 @@ Para revisar las aportaciones de los colaboradores ir a la pestaña de `Insights
 
 |Opción `Pulse`|Opción `Contributors`|
 |:---:|:---:|
-|<img src="img/06-07_pulse.png" width="300">|<img src="img/06-08_contrib.png" width="300">|
+|<img src="img/06-07_pulse.png" width="500">|<img src="img/06-08_contrib.png" width="500">|
 
 ## 7. Referencias
 - Idea original en repositorio [`ttimbers/hello`](https://github.com/ttimbers/hello) en GitHub por Tiffany Timbers.
