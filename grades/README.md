@@ -66,13 +66,13 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |211680429 |Cristian Ruiz ||||||||
 |221310743 |Eduardo Sánchez||||||||
 
-⚠️ Calificaciones generales pendientes!
+⚠️ **Calificaciones generales pendientes.**
 
 <br>
 
 ## Desgloce de calificaciones de **quizes de lecturas**
 
-|ID. |Nombre|QUIZ 00|QUIZ 01|QUIZ 02|QUIZ 03|QUIZ 04|QUIZ 05|QUIZ 06|QUIZ 07|QUIZ 08|QUIZ 09|QUIZ 10|QUIZ 11|QUIZ 12|QUIZ 13|QUIZ 14|
+|ID. |Nombre|Quiz: 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|90|75|0|0|0|0|0|0|0|0|0|0|0|
 |221310808|Jorge Gomez|100|100|90|100|0|0|0|0|0|0|0|0|0|0|0|
@@ -84,16 +84,16 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |221310743|Eduardo Sánchez|100|90|100|100|0|0|0|0|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
-|ID. UDG|NOMBRE|ACT 02|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|OTRO|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310778|Ricardo Gutiérrez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|ID. |Nombre |ACT 02|
+|:---|:---|---:|
+|213388296|Carol Castañeda|100|
+|221310808|Jorge Gomez|100|
+|220981326|Rosa Guerrero|100|
+|221310778|Ricardo Gutiérrez|100|
+|221310727|Esther Moreno|100|
+|221310786|Patricio Orozco|100|
+|211680429|Cristian Ruiz|100|
+|221310743|Eduardo Sánchez|100|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
@@ -105,11 +105,11 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 ## Desgloce de **puntos extras**
 
-![](https://media.giphy.com/media/3oFzmpzTfyABIX6JBm/giphy.gif)
+![](https://media.giphy.com/media/3oFzmpzTfyABIX6JBm/giphy-downsized.gif)
 
 ## Asistencia
 
-|ID. |Nombre|CLASE 01|CLASE 02|CLASE 03|CLASE 04|CLASE 05|CLASE 06|CLASE 07|CLASE 08|CLASE 09|CLASE 10|CLASE 11|CLASE 12|CLASE 13|CLASE 14|CLASE 15|
+|ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda  |1|1|1|1|0|0|0|0|0|0|0|0|0|0|0|
 |221310808|Jorge Gomez      |1|1|1|1|0|0|0|0|0|0|0|0|0|0|0|
