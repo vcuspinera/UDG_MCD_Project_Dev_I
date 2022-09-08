@@ -48,7 +48,9 @@ Trabajo en equipo a realizar al final del semestre un proyecto.
 
 
 # Calificaciones 
-Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad. Información con datos al: 2022-09-07.
+Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
+
+Última actualización al: **2022-09-08**
 
 <br>
 
@@ -84,16 +86,16 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |221310743|Eduardo Sánchez|100|90|100|100|0|0|0|0|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
-|ID. |Nombre |ACT 02|
-|:---|:---|---:|
-|213388296|Carol Castañeda|100|
-|221310808|Jorge Gomez|100|
-|220981326|Rosa Guerrero|100|
-|221310778|Ricardo Gutiérrez|100|
-|221310727|Esther Moreno|100|
-|221310786|Patricio Orozco|100|
-|211680429|Cristian Ruiz|100|
-|221310743|Eduardo Sánchez|100|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*)|ACT 04<br>*Colab*|
+|:---|:---|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|0|
+|221310808|Jorge Gomez|100|100|0|
+|220981326|Rosa Guerrero|100|100|0|
+|221310778|Ricardo Gutiérrez|100|0|0|
+|221310727|Esther Moreno|100|100|0|
+|221310786|Patricio Orozco|100|100|100|
+|211680429|Cristian Ruiz|100|100|0|
+|221310743|Eduardo Sánchez|100|100|100|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
