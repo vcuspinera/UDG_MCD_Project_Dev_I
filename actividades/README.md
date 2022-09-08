@@ -25,8 +25,8 @@ Se comparte la forma en obtener una cuenta la API de Twitter.
 
 ### Libros, papers y artículos
 Carpeta `material`.  
-Contiene una caprtea con los capítulos del libro PMI-RMP para administración de riesgos, y otra para compartir papers y artículos relacionados con ciencia de datos.
+Contiene una carpeta con los capítulos del libro PMI-RMP para administración de riesgos, y otra para compartir papers y artículos relacionados con la Ciencia de Datos.
 
-### Códifo
+### Código
 Carpeta `src`.  
 Archivos de código trabajados durante clases y actividades.
