@@ -23,7 +23,7 @@ which git
 git --version
 ```
 
-Si estos comandos regresan la ubicación y el número de versión de Git, entonces pasar directo a capítulo 2. Sin embargo, este código regresar   git: command not found   habrá que hacer la instalación de Git en el sistema operativo que les corresponde.
+Si estos comandos regresan la ubicación y el número de versión de Git, entonces pasar directo a capítulo 2. Sin embargo, si este código regresar `git: command not found` habrá que hacer la instalación de Git en el sistema operativo que les corresponde.
 
 ### 1.2 Instalación en macOS
 Correr el siguiente código, y dar click en “Install”:
