@@ -36,14 +36,19 @@ cd Mis_proyectos
 ```
 git clone pegar_URL_de_paso_3
 ```
+
 <img src="img/08-02_code.png" width="600">
+
 
 ## 2. Navegar en repositorio clonado
 Para revisar que su repositorio se ha clonado de forma correcta, se puede revisar desde el navegador de documentos:
-<img src="img/08-03_directory.png" width="600">
+
+<img src="img/08-03_directory.png" width="650">
 
 También se puede revisar que se ha clonado el repositorio a través de la interfaz de usuario, navegando hasta la carpeta `cd Documents/Mis_proyectos` y revisando que se encuentre ahí una carpeta de nombre **“hello”**.
+
 <img src="img/08-04_code2.png" width="600">
+
 
 ## 3. Modificar un archivo en repositorio local
 Abrir archivo README.md con Visual Studio Code ubicado en la carpeta hello:
@@ -51,7 +56,7 @@ Abrir archivo README.md con Visual Studio Code ubicado en la carpeta hello:
 cd Documents/Mis_proyectos/hello
 code README.md
 ```
-*__Nota__, también se puede abrir con otro editor de textos como Atom.*
+*__Nota__: también se puede abrir con otro editor de textos como Atom.*
 
 En la última línea del archivo añadir el siguiente código y guardarlo:
 ```
@@ -59,11 +64,12 @@ En la última línea del archivo añadir el siguiente código y guardarlo:
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
 ```
-*__Nota__, también puede poner un texto similar en inglés si así lo prefieren.*
+*__Nota__: también puede poner un texto similar en inglés si así lo prefieren.*
 
 ## 4. Crear carpetas y archivos en repositorio local
 En la terminal ubicarse en el repositorio **“hello”** con `cd Documents/Mis_proyectos/hello` y crear una carpeta que se llame `docs`.
 Una vez creada la carpeta `docs`, ubicarse dentro de la carpeta, crear un archivo con el nombre **Referencias.md** y abrir ese archivo con `code`.
+
 <img src="img/08-05_code3.png" width="600">
 
 En ese archivo copiar y pegar el siguiente texto, y posteriormente guardar el archivo.
@@ -78,20 +84,32 @@ Esta carpeta se basa en el siguiente material:
 
 ## 5. Actualizar repositorio remoto de GitHub desde repositorio local Git
 Una vez realizados los cambios y añadido una carpeta y archivo en el repositorio local (Git) hay que subir los cambios al repositorio remoto (GitHub). El primer paso es ubicarse en la interfaz de usuario en el repositorio **“hello”**, donde con el siguiente código se puede revisar los archivos que se han modificado o se han añadido:
-```git status```
+
+```
+git status
+```
 
 El siguiente código sirve para añadirán TODOS los archivos y carpetas modificados y nuevos al área de `staying` 
-```git add .``` 
+
+```
+git add .
+``` 
 *Nota: se puede añadir el nombre del archivo específico en el lugar del punto `.` que hace referencia a todos los archivos.*
 
 Posteriormente hay que hacer `commit`, siempre escribiendo `-m` y añadiendo un comentario entre comillas, por lo que puedes usar el siguiente código como referencia:
-```git commit -m “Update my repo”```
+
+```
+git commit -m “Update my repo”
+```
 
 Para enviar los cambios al repositorio remoto (GitHub) correr el siguiente código:
-```git push```
+```
+git push
+```
 
 <img src="img/08-06_map.png" width="700">
 *Nota: Cada vez que se hagan cambios del repositorio en el equipo local (Git) y haya que subirlos al repositorio remoto (GitHub) se deben usar los tres comandos `git add`, `git commit` y `git push` de forma seguida:*
+
 ```
 git add NOMBRE_DE_ARCHIVO
 git commit -m “PONER COMENTARIO AQUÍ”
@@ -111,7 +129,7 @@ Como se mencionó inicialmente Git y GitHub es un sistema controlador de version
 1. Revisando directamente en el repositorio de GitHub, en la sección que se encuentra sobre los documentos, del lado derecho dice **“N commits”**, dar click sobre el texto y te llevará al historial de cambios del repositorio.
 <img src="img/08-07_commit.png" width="600">
 
-2. Desde la interfaz de usuario en el repositorio local (*Documents/Mis_proyectos/hello*), correr el código `git log`.
+2. Desde la interfaz de usuario en el repositorio local (*Documents/Mis_proyectos/hello*), correr el código: `git log`.
 
 ## 8. Resumen de comandos de git en la terminal
 Los comandos de git utilizados en este documento:
@@ -126,12 +144,7 @@ Los comandos de git utilizados en este documento:
 |`git pull` | Actualiza el repositorio local con base en el repositorio remoto en GitHub| `git pull`|
 |`git log`| Regresa el historial de cambios del repositorio| `git log`|
 
-
-![](https://media.giphy.com/media/l1J9BPFDcoRmhjYl2/giphy.gif)
-
 ## 9. Referencias
 - [Guía para instalación de software](https://ubc-mds.github.io/resources_pages/installation_instructions/) del programa UBC MDS.
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) por Jenny Bryan.
-- [Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line), by GitHub Docs.
-- [Harry Potter Movies Dataset](https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-datase) in Kaggle, by Maryna Antonevych.
