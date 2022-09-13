@@ -107,7 +107,9 @@ Para enviar los cambios al repositorio remoto (GitHub) correr el siguiente códi
 git push
 ```
 
-<img src="img/08-06_map.png" width="700">
+<img src="img/08-06_flow.png" width="700">
+*Source: [Git, GitHub, & Workflow Fundamentals, by Molly Nemerever](https://dev.to/mollynem/git-github--workflow-fundamentals-5496)*
+
 *Nota: Cada vez que se hagan cambios del repositorio en el equipo local (Git) y haya que subirlos al repositorio remoto (GitHub) se deben usar los tres comandos `git add`, `git commit` y `git push` de forma seguida:*
 
 ```
