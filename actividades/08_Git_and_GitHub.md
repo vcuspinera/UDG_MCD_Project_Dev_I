@@ -61,7 +61,8 @@ code README.md
 En la última línea del archivo añadir el siguiente código y guardarlo:
 ```
 <br>
-Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
 ```
 *__Nota__: también puede poner un texto similar en inglés si así lo prefieren.*
