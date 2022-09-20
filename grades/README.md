@@ -76,26 +76,26 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 |ID. |Nombre|Quiz: 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|0|0|0|0|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez|100|100|90|100|0|0|0|0|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero|100|100|100|83|0|0|0|0|0|0|0|0|0|0|0|
+|213388296|Carol Castañeda|100|100|90|75|60|0|0|0|0|0|0|0|0|0|0|
+|221310808|Jorge Gomez|100|100|90|100|100|0|0|0|0|0|0|0|0|0|0|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|0|0|0|0|0|0|0|0|0|
 |221310778|Ricardo Gutiérrez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno|100|70|100|58|0|0|0|0|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco|100|100|100|100|0|0|0|0|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz|100|100|90|75|0|0|0|0|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez|100|90|100|100|0|0|0|0|0|0|0|0|0|0|0|
+|221310727|Esther Moreno|100|70|100|58|90|0|0|0|0|0|0|0|0|0|0|
+|221310786|Patricio Orozco|100|100|100|100|80|0|0|0|0|0|0|0|0|0|0|
+|211680429|Cristian Ruiz|100|100|90|75|90|0|0|0|0|0|0|0|0|0|0|
+|221310743|Eduardo Sánchez|100|90|100|100|70|0|0|0|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*)|ACT 04<br>*Colab*|
-|:---|:---|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|0|
-|221310808|Jorge Gomez|100|100|0|
-|220981326|Rosa Guerrero|100|100|0|
-|221310778|Ricardo Gutiérrez|100|0|0|
-|221310727|Esther Moreno|100|100|0|
-|221310786|Patricio Orozco|100|100|100|
-|211680429|Cristian Ruiz|100|100|0|
-|221310743|Eduardo Sánchez|100|100|100|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*)|ACT 04<br>*Colab*|ACT 08<br>*Git & GitHub*|
+|:---|:---|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|0|100|
+|221310808|Jorge Gomez|100|100|0|100|
+|220981326|Rosa Guerrero|100|100|100|100|
+|221310778|Ricardo Gutiérrez|100|0|0|0|
+|221310727|Esther Moreno|100|100|0|0|
+|221310786|Patricio Orozco|100|100|100|100|
+|211680429|Cristian Ruiz|100|100|0|0|
+|221310743|Eduardo Sánchez|100|100|100|100|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
