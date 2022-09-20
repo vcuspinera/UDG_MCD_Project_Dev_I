@@ -121,7 +121,12 @@ git push
 ```
 
 ## 6. Actualizar repositorio local Git desde repositorio remoto de GitHub
-En caso de hacer cambios en el repositorio remoto y querer actualizarlos en el repositorio local, lo que hay que hacer es ubicarse en la Terminal en el repositorio “hello”, y correr el siguiente código
+Para revisar este punto en el repositorio de GitHub editaremos el archivo README.md del directorio raíz del repositorio añadiendo un texto, por ejemplo: 
+```
+La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
+```
+
+Una vez realizado algún cambio en el repositorio remoto en GitHub, para actualizar nuestro repositorio local con este cambio lo que hay que hacer es ubicarse en la Terminal en el repositorio raíz de la carpeta “hello”, y correr el siguiente código:
 
 ```
 git pull
