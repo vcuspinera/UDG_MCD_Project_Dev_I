@@ -37,12 +37,14 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
 1. crear un archivo de nombre `README.md`, en el que se deberá...
 2. añadir un título, 
 3. una breve descripción del archivo **“Harry_Potter.ipynb”**,
-4. añadir una imagen relacionada con Harry Potter. **Hint:** 
+4. añadir una imagen relacionada con Harry Potter. **Hint:**
+
     4.1 Entrar a la página de [GIPHY](https://giphy.com)  
         A. identificar un GIF que les guste  
         B. dar click sobre el GIF  
         C. dar click sobre **Share**  
         D. dar click sobre **Copy GIF Link**  
+        
     4.2 Usar el código para añadir imagenes que vimos en las actividades [05_Markdown_basics.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md) y [06_GitHub_practice.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/06_GitHub_practice.md))
 
         ```
