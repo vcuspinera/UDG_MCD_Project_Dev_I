@@ -74,7 +74,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 ## Desgloce de calificaciones de **quizes de lecturas**
 
-|ID. |Nombre|Quiz: 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
+|ID. |Nombre|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|90|75|60|0|0|0|0|0|0|0|0|0|0|
 |221310808|Jorge Gomez|100|100|90|100|100|0|0|0|0|0|0|0|0|0|0|
@@ -89,7 +89,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*)|ACT 04<br>*Colab*|ACT 08<br>*Git & GitHub*|
 |:---|:---|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|0|100|
-|221310808|Jorge Gomez|100|100|0|100|
+|221310808|Jorge Gomez|100|100|100|100|
 |220981326|Rosa Guerrero|100|100|100|100|
 |221310778|Ricardo Gutiérrez|100|0|0|0|
 |221310727|Esther Moreno|100|100|0|0|
