@@ -20,12 +20,13 @@ En esta sección realizaremos una actividad:
 Esta acción creará una copia del repositorio original en su cuenta de GitHub la cual tendrá el mismo nombre que el original.
 
 ## 2. Clonar el repositorio en Git local
-Desde su nuevo repositorio *forkeado* con mombre `practice_actions`, deberán clonar este repositorio a su Git local, es decir:
+Desde su nuevo repositorio *forkeado* con nombre **practice_actions**, deberán clonar este repositorio a su Git local, es decir:
 1. dar click en `code`, seleccionar la opción `HTTPS` y copiar el URL,
-2. desde su interfaz de usuario, ubicarse en su carpeta de `Mis Documentos` o en el repositorio de actividades del curso que hayan creado,
-3. clonar el repositorio en su repositorio local Git, corriendo el siguiente comando:
+2. desde su interfaz de usuario, ubicarse en su carpeta de `Mis Documentos` o en el repositorio de actividades del curso que hayan creado en actividades previas,
+3. clonar el repositorio remoto GitHub en su repositorio local Git, corriendo el siguiente comando:
+
     ```
-    git clone pegar_URL
+    git clone pegar_URL_repositorio
     ```
 
 ## 3. Correr archivo en Jupyter
@@ -43,6 +44,7 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
         C. dar click sobre **Share**  
         D. dar click sobre **Copy GIF Link**  
     4.2 Usar el código para añadir imagenes que vimos en las actividades [05_Markdown_basics.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md) y [06_GitHub_practice.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/06_GitHub_practice.md))
+
         ```
         ![](pegar_link_aquí)  
         
@@ -53,10 +55,10 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
 
 Posteriormente habrá que subir la información del repositorio local Git al repositorio remoto GitHub, usando los comandos `git add`, `git commit` y `git push`.
 
-**Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) apra ver como usar los tres comandos mencionados de `git`.
+**Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) para ver como usar los tres comandos mencionados de `git`.
 
 ## 6. Comentarios Finales
-Una vez realizado lo anterior podremos identificar que estos cambios se ven reflejados en la carpeta remota ubicada en GitHub, la cual fue *forkeada* y posteriormente modificada. En resumen, cuando hacemos `Fork` de un repositorio, realizamos una copia del repositorio el cual lo usamos como una **base** para realizar modificaciones, desarrollar ideas propias y generar o mejorar código para nuevos proyectos.
+Una vez realizado lo anterior podremos identificar que estos cambios se ven reflejados en la carpeta remota ubicada en GitHub, la cual fue *forkeada* y posteriormente modificada. En resumen, cuando hacemos `Fork` de un repositorio de otro usuario, realizamos una copia en nuestros repositorios remotos en GitHub, el cual lo usamos como una **base** para realizar modificaciones, desarrollar ideas propias, y generar/actualizar/utilizar el código para nuestros nuevos proyectos.
 
 ## 7. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.

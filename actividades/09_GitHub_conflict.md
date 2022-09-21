@@ -48,8 +48,8 @@ Para corregir un conflicto habrá que seguir los siguientes pasos:
 1. desde la Terminal correr el código `git pull` donde el sistema te dirá el nombre del archivo que tiene conflicto,
 2. abrir el archivo que tiene conflicto usando un editor de texto como **Visual Studio Code** o **Atom**,
 3. En el texto buscar el o los conflictos:
-    3.1. Cada conflicto inicia con el texto “<<<<<<< HEAD”, le sigue el texto original, un separador “=======”, y el texto modificado, y termina con “>>>>>>>” y un código del `branch` (rama).
-    Ejemplo:
+    3.1. Cada conflicto inicia con el texto "<<<<<<< HEAD", le sigue el texto original, un separador "=======", y el texto modificado, y termina con ">>>>>>>" y un código del `branch` (rama). Ejemplo:
+
         ```
         If you have questions, please
         <<<<<<< HEAD
@@ -58,12 +58,15 @@ Para corregir un conflicto habrá que seguir los siguientes pasos:
         contact the professor by email.
         >>>>>>> badd5c8c450e1000are9b14b4383acc99f49ar1f
         ```
-    3.2. Para corregir los conflictos hay que editar manualmente el texto, quitando “<<<<<<< HEAD”, el separador “=======” y el cierre “>>>>>>>” con código de la rama. Ejemplo:
+
+    3.2. Para corregir los conflictos hay que editar manualmente el texto, quitando "<<<<<<< HEAD", el separador "=======" y el cierre ">>>>>>>" con código de la rama. Ejemplo:
+
         ```
         If you have questions, please open an issue or 
         contact the professor by email.
         ```
-4. Una vez corregido el conflicto, habrá que salvar el archivo y subir los cambios al repositorio remoto desde la terminal con `git add`, `git commit` y `git push`.
+
+4. Una vez corregido el conflicto, habrá que salvar el archivo y subir los cambios al repositorio remoto desde la terminal con `git add`, `git commit` y `git push`. **Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) para ver como usar los tres comandos mencionados de `git`.
 
 ## 4. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.
