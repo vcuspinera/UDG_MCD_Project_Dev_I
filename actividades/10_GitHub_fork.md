@@ -39,11 +39,12 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
 3. una breve descripción del archivo **“Harry_Potter.ipynb”**,
 4. añadir una imagen relacionada con Harry Potter. **Hint:**
 
-    4.1 Entrar a la página de [GIPHY](https://giphy.com)  
-        A. identificar un GIF que les guste  
-        B. dar click sobre el GIF  
-        C. dar click sobre **Share**  
-        D. dar click sobre **Copy GIF Link**  
+    4.1 Entrar a la página de [GIPHY](https://giphy.com):
+
+         A. identificar un GIF que les guste de Harry Potter,   
+         B. dar click sobre el GIF,  
+         C. dar click sobre **Share**,  
+         D. dar click sobre **Copy GIF Link** de menor peso.  
         
     4.2 Usar el código para añadir imagenes que vimos en las actividades [05_Markdown_basics.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md) y [06_GitHub_practice.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/06_GitHub_practice.md))
 
@@ -60,7 +61,7 @@ Posteriormente habrá que subir la información del repositorio local Git al rep
 **Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) para ver como usar los tres comandos mencionados de `git`.
 
 ## 6. Comentarios Finales
-Una vez realizado lo anterior podremos identificar que estos cambios se ven reflejados en la carpeta remota ubicada en GitHub, la cual fue *forkeada* y posteriormente modificada. En resumen, cuando hacemos `Fork` de un repositorio de otro usuario, realizamos una copia en nuestros repositorios remotos en GitHub, el cual lo usamos como una **base** para realizar modificaciones, desarrollar ideas propias, y generar/actualizar/utilizar el código para nuestros nuevos proyectos.
+Una vez realizado lo anterior podremos identificar que estos cambios se ven reflejados en la carpeta remota ubicada en GitHub, la cual fue *forkeada* y posteriormente modificada. En resumen, cuando hacemos `Fork` de un repositorio de otro usuario, realizamos una copia en nuestros repositorios remotos en GitHub, el cual lo usamos como una **base** para realizar modificaciones, desarrollar ideas propias, y generar / actualizar / utilizar el código para nuestros nuevos proyectos.
 
 ## 7. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.
