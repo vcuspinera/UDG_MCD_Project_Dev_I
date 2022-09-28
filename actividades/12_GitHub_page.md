@@ -69,7 +69,7 @@ Puedes ver el resultado final desde la página `https://username.github.io` dond
 
 Por ejemplo, yo hice la siguiente página https://vic-cuspinera.github.io la cual se observa así:
 
-<img src="img/12-01_webpage.png" width="600">
+<img src="img/12-01_webpage.png" width="800">
 
 ⚠️ __Nota:__ existen distintas plantillas (_templates_) que tienen distintos formatos con Jekyll para enriquecer su página web de GitHub, sin embargo, esto no se verá dentro del curso.
 
