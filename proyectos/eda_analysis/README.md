@@ -3,7 +3,7 @@
 ## ⚙️ Generalidades
 El proyecto de análisis EDA es una actividad de la materia de _Desarrollo de Proyectos II_ el cual tiene un valor del **10%** sobre la calificación final, se desarrollará **de forma individual**.
 
-En la siguiente tabla deberán de añadir el link del reposotorio que desarrollaron para el proyecto EDA:
+En la siguiente tabla deberán de añadir el link del repositorio que desarrollaron para el proyecto EDA:
 
 |Id. UDG |Nombre |GitHub user|Repositorio del proy. EDA               |
 |:------:|:-----|:---------|:--------------------------------------|
@@ -25,7 +25,7 @@ En la siguiente tabla deberán de añadir el link del reposotorio que desarrolla
     - Missing values
     - Visualización de datos
     - Referencias
-  - Realizar el análsiis en un *notebook* de Jupyter.
+  - Realizar el análisis en un *notebook* de Jupyter.
 
 ⚠️ Para referencia ver el notebook de la actividad [12•EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/12_EDA.ipynb).
 
@@ -39,7 +39,7 @@ En la siguiente tabla deberán de añadir el link del reposotorio que desarrolla
 
 ## 📚 Entregables:
 
-- Añadir link de su reposotorio al inicio de este REDAME file
+- Añadir link de su repositorio al inicio de este REDAME file
 - Repositorio en GitHub
 - Jupyter notebook de EDA
 
