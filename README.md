@@ -65,7 +65,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 |C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
 |D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
-⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un mácimo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.*
+⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un máximo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la Evaluación General.*
 
 ## Material del curso
 Esta es una vista general sobre el material del curso, para mayor detalle revisar los links correspondientes.
