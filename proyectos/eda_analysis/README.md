@@ -13,7 +13,7 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 |221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |Poner aquí el link del repositorio|
 |221310786 |Patricio Orozco | [patrickscln](https://github.com/patrickscln)         |Poner aquí el link del repositorio|
 |211680429 |Cristian Ruiz   | [CrisRuizRn](https://github.com/CrisRuizRn)           |Poner aquí el link del repositorio|
-|221310743 |Eduardo Sánchez | [EduardoSanchezZ](https://github.com/EduardoSanchezZ) |https://github.com/EduardoSanchezZ/Proyecto-Sports-Analytics|
+|221310743 |Eduardo Sánchez | [EduardoSanchezZ](https://github.com/EduardoSanchezZ) |[Proyecto Sports Analytics]https://github.com/EduardoSanchezZ/Proyecto-Sports-Analytics|
 
 ## 🛠 Actividad a desarrollar
 
