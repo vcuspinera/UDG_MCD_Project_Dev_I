@@ -7,7 +7,7 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 
 | Id. UDG  | Nombre         | GitHub user                                           | Repositorio del proy. EDA        |
 |:--------:|:---------------|:------------------------------------------------------|:---------------------------------|
-|213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |Poner aquí el link del repositorio|
+|213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |[Airbnb Buenos Aires(https://github.com/Carol-Castaneda/EDA_Airbnb_Buenos-Aires)]|
 |221310808 |Jorge Gomez     | [joregc](https://github.com/joregc)                   |Poner aquí el link del repositorio|
 |220981326 |Rosa Guerrero   | [RosaGuerrero05](https://github.com/RosaGuerrero05)   |Poner aquí el link del repositorio|
 |221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |Poner aquí el link del repositorio|
