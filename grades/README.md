@@ -28,10 +28,11 @@ Se revisará que los alumnos realicen las actividades expuestas y que estarán d
 Al finalizar cada clase se levantará un *Issue* con las actividades pendientes en el repositorio de GitHub de la materia ([click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues)) y se compartirá por Slack, favor de estar atentos.
 
 ### 4) Proyecto de análisis EDA
-Trabajo en equipo a realizar a mediados de semestre, en el cual se seleccionará una base de datos y realizará análisis exploratorio de datos.
+Trabajo individual a realizar a mediados de semestre, en el cual se seleccionará una base de datos y realizará análisis exploratorio de datos.
+[Dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis) para acceder a los detalles sobre este proyecto.
 
 ### 5) Proyecto final
-Trabajo en equipo a realizar al final del semestre un proyecto.
+Trabajo para realizar al final del semestre un proyecto.
 
 ## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 |#|Descripción| Porcentaje|
@@ -56,17 +57,19 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 ## Resumen de calificaciones
 
-|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
-|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||||
-|213388296 |Carol Castañeda   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310808 |Jorge Gomez       |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|220981326 |Rosa Guerrero     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310778 |Ricardo Gutiérrez |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310727 |Esther Moreno     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310786 |Patricio Orozco   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|211680429 |Cristian Ruiz     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310743 |Eduardo Sánchez   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+__Calificación final__|
+Se comparten las calificaciones acumuladas a la fecha de última actualización.
+
+|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Actividades<br>(20%)|Proyecto EDA<br>(10%)|Proyecto Final<br>(20%)|Ptos. extras<br>(+)|
+|---|---|---|---|---|---|---|---|
+|213388296|Carol Castañeda  |13.3|12.5|6.7|7.5|0|__40__|
+|221310808|Jorge Gomez      |6.7|13.3|5.3|0|0|__25.3__|
+|220981326|Rosa Guerrero    |6.7|10.4|5.3|0|0|__22.4__|
+|221310778|Ricardo Gutiérrez|0|2|1.3|0|0|__3.3__|
+|221310727|Esther Moreno    |13.3|11.4|3.7|7.5|0|__36__|
+|221310786|Patricio Orozco  |6.7|13.6|6.7|7.5|0|__34.4__|
+|211680429|Cristian Ruiz    |13.3|12.6|5.3|7.5|0|__38.8__|
+|221310743|Eduardo Sánchez  |6.7|12.8|6.7|7.5|0|__33.6__|
 
 ⚠️ **Calificaciones generales pendientes.**
 
@@ -86,6 +89,8 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |221310743|Eduardo Sánchez|100|90|100|100|70|80|100|0|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
+Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.
+
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|
 |:---|:---|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|100|100|100|
@@ -104,10 +109,11 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |213388296|Carol Castañeda|Pendiente|100|100|100|Pendiente|
 |221310808|Jorge Gomez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
 |220981326|Rosa Guerrero|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310727|Esther Moreno|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310786|Patricio Orozco|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
-|211680429|Cristian Ruiz|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
-|221310743|Eduardo Sánchez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
+|221310778|Ricardo Gutiérrez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310727|Esther Moreno|Pendiente|100|100|100|Pendiente|
+|221310786|Patricio Orozco|Pendiente|100|100|100|Pendiente|
+|211680429|Cristian Ruiz|Pendiente|100|100|100|Pendiente|
+|221310743|Eduardo Sánchez|Pendiente|100|100|100|Pendiente|
 
 ## Desgloce de calificaciones de **proyecto final**
 
