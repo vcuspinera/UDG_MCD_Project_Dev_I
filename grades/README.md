@@ -50,7 +50,7 @@ Trabajo en equipo a realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2022-09-08**
+Última actualización al: **2022-10-17**
 
 <br>
 
@@ -59,14 +59,14 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 |ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Seguimiento actividades<br>(20%)|Análisis EDA<br>(10%)|Proyecto final<br>(20%)|Ptos. extras<br>(+)|__Calificación final__|
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||||||||
-|213388296 |Carol Castañeda ||||||||
-|221310808 |Jorge Gomez ||||||||
-|220981326 |Rosa Guerrero||||||||
-|221310778 |Ricardo Gutiérrez ||||||||
-|221310727 |Esther Moreno||||||||
-|221310786 |Patricio Orozco ||||||||
-|211680429 |Cristian Ruiz ||||||||
-|221310743 |Eduardo Sánchez||||||||
+|213388296 |Carol Castañeda   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310808 |Jorge Gomez       |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|220981326 |Rosa Guerrero     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310778 |Ricardo Gutiérrez |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310727 |Esther Moreno     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310786 |Patricio Orozco   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|211680429 |Cristian Ruiz     |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310743 |Eduardo Sánchez   |Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
 
 ⚠️ **Calificaciones generales pendientes.**
 
@@ -76,30 +76,38 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 |ID. |Nombre|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|0|0|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez|100|100|90|100|100|80|0|0|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|0|0|0|0|0|0|0|0|0|
+|213388296|Carol Castañeda|100|100|90|75|60|100|100|0|0|0|0|0|0|0|0|
+|221310808|Jorge Gomez|100|100|90|100|100|80|96|0|0|0|0|0|0|0|0|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|88|0|0|0|0|0|0|0|0|
 |221310778|Ricardo Gutiérrez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno|100|70|100|58|90|70|0|0|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco|100|100|100|100|80|100|0|0|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|0|0|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|0|0|0|0|0|0|0|0|0|
+|221310727|Esther Moreno|100|70|100|58|90|70|83|0|0|0|0|0|0|0|0|
+|221310786|Patricio Orozco|100|100|100|100|80|100|100|0|0|0|0|0|0|0|0|
+|211680429|Cristian Ruiz|100|100|90|75|90|80|96|0|0|0|0|0|0|0|0|
+|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|0|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|
-|:---|:---|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|
-|221310808|Jorge Gomez|100|100|100|0|
-|220981326|Rosa Guerrero|100|100|100|0|
-|221310778|Ricardo Gutiérrez|100|0|0|0|
-|221310727|Esther Moreno|100|100|0|0|
-|221310786|Patricio Orozco|100|100|100|100|
-|211680429|Cristian Ruiz|100|100|0|100|
-|221310743|Eduardo Sánchez|100|100|100|100|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|
+|:---|:---|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|100|100|100|
+|221310808|Jorge Gomez|100|100|100|0|100|
+|220981326|Rosa Guerrero|100|100|100|0|100|
+|221310778|Ricardo Gutiérrez|100|0|0|0|0|
+|221310727|Esther Moreno|100|100|0|0|80|
+|221310786|Patricio Orozco|100|100|100|100|100|
+|211680429|Cristian Ruiz|100|100|0|100|100|
+|221310743|Eduardo Sánchez|100|100|100|100|100|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
-![](https://media.giphy.com/media/8FDcbUWJ5LYqIx11Q2/giphy.gif)
+|ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|TOTAL|
+|:---|:---|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|Pendiente|100|100|100|Pendiente|
+|221310808|Jorge Gomez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|220981326|Rosa Guerrero|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310727|Esther Moreno|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310786|Patricio Orozco|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
+|211680429|Cristian Ruiz|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
+|221310743|Eduardo Sánchez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente||100|100|100|Pendiente|
 
 ## Desgloce de calificaciones de **proyecto final**
 
@@ -107,20 +115,20 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 ## Desgloce de **puntos extras**
 
-![](https://media.giphy.com/media/3oFzmpzTfyABIX6JBm/giphy-downsized.gif)
+#### ⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!
 
 ## Asistencia
 
 |ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda  |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez      |1|1|1|1|0|0|0|0|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero    |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
+|213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|0|0|0|0|0|0|0|
+|220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
 |221310778|Ricardo Gutiérrez|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno    |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco  |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz    |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez  |1|1|1|1|1|0|0|0|0|0|0|0|0|0|0|
+|221310727|Esther Moreno    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
 
 Donde: el código **1** es "asistencia", y **0** es "inasistencia".
 
