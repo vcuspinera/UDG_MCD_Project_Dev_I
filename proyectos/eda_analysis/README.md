@@ -7,13 +7,13 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 
 | Id. UDG  | Nombre         | GitHub user                                           | Repositorio del proy. EDA        |
 |:--------:|:---------------|:------------------------------------------------------|:---------------------------------|
-|213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |Poner aquí el link del repositorio|
+|213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |[Airbnb Buenos Aires](https://github.com/Carol-Castaneda/EDA_Airbnb_Buenos-Aires)|
 |221310808 |Jorge Gomez     | [joregc](https://github.com/joregc)                   |Poner aquí el link del repositorio|
 |220981326 |Rosa Guerrero   | [RosaGuerrero05](https://github.com/RosaGuerrero05)   |Poner aquí el link del repositorio|
-|221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |Poner aquí el link del repositorio|
-|221310786 |Patricio Orozco | [patrickscln](https://github.com/patrickscln)         |Poner aquí el link del repositorio|
-|211680429 |Cristian Ruiz   | [CrisRuizRn](https://github.com/CrisRuizRn)           |Poner aquí el link del repositorio|
-|221310743 |Eduardo Sánchez | [EduardoSanchezZ](https://github.com/EduardoSanchezZ) |Poner aquí el link del repositorio|
+|221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |[AB testing EDA](https://github.com/Esthermo/AB-Testing)|
+|221310786 |Patricio Orozco | [patrickscln](https://github.com/patrickscln)         |[Mariscos Guasave EDA](https://github.com/patrickscln/MG_EDA.git)|
+|211680429 |Cristian Ruiz   | [CrisRuizRn](https://github.com/CrisRuizRn)           |[Vinos_EDI](https://github.com/CrisRuizRn/Vinos_EDI)|
+|221310743 |Eduardo Sánchez | [EduardoSanchezZ](https://github.com/EduardoSanchezZ) |[Proyecto Sports Analytics](https://github.com/EduardoSanchezZ/Proyecto-Sports-Analytics)|
 
 ## 🛠 Actividad a desarrollar
 
