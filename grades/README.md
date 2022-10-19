@@ -61,15 +61,15 @@ __Calificación final__|
 Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Actividades<br>(20%)|Proyecto EDA<br>(10%)|Proyecto Final<br>(20%)|Ptos. extras<br>(+)|
-|---|---|---|---|---|---|---|---|
-|213388296|Carol Castañeda  |13.3|12.5|6.7|7.5|0|__40__|
-|221310808|Jorge Gomez      |6.7|13.3|5.3|0|0|__25.3__|
-|220981326|Rosa Guerrero    |6.7|10.4|5.3|0|0|__22.4__|
+|---|---|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|13.3|12.5|6.7|10|0|__42.5__|
+|221310808|Jorge Gomez|6.7|13.3|5.3|0|0|__25.3__|
+|220981326|Rosa Guerrero|6.7|10.4|6.7|0|0|__23.8__|
 |221310778|Ricardo Gutiérrez|0|2|1.3|0|0|__3.3__|
-|221310727|Esther Moreno    |13.3|11.4|3.7|7.5|0|__36__|
-|221310786|Patricio Orozco  |6.7|13.6|6.7|7.5|0|__34.4__|
-|211680429|Cristian Ruiz    |13.3|12.6|5.3|7.5|0|__38.8__|
-|221310743|Eduardo Sánchez  |6.7|12.8|6.7|7.5|0|__33.6__|
+|221310727|Esther Moreno|13.3|11.4|3.7|9.5|0|__38.0__|
+|221310786|Patricio Orozco|6.7|13.6|6.7|10|0|__36.9__|
+|211680429|Cristian Ruiz|13.3|12.6|5.3|10|0|__41.3__|
+|221310743|Eduardo Sánchez|6.7|12.8|6.7|9.7|0|__35.8__|
 
 ⚠️ **Calificaciones generales pendientes.**
 
@@ -95,7 +95,7 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |:---|:---|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|100|100|100|
 |221310808|Jorge Gomez|100|100|100|0|100|
-|220981326|Rosa Guerrero|100|100|100|0|100|
+|220981326|Rosa Guerrero|100|100|100|100|100|
 |221310778|Ricardo Gutiérrez|100|0|0|0|0|
 |221310727|Esther Moreno|100|100|0|0|80|
 |221310786|Patricio Orozco|100|100|100|100|100|
@@ -106,14 +106,15 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 
 |ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|TOTAL|
 |:---|:---|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|Pendiente|100|100|100|Pendiente|
+|213388296|Carol Castañeda|100|100|100|100|100|
 |221310808|Jorge Gomez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
 |220981326|Rosa Guerrero|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
 |221310778|Ricardo Gutiérrez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310727|Esther Moreno|Pendiente|100|100|100|Pendiente|
-|221310786|Patricio Orozco|Pendiente|100|100|100|Pendiente|
-|211680429|Cristian Ruiz|Pendiente|100|100|100|Pendiente|
-|221310743|Eduardo Sánchez|Pendiente|100|100|100|Pendiente|
+|221310727|Esther Moreno|90|100|100|100|95|
+|221310786|Patricio Orozco|100|100|100|100|100|
+|211680429|Cristian Ruiz|100|100|100|100|100|
+|221310743|Eduardo Sánchez|100|90|100|100|97|
+
 
 ## Desgloce de calificaciones de **proyecto final**
 
@@ -121,7 +122,7 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 
 ## Desgloce de **puntos extras**
 
-#### ⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!
+**⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!**
 
 ## Asistencia
 
@@ -136,7 +137,7 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
 |221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
 
-Donde: el código **1** es "asistencia", y **0** es "inasistencia".
+*Nota: el código **1** es "asistencia", y **0** es "inasistencia".*
 
 ## Comentarios
 
