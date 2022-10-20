@@ -79,28 +79,28 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID. |Nombre|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|100|0|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez|100|100|90|100|100|80|96|0|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|88|0|0|0|0|0|0|0|0|
+|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|0|0|0|0|0|0|0|
+|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|0|0|0|0|0|0|0|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|0|0|0|0|0|0|0|
 |221310778|Ricardo Gutiérrez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno|100|70|100|58|90|70|83|0|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco|100|100|100|100|80|100|100|0|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|96|0|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|0|0|0|0|0|0|0|0|
+|221310727|Esther Moreno|100|70|100|58|90|70|83|70|0|0|0|0|0|0|0|
+|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|0|0|0|0|0|0|0|
+|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|0|0|0|0|0|0|0|
+|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|0|0|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
 Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.
 
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|
-|:---|:---|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|100|
-|221310808|Jorge Gomez|100|100|100|0|100|
-|220981326|Rosa Guerrero|100|100|100|100|100|
-|221310778|Ricardo Gutiérrez|100|0|0|0|0|
-|221310727|Esther Moreno|100|100|0|0|80|
-|221310786|Patricio Orozco|100|100|100|100|100|
-|211680429|Cristian Ruiz|100|100|0|100|100|
-|221310743|Eduardo Sánchez|100|100|100|100|100|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|
+|:---|:---|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|100|100|100|100|
+|221310808|Jorge Gomez|100|100|100|0|100|100|
+|220981326|Rosa Guerrero|100|100|100|100|100|100|
+|221310778|Ricardo Gutiérrez|100|0|0|0|0|0|
+|221310727|Esther Moreno|100|100|0|0|80|100|
+|221310786|Patricio Orozco|100|100|100|100|100|0|
+|211680429|Cristian Ruiz|100|100|0|100|100|100|
+|221310743|Eduardo Sánchez|100|100|100|100|100|0|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
@@ -128,14 +128,14 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 
 |ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
-|221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|0|0|0|0|0|0|0|
-|220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
+|221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|1|0|0|0|0|0|0|
+|220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
 |221310778|Ricardo Gutiérrez|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
-|221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
-|211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|
+|221310727|Esther Moreno    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
+|221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
+|211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
+|221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
 
 *Nota: el código **1** es "asistencia", y **0** es "inasistencia".*
 
