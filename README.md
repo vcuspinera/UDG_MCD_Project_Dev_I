@@ -85,8 +85,8 @@ El material y actividades por clase se enlistan a continuación:
 |7| 2022-09-28| <ul><li>Buenas prácticas para programar en Data Science</li></ul> |<ul><li>[Presentación Papers, (1) Good Enough Pract Sc Computing y (2) Problem with Dates](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>[Activ. 11, Estructura de repositorio siguiendo recomendaciones de papers](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md)</li><li>[Comentar sobre _Everybody Lies_](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers)</li><li>[Quiz 06, Papers: (1) Good Enough Pract Sc Computing y (2) Problem with Dates)](https://forms.office.com/r/D7ptLzb4CG)</li></ul>| <ul><li>[Ver Issue #36](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/36)</li></ul>|
 |8| 2022-10-05| <ul><li>EDA</li></ul> |<ul><li>Charla con [Andrés Pitta - United Nations](https://www.linkedin.com/in/andrespitta19/)</li><li>[Activ. 12, Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/12_EDA.ipynb)</li><li>[Guía para proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis)</li></ul>| <ul><li>[Ver Issue #37](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/37)</li></ul> |
 |9| 2022-10-12| N/A |__No habrá clase__ |N/A |
-|10| 2022-10-19| <ul><li>Análisis cualitativo de riesgos</li><li>GitHub página personal</li></ul> |<ul><li>[Presentación cap. 6, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>[Activ. 13, Página web personal](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/13_GitHub_page.md)</li><li>Comentarios sobre el proyecto de EDA</li><li>[Revisión de calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)</li><li>[Quiz 07, cap. 6 del libro PMI-RMP](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAEWiHEpRKVUOURBRjFETTBEU0lQVjlBSEE5NlI0QUozUS4u)</li></ul>|P.D. |
-|11| 2022-10-26| <ul><li>Análisis cuantitativo de riesgos</li></ul> |<ul><li>[Presentación cap. 7, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>Quiz 08, cap. 7 del libro PMI-RMP</li></ul>|P.D. |
+|10| 2022-10-19| <ul><li>Análisis cualitativo de riesgos</li><li>GitHub página personal</li></ul> |<ul><li>[Presentación cap. 6, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>[Activ. 13, Página web personal](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/13_GitHub_page.md)</li><li>[Compartir observaciones de proyectos de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis)</li><li>[Revisión de calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)</li><li>[Quiz 07, cap. 6 del libro PMI-RMP](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAEWiHEpRKVUOURBRjFETTBEU0lQVjlBSEE5NlI0QUozUS4u)</li></ul>|<ul><li>[Ver Issue #40](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/40)</li></ul>|
+|11| 2022-10-26| <ul><li>Análisis cuantitativo de riesgos</li></ul> |<ul><li>[Presentación cap. 7, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>[Quiz 08, cap. 7 del libro PMI-RMP](https://forms.office.com/r/0ex679kiU2)</li></ul>|P.D. |
 |12| 2022-11-02| N/A |__No habrá clase__|N/A |
 |13| 2022-11-09| <ul><li>Planeación de respuesta a riesgos</li></ul>  |<ul><li>[Presentación cap. 8, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>Quiz 09, cap. 8 del libro PMI-RMP</li></ul> |P.D. |
 |14| 2022-11-16| <ul><li>Monitoreo y control de riesgos</li></ul>  |<ul><li>[Presentación cap. 9, libro PMI-RMP](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)</li><li>Quiz 10, cap. 9 del libro PMI-RMP</li></ul> |P.D. |
@@ -110,6 +110,10 @@ __Material base__
 - [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
+__Proyectos__
+- [Proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis)
+- [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval)
+
 __Material extendido__
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
@@ -119,14 +123,14 @@ Para mayor detalle de la bibliografía del curso, revisar el documento de [`Refe
 
 ## Organización de carpetas
     ├── proyectos               <- Carpeta con proyectos del curso.
-    │   ├── eda_analysis        <- Carpeta para proyecto con análisis exploratiorio.
+    │   ├── eda_analysis        <- Carpeta para proyecto con análisis exploratorio.
     │   └── final_eval          <- Carpeta para proyecto final de la materia.
     │
     ├── actividades             <- Carpeta con actividades y material para el curso.
     │   ├── data                <- Descripción de carpeta.
     │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
-    │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API
+    │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API.
     │   ├── src                 <- Carpeta con programas y código.
     │   └── material            <- Carpeta con material para el curso.
     │       ├── Libro_PMI-RMP   <- Carpeta del libro de Riesgo de *Project Managment*.
@@ -134,6 +138,6 @@ Para mayor detalle de la bibliografía del curso, revisar el documento de [`Refe
     │
     ├── grades                  <- Carpeta con calificaciones del curso.
     │
-    ├── README.md               <- Archivo principal README con presentación del proyecto
+    ├── README.md               <- Archivo principal README con presentación del proyecto.
     ├── LICENSE                 <- Archivo con licencia del material del repositorio.
     └── Referencias.md          <- Archivo con bibliografía y referencias del curso.
