@@ -8,7 +8,7 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 | Id. UDG  | Nombre         | GitHub user                                           | Repositorio del proy. EDA        |
 |:--------:|:---------------|:------------------------------------------------------|:---------------------------------|
 |213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |[Airbnb Buenos Aires](https://github.com/Carol-Castaneda/EDA_Airbnb_Buenos-Aires)|
-|221310808 |Jorge Gomez     | [joregc](https://github.com/joregc)                   |Poner aquí el link del repositorio|
+|221310808 |Jorge Gomez     | [joregc](https://github.com/joregc)                   |[Análisis de partidas AOE2:DE](https://github.com/joregc/AOE2de-Analisis-de-partidas)|
 |220981326 |Rosa Guerrero   | [RosaGuerrero05](https://github.com/RosaGuerrero05)   |Poner aquí el link del repositorio|
 |221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |[AB testing EDA](https://github.com/Esthermo/AB-Testing)|
 |221310786 |Patricio Orozco | [patrickscln](https://github.com/patrickscln)         |[Mariscos Guasave EDA](https://github.com/patrickscln/MG_EDA.git)|
