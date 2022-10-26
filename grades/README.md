@@ -62,14 +62,14 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Actividades<br>(20%)|Proyecto EDA<br>(10%)|Proyecto Final<br>(20%)|Ptos. extras<br>(+)|
 |---|---|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|13.3|12.5|6.7|10|0|__42.5__|
-|221310808|Jorge Gomez|6.7|13.3|5.3|0|0|__25.3__|
-|220981326|Rosa Guerrero|6.7|10.4|6.7|0|0|__23.8__|
+|213388296|Carol Castañeda|13.3|13.9|8|10|0|__45.2__|
+|221310808|Jorge Gomez|13.3|15.3|6.7|9|0|__44.3__|
+|220981326|Rosa Guerrero|6.7|12.2|8|0|0|__26.9__|
 |221310778|Ricardo Gutiérrez|0|2|1.3|0|0|__3.3__|
-|221310727|Esther Moreno|13.3|11.4|3.7|9.5|0|__38.0__|
-|221310786|Patricio Orozco|6.7|13.6|6.7|10|0|__36.9__|
-|211680429|Cristian Ruiz|13.3|12.6|5.3|10|0|__41.3__|
-|221310743|Eduardo Sánchez|6.7|12.8|6.7|9.7|0|__35.8__|
+|221310727|Esther Moreno|13.3|12.8|5.1|9.5|0|__40.7__|
+|221310786|Patricio Orozco|6.7|15.6|6.7|10|0|__38.9__|
+|211680429|Cristian Ruiz|13.3|14.6|6.7|10|0|__44.6__|
+|221310743|Eduardo Sánchez|13.3|14.8|6.7|9.7|0|__44.5__|
 
 ⚠️ **Calificaciones generales pendientes.**
 
@@ -98,7 +98,7 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |220981326|Rosa Guerrero|100|100|100|100|100|100|
 |221310778|Ricardo Gutiérrez|100|0|0|0|0|0|
 |221310727|Esther Moreno|100|100|0|0|80|100|
-|221310786|Patricio Orozco|100|100|100|100|100|0|
+|221310786|Patricio Orozco|100|100|100|100|100|100|
 |211680429|Cristian Ruiz|100|100|0|100|100|100|
 |221310743|Eduardo Sánchez|100|100|100|100|100|0|
 
@@ -107,9 +107,9 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|TOTAL|
 |:---|:---|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|100|100|100|
-|221310808|Jorge Gomez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310808|Jorge Gomez|100|100|100|0|90|
 |220981326|Rosa Guerrero|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310778|Ricardo Gutiérrez|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
+|221310778|Ricardo Gutiérrez|0|0|0|0|0|
 |221310727|Esther Moreno|90|100|100|100|95|
 |221310786|Patricio Orozco|100|100|100|100|100|
 |211680429|Cristian Ruiz|100|100|100|100|100|
@@ -126,19 +126,19 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 
 ## Asistencia
 
-|ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
-|221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|1|0|0|0|0|0|0|
-|220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
-|221310778|Ricardo Gutiérrez|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
-|221310727|Esther Moreno    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
-|221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
-|211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|
+|ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|221310778|Ricardo Gutiérrez|1|0|0|0|0|0|0|0|N/A|0|0|N/A|0|0|0|0|0|
+|221310727|Esther Moreno    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
+|221310743|Eduardo Sánchez  |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
 
-*Nota: el código **1** es "asistencia", y **0** es "inasistencia".*
+*Nota: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica".*
 
 ## Comentarios
 
-En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través del correo vcuspinera@gmail.com
+En caso de cualquier duda, aclaración o comentario favor de contactar al maestro Víctor Cuspinera a través de slack o a vcuspinera@gmail.com
