@@ -65,7 +65,6 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 |213388296|Carol Castañeda|13.3|13.9|8|10|0|__45.2__|
 |221310808|Jorge Gomez|13.3|15.3|6.7|9|0|__44.3__|
 |220981326|Rosa Guerrero|6.7|12.2|8|0|0|__26.9__|
-|221310778|Ricardo Gutiérrez|0|2|1.3|0|0|__3.3__|
 |221310727|Esther Moreno|13.3|12.8|5.1|9.5|0|__40.7__|
 |221310786|Patricio Orozco|6.7|15.6|6.7|10|0|__38.9__|
 |211680429|Cristian Ruiz|13.3|14.6|6.7|10|0|__44.6__|
@@ -82,7 +81,6 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 |213388296|Carol Castañeda|100|100|90|75|60|100|100|70|0|0|0|0|0|0|0|
 |221310808|Jorge Gomez|100|100|90|100|100|80|96|100|0|0|0|0|0|0|0|
 |220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|0|0|0|0|0|0|0|
-|221310778|Ricardo Gutiérrez|100|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 |221310727|Esther Moreno|100|70|100|58|90|70|83|70|0|0|0|0|0|0|0|
 |221310786|Patricio Orozco|100|100|100|100|80|100|100|100|0|0|0|0|0|0|0|
 |211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|0|0|0|0|0|0|0|
@@ -96,7 +94,6 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |213388296|Carol Castañeda|100|100|100|100|100|100|
 |221310808|Jorge Gomez|100|100|100|0|100|100|
 |220981326|Rosa Guerrero|100|100|100|100|100|100|
-|221310778|Ricardo Gutiérrez|100|0|0|0|0|0|
 |221310727|Esther Moreno|100|100|0|0|80|100|
 |221310786|Patricio Orozco|100|100|100|100|100|100|
 |211680429|Cristian Ruiz|100|100|0|100|100|100|
@@ -109,7 +106,6 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |213388296|Carol Castañeda|100|100|100|100|100|
 |221310808|Jorge Gomez|100|100|100|0|90|
 |220981326|Rosa Guerrero|Pendiente|Pendiente|Pendiente|Pendiente|Pendiente|
-|221310778|Ricardo Gutiérrez|0|0|0|0|0|
 |221310727|Esther Moreno|90|100|100|100|95|
 |221310786|Patricio Orozco|100|100|100|100|100|
 |211680429|Cristian Ruiz|100|100|100|100|100|
@@ -131,7 +127,6 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |213388296|Carol Castañeda  |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
 |221310808|Jorge Gomez      |1|1|1|1|1|0|1|1|N/A|1|0|N/A|0|0|0|0|0|
 |220981326|Rosa Guerrero    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
-|221310778|Ricardo Gutiérrez|1|0|0|0|0|0|0|0|N/A|0|0|N/A|0|0|0|0|0|
 |221310727|Esther Moreno    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
 |221310786|Patricio Orozco  |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|
 |211680429|Cristian Ruiz    |1|1|1|1|1|1|1|1|N/A|1|0|N/A|0|0|0|0|0|

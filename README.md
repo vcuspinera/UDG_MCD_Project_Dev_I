@@ -37,7 +37,6 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 |213388296 |Carol Castañeda |[carol.castaneda3882](mailto:carol.castaneda3882@alumnos.udg.mx) | --- |[Carol-Castaneda](https://github.com/Carol-Castaneda) |
 |221310808 |Jorge Gomez | [jorge.gomez1080](mailto:jorge.gomez1080@alumnos.udg.mx) | jore.gc@gmail.com |[joregc](https://github.com/joregc) |
 |220981326 |Rosa Guerrero| [rosa.guerrero8132](mailto:rosa.guerrero8132@alumnos.udg.mx) | rosy.gue.her@gmail.com |[RosaGuerrero05](https://github.com/RosaGuerrero05) |
-|221310778 |Ricardo Gutiérrez | [ricardo.gutierrez1077](mailto:ricardo.gutierrez1077@alumnos.udg.mx) | rgutierrezroque@gmail.com |[rgutierrezroqueudg](https://github.com/rgutierrezroqueudg) |
 |221310727 |Esther Moreno| [esther.moreno1072](mailto:esther.moreno1072@alumnos.udg.mx) |  esthermo90@gmail.com |[Esthermo](https://github.com/Esthermo)|
 |221310786 |Patricio Orozco | [juan.orozco1078](mailto:juan.orozco1078@alumnos.udg.mx) | patricio.orozco@outlook.com |[patrickscln](https://github.com/patrickscln) |
 |211680429 |Cristian Ruiz | [cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | --- |[CrisRuizRn](https://github.com/CrisRuizRn) |
