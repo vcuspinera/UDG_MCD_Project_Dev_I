@@ -48,10 +48,11 @@ Trabajo para realizar al final del semestre un proyecto.
 - Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.  
 
 
+
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2022-10-27**
+Última actualización al: **2022-11-11**
 
 <br>
 
@@ -62,13 +63,13 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Actividades<br>(20%)|Proyecto EDA<br>(10%)|Proyecto Final<br>(20%)|Ptos. extras<br>(+)|
 |---|---|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|13.3|15.5|8|10|0|__46.8__|
-|221310808|Jorge Gomez|13.3|17.1|6.7|9|0|__46.1__|
-|220981326|Rosa Guerrero|13.3|14.2|8|7.9|0|__43.5__|
-|221310727|Esther Moreno|13.3|13.6|5.1|9.5|0|__41.5__|
-|221310786|Patricio Orozco|13.3|17.6|8|10|0|__48.9__|
-|211680429|Cristian Ruiz|13.3|15.4|6.7|10|0|__45.4__|
-|221310743|Eduardo Sánchez|13.3|16.4|6.7|9.7|0|__46.1__|
+|213388296|Carol Castañeda|13.3|17.1|8|10|0|__48.4__|
+|221310808|Jorge Gomez|13.3|18.9|8|9|0|__49.3__|
+|220981326|Rosa Guerrero|13.3|16.2|8.5|7.9|0|__46__|
+|221310727|Esther Moreno|20|15.6|7.2|9.5|0|__52.3__|
+|221310786|Patricio Orozco|13.3|19.6|9.3|10|0|__52.3__|
+|211680429|Cristian Ruiz|13.3|17.2|7.2|10|0|__47.8__|
+|221310743|Eduardo Sánchez|20|18.4|7.5|9.7|0|__55.6__|
 
 ⚠️ **Calificaciones generales pendientes.**
 
@@ -78,26 +79,26 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID. |Nombre|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|0|0|0|0|0|0|
-|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|0|0|0|0|0|0|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|0|0|0|0|0|0|
-|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|0|0|0|0|0|0|
-|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|0|0|0|0|0|0|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|0|0|0|0|0|0|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|0|0|0|0|0|0|
+|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|0|0|0|0|0|
+|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|0|0|0|0|0|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|0|0|0|0|0|
+|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|0|0|0|0|0|
+|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|0|0|0|0|0|
+|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|0|0|0|0|0|
+|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|0|0|0|0|0|
 
 ## Desgloce de calificaciones de **seguimiento de actividades**
 Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.
 
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|
-|:---|:---|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|100|100|
-|221310808|Jorge Gomez|100|100|100|0|100|100|
-|220981326|Rosa Guerrero|100|100|100|100|100|100|
-|221310727|Esther Moreno|100|100|0|0|80|100|
-|221310786|Patricio Orozco|100|100|100|100|100|100|
-|211680429|Cristian Ruiz|100|100|0|100|100|100|
-|221310743|Eduardo Sánchez|100|100|100|100|100|0|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|100|100|100|100|0|
+|221310808|Jorge Gomez|100|100|100|0|100|100|100|
+|220981326|Rosa Guerrero|100|100|100|100|100|100|40|
+|221310727|Esther Moreno|100|100|0|100|80|100|60|
+|221310786|Patricio Orozco|100|100|100|100|100|100|100|
+|211680429|Cristian Ruiz|100|100|0|100|100|100|40|
+|221310743|Eduardo Sánchez|100|100|100|100|100|0|60|
 
 ## Desgloce de calificaciones de **análisis EDA**
 
@@ -124,13 +125,13 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 
 |ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|220981326|Rosa Guerrero|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|221310727|Esther Moreno|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|221310786|Patricio Orozco|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
-|221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|0|0|0|0|0|
+|213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|220981326|Rosa Guerrero|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|221310727|Esther Moreno|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|221310786|Patricio Orozco|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
+|221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|0|0|0|0|
 
 *Nota: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica".*
 
