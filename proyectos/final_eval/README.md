@@ -20,8 +20,9 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 ### Análisis
 Deberán considerar al menos **2 de los 4 siguientes puntos** que se tocaron en clase:
 1. Utilizar información obtenida al hacer __*scrape* en Twitter u otras redes sociales__.
-2. Realizar análisis de texto usando **spaCy**
-3. Analizar información __georreferenciada__ usando paquetes de python.
+2. Utilizar herramientas de texto como **string methods**, **regex** o **spaCy**
+3. Realizar análisis de texto usando con **n-grams**, **sentiment analysis** o **wordclouds**.
+4. Analizar información __georreferenciada__ usando paquetes de Python.
 4. Utilizar <u>visualizaciones interactivas</u> usando **Altair**.
 
 Además,
@@ -50,14 +51,14 @@ La fecha límite para generar el repositorio del proyecto y subir su análisis y
 Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del 30 de noviembre del año en curso.
 
 ## ❗️ Contribuciones
-Se calificará que **todos los participantes** hayan contribuido relativamente en la misma proporción dentro del proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
+Se calificará que **todos los participantes** hayan contribuido -relativamente en la misma proporción- dentro del proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
 
-En caso que alguno de los compañeros del equipo no contribuya, se penalizará al equipo en su conjunto.
+En caso que alguno de los compañeros del equipo no contribuya, se penalizará a todo el equipo.
 
 ## 🔍 Forma de calificar
 Esta actividad se calificará con base en los siguientes puntos:
 
 - Realizar los entregables:
     - añadir link, repo en GitHub, análisis en jupyter notebook y archivo markdown con resultados.
-- Entregar antes del *deadline*.
+- Respetar el *deadline*.
 - Participación de los integrantes del equipo.
