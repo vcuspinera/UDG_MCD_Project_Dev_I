@@ -5,7 +5,7 @@ En este documento se comparten las instrucciones para desarrollar en equipo el p
 ## ⚙️ Generalidades
 El **proyecto de evaluación final** conforma el cierre de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **en equipo** y tendrá un valor del **20%** sobre la calificación final.
 
-El equipo de trabajo se seleccionó de forma aleatoria usando el *Jupyter notebook* de [Asignación de equipos para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_proyecto_final.ipynb) ubicado en la carpeta `actividades/src` DE ESTE REPOSITORIO.
+El equipo de trabajo se seleccionó de forma aleatoria usando el *Jupyter notebook* de [Asignación de equipos para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_proyecto_final.ipynb) ubicado en la carpeta `actividades/src` de este repositorio.
 
 En la siguiente tabla los equipos deberán de añadir el link del repositorio que desarrollaron para el proyecto:
 
@@ -51,14 +51,14 @@ Se revisarán los siguientes 4 entregables:
 4. Archivo *markdown* con el detalle de resultados.
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **domingo, 27 de noviembre de 2022** a las **23:59 hr.**. 
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **martes, 29 de noviembre de 2022** a las **23:59 hr.**
 
-Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del 30 de noviembre del año en curso.
+Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del viernes 2 de diciembre del año en curso.
 
 ## ❗️ Contribuciones
-Se calificará que **todos los participantes** hayan contribuido -relativamente en la misma proporción- dentro del proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
+Se calificará que **todos los participantes** hayan contribuido en el proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
 
-En caso que alguno de los compañeros del equipo no contribuya, se penalizará a todo el equipo.
+⚠️ En caso que alguno de los compañeros del equipo no contribuya, se penalizará a todo el equipo.
 
 ## 🔍 Forma de calificar
 Esta actividad se calificará con base en los siguientes puntos:
