@@ -1,3 +1,16 @@
+# Evaluación del curso
+Este documento contiene las siguientes secciones, las cuales a su vez se subdividen:
+
+1. [**Forma de evaluación**](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/README.md#forma-de-evaluación), con los detalles sobre la forma en que se evaluará el curso.  
+
+    1.1. Evaluación general  
+    1.2. Puntos extras 
+
+2. [**Calificaciones**](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/README.md#calificaciones), con las calificaciones totales acumuladas a una fecha determinada, así como el detalles de los diversos puntos a evaluar del curso: presentaciones, quizes, actividades, proyectos y puntos extra.  
+
+    2.1. Resumen de calificaciones  
+    2.2. Desgloce de calificaciones 
+
 # Forma de evaluación
 Para la evaluación existen dos componentes:
 
@@ -49,11 +62,10 @@ Trabajo para realizar al final del semestre un proyecto.
 - Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.  
 
 
-
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2022-11-17**
+Última actualización al: **2022-11-24**
 
 <br>
 
@@ -62,71 +74,97 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 __Calificación final__|
 Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
-|ID.|Nombre|Presentaciones<br>(20%)|Quizes lecturas<br>(30%)|Actividades<br>(20%)|Proyecto EDA<br>(10%)|Proyecto Final<br>(20%)|Ptos. extras<br>(+)|
-|---|---|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|13.3|23.3|17.1|10|0|__63.8__|
-|221310808|Jorge Gomez|13.3|25.8|17.1|9|0|__65.3__|
-|220981326|Rosa Guerrero|20|22.1|20|9|0|__71.1__|
-|221310727|Esther Moreno|20|21.3|15.4|9.5|0|__66.2__|
-|221310786|Patricio Orozco|20|26.7|20|10|0|__76.7__|
-|211680429|Cristian Ruiz|13.3|23.5|17.1|10|0|__64__|
-|221310743|Eduardo Sánchez|20|25.1|20|9.7|0|__74.8__|
+|ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|20|25.8|20|10|0|0|__75.8__|
+|221310808|Jorge Gomez|20|28.5|17.1|9|0|0|__74.7__|
+|220981326|Rosa Guerrero|20|24.6|20|9|0|0|__73.6__|
+|221310727|Esther Moreno|20|24|15.4|9.5|0|0|__69__|
+|221310786|Patricio Orozco|20|29.5|20|10|0|0|__79.5__|
+|211680429|Cristian Ruiz|20|26.2|17.1|10|0|0|__73.3__|
+|221310743|Eduardo Sánchez|20|27.5|20|9.7|0|0|__77.2__|
 
-⚠️ **Calificaciones generales pendientes.**
+⚠️ *__Nota__: La columna de "calificación final" aún no es definitiva pues cambiará de acuerdo a los puntos que obtengan del proyecto final y puntos extras por proyectos y actividades adicionales realizadas.*
 
 <br>
 
-## Desgloce de calificaciones de **quizes de lecturas**
+## Desgloce de calificaciones
 
-|ID. |Nombre|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|0|
-|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|0|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|0|
-|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|0|
-|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|0|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|0|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|0|
+### Presentaciones de alumnos:
+|ID. |NOMBRE|PRES 1<br>*Cap.2-5*|PRES 2<br>*Cap.6-7 y papers*|PRES 3<br>*Cap.8-9 y librerías*|PROMEDIO|
+|:---|:---|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|100|__100__|
+|221310808|Jorge Gomez|100|100|100|__100__|
+|220981326|Rosa Guerrero|100|100|100|__100__|
+|221310727|Esther Moreno|100|100|100|__100__|
+|221310786|Patricio Orozco|100|100|100|__100__|
+|211680429|Cristian Ruiz|100|100|100|__100__|
+|221310743|Eduardo Sánchez|100|100|100|__100__|
 
-## Desgloce de calificaciones de **seguimiento de actividades**
-Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.
+### Quizes de lecturas:
 
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|100|100|0|
-|221310808|Jorge Gomez|100|100|100|0|100|100|100|
-|220981326|Rosa Guerrero|100|100|100|100|100|100|100|
-|221310727|Esther Moreno|100|100|0|100|80|100|60|
-|221310786|Patricio Orozco|100|100|100|100|100|100|100|
-|211680429|Cristian Ruiz|100|100|0|100|100|100|100|
-|221310743|Eduardo Sánchez|100|100|100|100|100|100|100|
+|ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|PROMEDIO|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|90|__85.9__|
+|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|100|__95.1__|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|90|__81.9__|
+|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|100|__80.2__|
+|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|100|__98.2__|
+|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|100|__87.3__|
+|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|90|__91.8__|
 
-## Desgloce de calificaciones de **análisis EDA**
+### Seguimiento de actividades:
+⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.*
 
-|ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|TOTAL|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|100|100|100|100|100|__100__|
+|221310808|Jorge Gomez|100|100|100|0|100|100|100|__85.7__|
+|220981326|Rosa Guerrero|100|100|100|100|100|100|100|__100__|
+|221310727|Esther Moreno|100|100|0|100|80|100|60|__77.1__|
+|221310786|Patricio Orozco|100|100|100|100|100|100|100|__100__|
+|211680429|Cristian Ruiz|100|100|0|100|100|100|100|__85.7__|
+|221310743|Eduardo Sánchez|100|100|100|100|100|100|100|__100__|
+
+### Proyecto de análisis EDA:
+
+|ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|CALIF. FINAL|
 |:---|:---|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|100|
-|221310808|Jorge Gomez|100|100|100|0|90|
-|220981326|Rosa Guerrero|90|100|100|50|90|
-|221310727|Esther Moreno|90|100|100|100|95|
-|221310786|Patricio Orozco|100|100|100|100|100|
-|211680429|Cristian Ruiz|100|100|100|100|100|
-|221310743|Eduardo Sánchez|100|90|100|100|97|
+|213388296|Carol Castañeda|100|100|100|100|__100__|
+|221310808|Jorge Gomez|100|100|100|0|__90__|
+|220981326|Rosa Guerrero|90|100|100|50|__90__|
+|221310727|Esther Moreno|90|100|100|100|__95__|
+|221310786|Patricio Orozco|100|100|100|100|__100__|
+|211680429|Cristian Ruiz|100|100|100|100|__100__|
+|221310743|Eduardo Sánchez|100|90|100|100|__97__|
 
 
-## Desgloce de calificaciones de **proyecto final**
+### Proyecto final:
+
+Este proyecto es la conclusión del curso y se calificará con base en los siguientes puntos:
+
+- Realizar los entregables:
+    - añadir link, 
+    - repo en GitHub, 
+    - análisis en jupyter notebook y 
+    - archivo markdown con resultados.
+- Participación de todos los integrantes del equipo.
+- Respetar el deadline.
+
+Para más detalles, recomiendo revisar la [guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval).
+
 
 ![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
 
-## Desgloce de **puntos extras**
+## Puntos extras:
 
-**⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!**
+*⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!*
 
 ![](https://media.giphy.com/media/3o6ozFNGTtax2pSGmA/giphy-downsized.gif)
 
 ## Asistencia
 
-|ID. |Nombre|Clase: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
+|ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
 |221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|1|1|1|0|
@@ -136,7 +174,7 @@ Los alumnos podrán realizar las actividades que tienen pendientes, y posteriorm
 |211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
 |221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
 
-*Nota: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
+*__Nota__: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 
 ## Comentarios
 
