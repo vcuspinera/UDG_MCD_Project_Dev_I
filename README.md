@@ -42,8 +42,10 @@ Lista de alumnos del ciclo escolar 2022-B (semestre de otoño).
 |211680429 |Cristian Ruiz | [cristian.ruiz8042](mailto:cristian.ruiz8042@alumnos.udg.mx) | --- |[CrisRuizRn](https://github.com/CrisRuizRn) |
 |221310743 |Eduardo Sánchez|  [eduardo.sanchez1074](mailto:eduardo.sanchez1074@alumnos.udg.mx) |  esz1911@gmail.com |[EduardoSanchezZ](https://github.com/EduardoSanchezZ) |
 
+
 ## Evaluación
 Para la evaluación existen dos componentes, para más detalles sobre la evaluación [dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades).
+
 
 ## ✏️ Evaluación general
 |#|Descripción| Porcentaje|
