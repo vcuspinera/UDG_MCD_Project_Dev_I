@@ -12,7 +12,7 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 | No. de Equipo  | Integrantes                             | Repositorio del proy. final |
 |:-------:|:-----------------------------------------------|:----------------------------|
 |Equipo 1 |Eduardo Sanchez / Cristian Ruiz / Rosa Guerrero | [ESCRIBA AQUI LA LIGA AL REPOSITORIO]()|
-|Equipo 2 |Esther Moreno / Patricio Orozco                 | [ESCRIBA AQUI LA LIGA AL REPOSITORIO]()|
+|Equipo 2 |Esther Moreno / Patricio Orozco                 | [Projecto Tweets del Buen Fin](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio)|
 |Equipo 3 |Carol Castañeda / Jorge Gomez                   | [ESCRIBA AQUI LA LIGA AL REPOSITORIO]()|
 
 ## 🛠 Actividad a desarrollar
