@@ -72,7 +72,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 ## Resumen de calificaciones
 
 __Calificación final__|
-Se comparten las calificaciones acumuladas a la fecha de última actualización.
+Se comparten las calificaciones finales del curso.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
@@ -83,8 +83,6 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 |221310786|Patricio Orozco|20|30|20|10|19.2|0|__99.2__|
 |211680429|Cristian Ruiz|20|26.2|20|10|14|0|__90.2__|
 |221310743|Eduardo Sánchez|20|27.5|20|9.7|14|0|__91.2__|
-
-⚠️ *__Nota__: La columna de "calificación final" aún no es definitiva pues cambiará de acuerdo a los puntos que obtengan del proyecto final y puntos extras por proyectos y actividades adicionales realizadas.*
 
 <br>
 
