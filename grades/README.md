@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2022-11-24**
+Última actualización al: **2022-12-01**
 
 <br>
 
@@ -76,13 +76,13 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|20|25.8|20|10|0|0|__75.8__|
-|221310808|Jorge Gomez|20|28.5|17.1|9|0|0|__74.7__|
-|220981326|Rosa Guerrero|20|24.6|20|9|0|0|__73.6__|
-|221310727|Esther Moreno|20|24|15.4|9.5|0|0|__69__|
-|221310786|Patricio Orozco|20|29.5|20|10|0|0|__79.5__|
-|211680429|Cristian Ruiz|20|26.2|17.1|10|0|0|__73.3__|
-|221310743|Eduardo Sánchez|20|27.5|20|9.7|0|0|__77.2__|
+|213388296|Carol Castañeda|20|26.9|20|10|19.8|5|__100__|
+|221310808|Jorge Gomez|20|29.1|20|9|19.8|0|__97.9__|
+|220981326|Rosa Guerrero|20|27.3|20|9|14|5|__95.3__|
+|221310727|Esther Moreno|20|24|19.4|9.5|19.2|0|__92.2__|
+|221310786|Patricio Orozco|20|30|20|10|19.2|0|__99.2__|
+|211680429|Cristian Ruiz|20|26.2|20|10|14|0|__90.2__|
+|221310743|Eduardo Sánchez|20|27.5|20|9.7|14|0|__91.2__|
 
 ⚠️ *__Nota__: La columna de "calificación final" aún no es definitiva pues cambiará de acuerdo a los puntos que obtengan del proyecto final y puntos extras por proyectos y actividades adicionales realizadas.*
 
@@ -103,30 +103,35 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 ### Quizes de lecturas:
 
-|ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|PROMEDIO|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|90|__85.9__|
-|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|100|__95.1__|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|90|__81.9__|
-|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|100|__80.2__|
-|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|100|__98.2__|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|100|__87.3__|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|90|__91.8__|
+|ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|ENCUESTA FINAL|PROMEDIO|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|90|100|__89.5__|
+|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|100|100|__96.9__|
+|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|90|100|__91__|
+|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|100|0|__80.2__|
+|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|100|100|__100__|
+|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|100|0|__87.3__|
+|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|90|0|__91.8__|
+
+⚠️ *__Nota__: Para quienes hayan realizado la ENCUESTA FINAL, ésta sustituye a la calificación más baja que tengan en los QUIZES durante el semestre.*
 
 ### Seguimiento de actividades:
-⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.*
 
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
 |213388296|Carol Castañeda|100|100|100|100|100|100|100|__100__|
-|221310808|Jorge Gomez|100|100|100|0|100|100|100|__85.7__|
+|221310808|Jorge Gomez|100|100|100|100|100|100|100|__100__|
 |220981326|Rosa Guerrero|100|100|100|100|100|100|100|__100__|
-|221310727|Esther Moreno|100|100|0|100|80|100|60|__77.1__|
+|221310727|Esther Moreno|100|100|100|100|80|100|100|__97.1__|
 |221310786|Patricio Orozco|100|100|100|100|100|100|100|__100__|
-|211680429|Cristian Ruiz|100|100|0|100|100|100|100|__85.7__|
+|211680429|Cristian Ruiz|100|100|100|100|100|100|100|__100__|
 |221310743|Eduardo Sánchez|100|100|100|100|100|100|100|__100__|
 
+⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.*
+
 ### Proyecto de análisis EDA:
+
+Proyecto intermedio del curso realizado de forma indiviual por los alumnos.
 
 |ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|CALIF. FINAL|
 |:---|:---|---:|---:|---:|---:|---:|
@@ -141,24 +146,26 @@ Se comparten las calificaciones acumuladas a la fecha de última actualización.
 
 ### Proyecto final:
 
-Este proyecto es la conclusión del curso y se calificará con base en los siguientes puntos:
+Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval).
 
-- Realizar los entregables:
-    - añadir link, 
-    - repo en GitHub, 
-    - análisis en jupyter notebook y 
-    - archivo markdown con resultados.
-- Participación de todos los integrantes del equipo.
-- Respetar el deadline.
-
-Para más detalles, recomiendo revisar la [guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval).
-
-
-![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
+|ID. UDG|NOMBRE|EQUIPO |Analisis en Jupyter <br>*40%*|Markdown resultados<br>*20%*|GitHub estructura Repo<br>*20%*|Link<br>*10%*|Colaboración<br>*10%*|Deadline<br>*( - 20%)*|CALIF. FINAL|
+|:---:|:---|:---:|---:|---:|---:|---:|---:|:---|---:|
+|213388296|Carol Castañeda|#3|100|95|100|100|100|A tiempo|__99__|
+|221310808|Jorge Gomez|#3|100|95|100|100|100|A tiempo|__99__|
+|220981326|Rosa Guerrero|#1|95|0|60|100|100|A tiempo|__70__|
+|221310727|Esther Moreno|#2|95|90|100|100|100|A tiempo|__96__|
+|221310786|Patricio Orozco|#2|95|90|100|100|100|A tiempo|__96__|
+|211680429|Cristian Ruiz|#1|95|0|60|100|100|A tiempo|__70__|
+|221310743|Eduardo Sánchez|#1|95|0|60|100|100|A tiempo|__70__|
 
 ## Puntos extras:
 
-*⚠️ Si alguien realiza o participa en un proyecto para obtener puntos extras, favor de compartirme la información!*
+|ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
+|:---:|:---|:---:|:---|
+|213388296|Carol Castañeda|Proyecto personal|Creó un repositorio sobre Spatial Data en Python explicando cómo usar distintos paquetes para datos con georreferenciación y lo compartió en LinkedIn.|
+|220981326|Rosa Guerrero|Evento|Participó como ponente en el TechFest CUCEA con el tema _"Visualización y análisis de datos para ventas y MKT con Congos Analytics"_ en octubre 2022.|
+
+*⚠️ Si alguien más realizó o participó en un proyecto con el cual pueden obtener puntos extras, favor de compartirme la información!*
 
 ![](https://media.giphy.com/media/3o6ozFNGTtax2pSGmA/giphy-downsized.gif)
 
@@ -166,13 +173,13 @@ Para más detalles, recomiendo revisar la [guía para proyecto final](https://gi
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
-|221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|1|1|1|0|
-|220981326|Rosa Guerrero|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
-|221310727|Esther Moreno|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
-|221310786|Patricio Orozco|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
-|211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
-|221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|0|
+|213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|1|1|1|1|
+|220981326|Rosa Guerrero|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|221310727|Esther Moreno|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|221310786|Patricio Orozco|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 
