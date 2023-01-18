@@ -5,15 +5,13 @@ En este documento se comparten las instrucciones para desarrollar en equipo el p
 ## ⚙️ Generalidades
 El **proyecto de evaluación final** conforma el cierre de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **en equipo** y tendrá un valor del **20%** sobre la calificación final.
 
-El equipo de trabajo se seleccionó de forma aleatoria usando el *Jupyter notebook* de [Asignación de equipos para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_proyecto_final.ipynb) ubicado en la carpeta `actividades/src` de este repositorio.
+El equipo de trabajo se seleccionará de forma aleatoria.
 
 En la siguiente tabla los equipos deberán de añadir el link del repositorio que desarrollaron para el proyecto:
 
 | No. de Equipo  | Integrantes                             | Repositorio del proy. final |
 |:-------:|:-----------------------------------------------|:----------------------------|
-|Equipo 1 |Eduardo Sanchez / Cristian Ruiz / Rosa Guerrero | [Proyecto Análisis de Tweets](https://github.com/EduardoSanchezZ/Proyecto_Final)|
-|Equipo 2 |Esther Moreno / Patricio Orozco                 | [Projecto Tweets del Buen Fin](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio)|
-|Equipo 3 |Carol Castañeda / Jorge Gomez                   | [World Cup Qatar 2022 Twitter Analysis](https://github.com/Carol-Castaneda/World-Cup-Qatar-2022-Twitter-Analysis)|
+|Pendiente |Pendiente | Pendiente|
 
 ## 🛠 Actividad a desarrollar
 
@@ -29,6 +27,7 @@ Además,
   - Se podrá escoger la base de datos de forma libre.
   - Deberán realizar el análisis en un *Jupyter notebook*.
   - Deberán compartir los resultados en un documento de markdown.
+  - Deberán divulgar su proyecto a través de un artículo compartido en LinkedIn, redes sociales, revistas de ciencia de datos como Towards Data Science u otro canal.
 
 ### Repositorio en GitHub
 **Cada equipo deberá de crear un sólo repositorio en GitHub** desde alguna de las cuentas los integrantes del equipo.
@@ -51,9 +50,9 @@ Se revisarán los siguientes 4 entregables:
 4. Archivo *markdown* con el detalle de resultados.
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **martes, 29 de noviembre de 2022** a las **23:59 hr.**
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **PENDINTE**
 
-Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del viernes 2 de diciembre del año en curso.
+Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del día **PENDIENTE** del año en curso.
 
 ## ❗️ Contribuciones
 Se calificará que **todos los participantes** hayan contribuido en el proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
