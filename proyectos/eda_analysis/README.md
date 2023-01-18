@@ -1,19 +1,13 @@
 # Proyecto de análisis EDA
 
 ## ⚙️ Generalidades
-El **proyecto de análisis EDA** es una hito de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **de forma individual** y tendrá un valor del **10%** sobre la calificación final.
+El **proyecto de análisis EDA** es una hito de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **de forma individual** y tendrá un valor del **20%** sobre la calificación final.
 
 En la siguiente tabla deberán de añadir el link del repositorio que desarrollaron para el proyecto EDA:
 
 | Id. UDG  | Nombre         | GitHub user                                           | Repositorio del proy. EDA        |
 |:--------:|:---------------|:------------------------------------------------------|:---------------------------------|
-|213388296 |Carol Castañeda | [Carol-Castaneda](https://github.com/Carol-Castaneda) |[Airbnb Buenos Aires](https://github.com/Carol-Castaneda/EDA_Airbnb_Buenos-Aires)|
-|221310808 |Jorge Gomez     | [joregc](https://github.com/joregc)                   |[Análisis de partidas AOE2:DE](https://github.com/joregc/AOE2de-Analisis-de-partidas)|
-|220981326 |Rosa Guerrero   | [RosaGuerrero05](https://github.com/RosaGuerrero05)   |[FIFA-21](https://github.com/RosaGuerrero05/FIFA-2021)|
-|221310727 |Esther Moreno   | [Esthermo](https://github.com/Esthermo)               |[AB testing EDA](https://github.com/Esthermo/AB-Testing)|
-|221310786 |Patricio Orozco | [patrickscln](https://github.com/patrickscln)         |[Mariscos Guasave EDA](https://github.com/patrickscln/MG_EDA.git)|
-|211680429 |Cristian Ruiz   | [CrisRuizRn](https://github.com/CrisRuizRn)           |[Vinos_EDI](https://github.com/CrisRuizRn/Vinos_EDI)|
-|221310743 |Eduardo Sánchez | [EduardoSanchezZ](https://github.com/EduardoSanchezZ) |[Proyecto Sports Analytics](https://github.com/EduardoSanchezZ/Proyecto-Sports-Analytics)|
+|Pendiente|Pendiente|Pendiente|Pendiente|
 
 ## 🛠 Actividad a desarrollar
 
@@ -45,6 +39,10 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 
 ⚠️ Para referencia ver el notebook de la [actividad 11•Estructura de repositorio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md).
 
+### Difusión de proyecto
+
+Se deberá compartir este proyecto a través algún canal de difusión como LinkedIn, redes sociales u otro canal.
+
 ## 📚 Entregables:
 
 - Añadir link de su repositorio al inicio de este REDAME file
@@ -53,7 +51,7 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **domingo, 16 de octubre de 2022** a las **23:59 hr.**  
+La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **PENDIENTE**  
 
 
 ## 🔍 Forma de calificar
