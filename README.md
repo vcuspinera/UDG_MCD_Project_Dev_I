@@ -56,19 +56,19 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 |---|:---|:---:|
 |1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
 |2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas de libro, papers y artículos, así como de material visto en las actividades de clase.*| 20%|
-|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 20%|
-|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediado de semestre.*| 15%|
-|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre de curso.*| 25%|
+|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 10%|
+|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediado de semestre.*| 20%|
+|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre de curso.*| 30%|
 | |**Total**| **100%**|
 
 
 ## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto y su divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|
-|B| [Publicaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#b-publicación) <br> *Publicación de papers o artículos en revistas de ciencia de <br>datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
-|C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
-|D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
+|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto en GitHub y su divulgación en LinkedIn, redes sociales u otro canal.*| 5%|
+|B| [Publicaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#b-publicación) <br> *Publicación de papers o artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
+|C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
+|D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
 ⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un máximo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la evaluación general.*
 
