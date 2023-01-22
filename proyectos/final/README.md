@@ -2,8 +2,10 @@
 
 En este documento se comparten las instrucciones para desarrollar en equipo el proyecto final del curso.
 
+# ⚠️ ESTE MATERIAL CORRESPONDE PARCIALMENTE A LO QUE SE SOLICITÓ EL SEMESTRE PASADO Y PODRÍA CAMBIAR EN FUNCIÓN DEL MATERIAL QUE SE VEA DURANTE EL SEMESTRE. SÓLO SE LOS COMPARTO PARA QUE LO TENGAN COMO REFERENCIA 
+
 ## ⚙️ Generalidades
-El **proyecto de evaluación final** conforma el cierre de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **en equipo** y tendrá un valor del **20%** sobre la calificación final.
+El **proyecto de evaluación final** conforma el cierre de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **en equipo** y tendrá un valor del **30%** sobre la calificación final.
 
 El equipo de trabajo se seleccionará de forma aleatoria.
 
@@ -11,17 +13,21 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 | No. de Equipo  | Integrantes                             | Repositorio del proy. final |
 |:-------:|:-----------------------------------------------|:----------------------------|
-|Pendiente |Pendiente | Pendiente|
+|01 |Pendiente | Pendiente|
+|02 |Pendiente | Pendiente|
+|03 |Pendiente | Pendiente|
+|04 |Pendiente | Pendiente|
+|05 |Pendiente | Pendiente|
 
 ## 🛠 Actividad a desarrollar
 
 ### Análisis
-Deberán considerar al menos **2 de los 5 siguientes puntos** que se tocaron en clase:
-1. Utilizar información obtenida al hacer __scrape en redes sociales__, por ejemplo en Twitter.
-2. Utilizar herramientas de texto como **string methods**, **regex**, **spaCy** o **NLTK**.
-3. Realizar análisis de texto con **n-grams**, **sentiment analysis** o **wordclouds**.
-4. Analizar visualmente información __georreferenciada__ usando paquetes de Python.
-4. Mostrar _visualizaciones interactivas_ usando **Altair**.
+Deberán considerar al menos **3 de los siguientes puntos**:
+1.  **PENDINTE**
+2.  **PENDINTE**
+3.  **PENDINTE**
+4.  **PENDINTE**
+5.  **PENDINTE**
 
 Además,
   - Se podrá escoger la base de datos de forma libre.
@@ -48,11 +54,12 @@ Se revisarán los siguientes 4 entregables:
 2. Repositorio en GitHub del proyecto.
 3. *Jupyter notebook* con el Análisis.
 4. Archivo *markdown* con el detalle de resultados.
+5. Divulgar su proyecto a través de un artículo en LinkedIn, revistas, redes sociales, etc...
 
 ## 📅 Deadline
 La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **PENDINTE**
 
-Si entregan después del *deadline* habrá una penalización del 20%. No se recibirá información después del día **PENDIENTE** del año en curso.
+Si entregan después del *deadline* habrá una penalización del 25%. No se recibirá información después del día **PENDIENTE** del año en curso.
 
 ## ❗️ Contribuciones
 Se calificará que **todos los participantes** hayan contribuido en el proyecto. Esto se revisará desde la pestaña "Insights", en la opción "Contributors".
@@ -63,6 +70,6 @@ Se calificará que **todos los participantes** hayan contribuido en el proyecto.
 Esta actividad se calificará con base en los siguientes puntos:
 
 - Realizar los entregables:
-    - añadir link, repo en GitHub, análisis en jupyter notebook y archivo markdown con resultados.
+    - añadir link, repo en GitHub, análisis en jupyter notebook, archivo markdown con resultados y divulgar proyecto.
 - Participación de todos los integrantes del equipo.
 - Respetar el *deadline*.

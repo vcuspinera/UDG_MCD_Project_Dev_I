@@ -17,11 +17,11 @@ Para la evaluación existen dos componentes:
 ## ✏️ Evaluación general
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
-|2| [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas de libro, papers y artículos.*| 30%|
-|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 20%|
-|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediado de semestre.*| 10%|
-|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre de curso.*| 20%|
+|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material, papers, artículos, librerías de Python, capítulos de libros, etc.*| 20%|
+|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| 20%|
+|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 10%|
+|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediados de semestre.*| 20%|
+|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre del curso.*| 30%|
 | |**Total**| **100%**|
 
 Los detalles sobre los puntos anteriores:
@@ -29,9 +29,9 @@ Los detalles sobre los puntos anteriores:
 Las presentaciones se realizarán en equipo y tendrán una duración de 20 a 40 minutos, dependiendo del material de cada capítulo o papers. El equipo que exponga deberá **encender su cámara.** Inicialmente las presentaciones se compartirán en Dropbox ([click aquí](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)), y posteriormente se subirán a la carpeta de presentaciones del repositorio de GitHub ([dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/presentaciones)).
 
 ### 2) Quizes de lecturas
-Los *quizes* (o controles) de lectura se realizarán de forma __individual__ durante la última sección de la clase. Los alumnos tendrán hasta __las 9 PM del mismo día__ para responder.
+Los *quizes* (o controles de lectura) se realizarán de forma __individual__ durante la última sección de la clase. Los alumnos tendrán hasta __las 9:00 PM del mismo día__ para responder.
 
-Para los alumnos que contesten el *quiz* __posterior a las 9 PM habrá una penalización__, la cual consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
+Para los alumnos que contesten el *quiz* __posterior a las 9:00 PM habrá una penalización__, la cual consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
 
 En caso de __no responder__ a un Quiz, la calificación será __cero__.
 
@@ -42,16 +42,16 @@ Al finalizar cada clase se levantará un *Issue* con las actividades pendientes 
 
 ### 4) Proyecto de análisis EDA
 Trabajo individual a realizar a mediados de semestre, en el cual se seleccionará una base de datos y realizará análisis exploratorio de datos.
-[Dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis) para acceder a los detalles sobre este proyecto.
+[Dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda) para acceder a los detalles sobre este proyecto.
 
 ### 5) Proyecto final
 Trabajo para realizar al final del semestre un proyecto.
-[Dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval) para acceder a los detalles sobre el proyecto a desarrollar.
+[Dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final) para acceder a los detalles sobre el proyecto a desarrollar.
 
 ## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto y divulgación en GitHub, LinkedIn, <br>redes sociales u otro canal.*| 5%|
+|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto en GitHub y su divulgación en LinkedIn, redes sociales u otros canales*| 5%|
 |B| [Publicaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#b-publicación) <br> *Publicación de 'Papers' o de artículos en revistas de ciencia de <br>datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
 |C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, <br>Data Science for Social Good, entre otros.*|5%|
 |D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia <br>de Datos como 'Hackathon', congresos y conferencias.*|5%|
@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2022-12-01**
+Última actualización al: **2023-01-22**
 
 <br>
 
@@ -76,108 +76,112 @@ Se comparten las calificaciones finales del curso.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|20|26.9|20|10|19.8|5|__100__|
-|221310808|Jorge Gomez|20|29.1|20|9|19.8|0|__97.9__|
-|220981326|Rosa Guerrero|20|27.3|20|9|14|5|__95.3__|
-|221310727|Esther Moreno|20|24|19.4|9.5|19.2|0|__92.2__|
-|221310786|Patricio Orozco|20|30|20|10|19.2|0|__99.2__|
-|211680429|Cristian Ruiz|20|26.2|20|10|14|0|__90.2__|
-|221310743|Eduardo Sánchez|20|27.5|20|9.7|14|0|__91.2__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|__0__|
+|221973467|MANUEL GASTELUM REYES|0|1.7|1.4|0|0|0|__3.1__|
+|221973513|ALBERTO MARTÍNEZ LARA|0|1.7|1.4|0|0|0|__3.1__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|__0__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|0|1.7|1.4|0|0|0|__3.1__|
+|209543147|EDUARDO RIOS LUNA|0|1.7|1.4|0|0|0|__3.1__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|0|0|0|0|__0__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|0|1.7|1.4|0|0|0|__3.1__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|0|1.7|1.4|0|0|0|__3.1__|
+|304578694|GABRIEL VARELA TAVARES|0|1.7|1.4|0|0|0|__3.1__|
+|221310778|RICARDO GUTIERREZ ROQUE|0|1.7|1.4|0|0|0|__3.1__|
 
 <br>
 
 ## Desgloce de calificaciones
 
 ### Presentaciones de alumnos:
-|ID. |NOMBRE|PRES 1<br>*Cap.2-5*|PRES 2<br>*Cap.6-7 y papers*|PRES 3<br>*Cap.8-9 y librerías*|PROMEDIO|
+|ID. |NOMBRE|PRES 1|PRES 2|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|__100__|
-|221310808|Jorge Gomez|100|100|100|__100__|
-|220981326|Rosa Guerrero|100|100|100|__100__|
-|221310727|Esther Moreno|100|100|100|__100__|
-|221310786|Patricio Orozco|100|100|100|__100__|
-|211680429|Cristian Ruiz|100|100|100|__100__|
-|221310743|Eduardo Sánchez|100|100|100|__100__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|__0__|
+|221973467|MANUEL GASTELUM REYES|0|0|__0__|
+|221973513|ALBERTO MARTÍNEZ LARA|0|0|__0__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|__0__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|0|0|__0__|
+|209543147|EDUARDO RIOS LUNA|0|0|__0__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|__0__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|0|0|__0__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|0|0|__0__|
+|304578694|GABRIEL VARELA TAVARES|0|0|__0__|
+|221310778|RICARDO GUTIERREZ ROQUE|0|0|__0__|
 
 ### Quizes de lecturas:
 
 |ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|90|75|60|100|100|70|80|80|90|100|__89.5__|
-|221310808|Jorge Gomez|100|100|90|100|100|80|96|100|90|90|100|100|__96.9__|
-|220981326|Rosa Guerrero|100|100|100|83|50|0|88|90|100|100|90|100|__91__|
-|221310727|Esther Moreno|100|70|100|58|90|70|83|70|40|100|100|0|__80.2__|
-|221310786|Patricio Orozco|100|100|100|100|80|100|100|100|100|100|100|100|__100__|
-|211680429|Cristian Ruiz|100|100|90|75|90|80|96|100|40|90|100|0|__87.3__|
-|221310743|Eduardo Sánchez|100|90|100|100|70|80|100|100|80|100|90|0|__91.8__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|0|0|0|0|0|__0__|
+|221973467|MANUEL GASTELUM REYES|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|221973513|ALBERTO MARTÍNEZ LARA|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|0|0|0|0|0|__0__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|209543147|EDUARDO RIOS LUNA|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|0|0|0|0|0|0|0|0|0|0|__0__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|304578694|GABRIEL VARELA TAVARES|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|221310778|RICARDO GUTIERREZ ROQUE|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
 
-⚠️ *__Nota__: Para quienes hayan realizado la ENCUESTA FINAL, ésta sustituye a la calificación más baja que tengan en los QUIZES durante el semestre.*
+⚠️ *__Nota__: Para el QUIZ 00 sólo se calificará su completez.*
 
 ### Seguimiento de actividades:
 
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|100|100|100|__100__|
-|221310808|Jorge Gomez|100|100|100|100|100|100|100|__100__|
-|220981326|Rosa Guerrero|100|100|100|100|100|100|100|__100__|
-|221310727|Esther Moreno|100|100|100|100|80|100|100|__97.1__|
-|221310786|Patricio Orozco|100|100|100|100|100|100|100|__100__|
-|211680429|Cristian Ruiz|100|100|100|100|100|100|100|__100__|
-|221310743|Eduardo Sánchez|100|100|100|100|100|100|100|__100__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|__0__|
+|221973467|MANUEL GASTELUM REYES|100|0|0|0|0|0|0|__14.3__|
+|221973513|ALBERTO MARTÍNEZ LARA|100|0|0|0|0|0|0|__14.3__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|__0__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|0|0|0|0|0|0|__14.3__|
+|209543147|EDUARDO RIOS LUNA|100|0|0|0|0|0|0|__14.3__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|0|0|0|0|0|__0__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|0|0|0|0|0|0|__14.3__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|0|0|0|0|0|0|__14.3__|
+|304578694|GABRIEL VARELA TAVARES|100|0|0|0|0|0|0|__14.3__|
+|221310778|RICARDO GUTIERREZ ROQUE|100|0|0|0|0|0|0|__14.3__|
 
 ⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.*
 
 ### Proyecto de análisis EDA:
 
-Proyecto intermedio del curso realizado de forma indiviual por los alumnos.
+Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda).
 
-|ID. UDG|NOMBRE|EDA Notebook <br>*50%*|Estructura de Repo en GitHub<br>*30%*|Compartir link<br>*10%*|Deadline<br>*10%*|CALIF. FINAL|
-|:---|:---|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|100|100|100|100|__100__|
-|221310808|Jorge Gomez|100|100|100|0|__90__|
-|220981326|Rosa Guerrero|90|100|100|50|__90__|
-|221310727|Esther Moreno|90|100|100|100|__95__|
-|221310786|Patricio Orozco|100|100|100|100|__100__|
-|211680429|Cristian Ruiz|100|100|100|100|__100__|
-|221310743|Eduardo Sánchez|100|90|100|100|__97__|
+**PENDIENTE**
 
+![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
 
 ### Proyecto final:
 
-Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval).
+Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
 
-|ID. UDG|NOMBRE|EQUIPO |Analisis en Jupyter <br>*40%*|Markdown resultados<br>*20%*|GitHub estructura Repo<br>*20%*|Link<br>*10%*|Colaboración<br>*10%*|Deadline<br>*( - 20%)*|CALIF. FINAL|
-|:---:|:---|:---:|---:|---:|---:|---:|---:|:---|---:|
-|213388296|Carol Castañeda|#3|100|95|100|100|100|A tiempo|__99__|
-|221310808|Jorge Gomez|#3|100|95|100|100|100|A tiempo|__99__|
-|220981326|Rosa Guerrero|#1|95|0|60|100|100|A tiempo|__70__|
-|221310727|Esther Moreno|#2|95|90|100|100|100|A tiempo|__96__|
-|221310786|Patricio Orozco|#2|95|90|100|100|100|A tiempo|__96__|
-|211680429|Cristian Ruiz|#1|95|0|60|100|100|A tiempo|__70__|
-|221310743|Eduardo Sánchez|#1|95|0|60|100|100|A tiempo|__70__|
+**PENDIENTE**
+
+![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
 
 ## Puntos extras:
 
-|ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
-|:---:|:---|:---:|:---|
-|213388296|Carol Castañeda|Proyecto personal|Creó un repositorio sobre Spatial Data en Python explicando cómo usar distintos paquetes para datos con georreferenciación y lo compartió en LinkedIn.|
-|220981326|Rosa Guerrero|Evento|Participó como ponente en el TechFest CUCEA con el tema _"Visualización y análisis de datos para ventas y MKT con Congos Analytics"_ en octubre 2022.|
+⚠️ Si alguien realiza o participa en una actividad con el cual pueden obtener puntos extras, favor de compartirme la información.
 
-*⚠️ Si alguien más realizó o participó en un proyecto con el cual pueden obtener puntos extras, favor de compartirme la información!*
+**PENDIENTE**
 
 ![](https://media.giphy.com/media/3o6ozFNGTtax2pSGmA/giphy-downsized.gif)
 
 ## Asistencia
 
-|ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
-|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|213388296|Carol Castañeda|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
-|221310808|Jorge Gomez|1|1|1|1|1|0|1|1|N/A|1|1|N/A|1|1|1|1|
-|220981326|Rosa Guerrero|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
-|221310727|Esther Moreno|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
-|221310786|Patricio Orozco|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
-|211680429|Cristian Ruiz|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
-|221310743|Eduardo Sánchez|1|1|1|1|1|1|1|1|N/A|1|1|N/A|1|1|1|1|
+|ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17| 18|
+|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973467|MANUEL GASTELUM REYES|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973513|ALBERTO MARTÍNEZ LARA|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|209543147|EDUARDO RIOS LUNA|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|304578694|GABRIEL VARELA TAVARES|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221310778|RICARDO GUTIERREZ ROQUE|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia" y **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 

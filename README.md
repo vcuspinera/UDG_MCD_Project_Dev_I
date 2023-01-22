@@ -35,16 +35,17 @@ Lista de alumnos del ciclo escolar 2023-A (semestre de otoño).
 
 |Id. UDG |Nombre |e-mail |GitHub user| 
 |:----:|:----:|:----:|:-----:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|andro200194@outlook.com| Pendiente |
-|221973467|MANUEL GASTELUM REYES|manuel.gastelum.263@gmail.com| Pendiente |
-|221973513|ALBERTO MARTÍNEZ LARA|betoppls@hotmail.com| Pendiente |
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|cemedina_95@outlook.com| Pendiente |
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|montspineda@gmail.com| Pendiente |
-|209543147|EDUARDO RIOS LUNA|edurios.luna@gmail.com| Pendiente |
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|dsouzaHCIS@gmail.com| Pendiente |
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|mauriciotenoriov@gmail.com| Pendiente |
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|luisvallartarobledo@gmail.com| Pendiente |
-|304578694|GABRIEL VARELA TAVARES|g4br13l@live.com.mx| Pendiente |
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[andro200194@outlook.com](mailto:andro200194@outlook.com)|[androbriel](https://github.com/androbriel) |
+|221973467|MANUEL GASTELUM REYES|[manuel.gastelum7346@alumnos.udg.mx](mailto:manuel.gastelum7346@alumnos.udg.mx) |[m5991](https://github.com/m5991) |
+|221973513|ALBERTO MARTÍNEZ LARA|[alberto.martinez7351@alumnos.udg.mx](mailto:alberto.martinez7351@alumnos.udg.mx) |[AlbertoMCD](https://github.com/AlbertoMCD)  |
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) | |
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xunaxhi.pineda7349@alumnos.udg.mx](mailto:xunaxhi.pineda7349@alumnos.udg.mx) |[xmpinedar](https://github.com/xmpinedar) |
+|209543147|EDUARDO RIOS LUNA|[edurios.luna@gmail.com](mailto:edurios.luna@gmail.com) |[edurios2021](https://github.com/edurios2021) |
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) | |
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|[mauricio.tenorio7286@alumnos.udg.mx](mailto:mauricio.tenorio7286@alumnos.udg.mx) |[MauricioTen](https://github.com/MauricioTen) |
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[luisvallartarobledo@gmail.com](mailto:luisvallartarobledo@gmail.com) |[LUISVALLARTA](https://github.com/LUISVALLARTA) |
+|304578694|GABRIEL VARELA TAVARES|[gabriel.varela7869@alumnos.udg.mx](mailto:gabriel.varela7869@alumnos.udg.mx) |[D4NT3002](https://github.com/D4NT3002) |
+|221310778|RICARDO GUTIERREZ ROQUE|[ricardo.gutierrez1077@alumnos.ugd.mx](mailto:ricardo.gutierrez1077@alumnos.ugd.mx) |[rgutierrezroque](https://github.com/rgutierrezroque)|
 
 
 ## Evaluación
@@ -54,18 +55,18 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ## ✏️ Evaluación general
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material del libro, papers y artículos.*| 20%|
-|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas de libro, papers y artículos, así como de material visto en las actividades de clase.*| 20%|
+|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material, papers, artículos, librerías de Python, capítulos de libros, etc.*| 20%|
+|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| 20%|
 |3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 10%|
-|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediado de semestre.*| 20%|
-|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre de curso.*| 30%|
+|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediados de semestre.*| 20%|
+|5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre del curso.*| 30%|
 | |**Total**| **100%**|
 
 
 ## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto en GitHub y su divulgación en LinkedIn, redes sociales u otro canal.*| 5%|
+|A| [Proyecto personal de ciencia de datos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#a-proyectos-personales-de-ciencia-de-datos). <br>*Desarrollo del proyecto en GitHub y su divulgación en LinkedIn, redes sociales u otros canales.*| 5%|
 |B| [Publicaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#b-publicación) <br> *Publicación de papers o artículos en revistas de ciencia de datos como Towards Data Science, divulgación de la ciencia, etc.*|5%|
 |C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
 |D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
@@ -81,7 +82,7 @@ El material y actividades por clase se enlistan a continuación:
 
 |# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
-|1| 2023-01-18|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Activ. 01, Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Activ. 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>| P.D. |
+|1| 2023-01-18|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Activ. 01, Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Activ. 02, Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>| [Ver Issue #50](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/50) |
 |2| 2023-01-25|P.D.|P.D.|P.D.|
 |3| 2023-02-01|P.D.|P.D.|P.D.|
 |4| 2023-02-08|P.D.|P.D.|P.D.|
@@ -118,8 +119,8 @@ __Material base__
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 __Proyectos__
-- [Proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda_analysis)
-- [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final_eval)
+- [Proyecto intermedio análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda)
+- [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final)
 
 __Material extendido__
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
@@ -129,22 +130,24 @@ __Material extendido__
 Para mayor detalle de la bibliografía del curso, revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Referencias.md).
 
 ## Organización de carpetas
-    ├── proyectos               <- Carpeta con proyectos del curso.
-    │   ├── eda_analysis        <- Carpeta para proyecto con análisis exploratorio.
-    │   └── final_eval          <- Carpeta para proyecto final de la materia.
-    │
     ├── actividades             <- Carpeta con actividades y material para el curso.
     │   ├── data                <- Descripción de carpeta.
-    │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
     │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API.
+    │   ├── material            <- Carpeta con material para el curso, papers, artículos, etc.
+    │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
     │   ├── src                 <- Carpeta con programas y código.
-    │   └── material            <- Carpeta con material para el curso.
-    │       ├── Libro_PMI-RMP   <- Carpeta del libro de Riesgo de *Project Managment*.
-    │       └── Papers          <- Carpeta con papers a revisar en actividades.
+    │   └── ##_nombre-actividad <- Actividades, donde ## representan dos dígitos para el número
+    │                              consecutivo de la actividad, seguido por su nombre.
     │
     ├── grades                  <- Carpeta con calificaciones del curso.
+    │   └── Puntos_extras.md    <- Detalle sobre actividades para ganar puntos extras.
     │
-    ├── README.md               <- Archivo principal README con presentación del proyecto.
-    ├── LICENSE                 <- Archivo con licencia del material del repositorio.
-    └── Referencias.md          <- Archivo con bibliografía y referencias del curso.
+    ├── proyectos               <- Carpeta con proyectos del curso.
+    │   ├── eda                 <- Carpeta para proyecto de análisis exploratorio de datos.
+    │   └── final               <- Carpeta para proyecto final de la materia.
+    │
+    ├── Contenido_IH602.pdf     <- Contenido temático de la materia.
+    ├── README.md               <- Readme-file principal con presentación del proyecto.
+    ├── LICENSE                 <- Licencia del material del repositorio.
+    └── Referencias.md          <- Bibliografía y referencias del curso.
