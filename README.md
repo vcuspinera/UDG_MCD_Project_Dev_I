@@ -38,10 +38,10 @@ Lista de alumnos del ciclo escolar 2023-A (semestre de otoño).
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[andro200194@outlook.com](mailto:andro200194@outlook.com)|[androbriel](https://github.com/androbriel) |
 |221973467|MANUEL GASTELUM REYES|[manuel.gastelum7346@alumnos.udg.mx](mailto:manuel.gastelum7346@alumnos.udg.mx) |[m5991](https://github.com/m5991) |
 |221973513|ALBERTO MARTÍNEZ LARA|[alberto.martinez7351@alumnos.udg.mx](mailto:alberto.martinez7351@alumnos.udg.mx) |[AlbertoMCD](https://github.com/AlbertoMCD)  |
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) | |
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) |*Pendiente* |
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xunaxhi.pineda7349@alumnos.udg.mx](mailto:xunaxhi.pineda7349@alumnos.udg.mx) |[xmpinedar](https://github.com/xmpinedar) |
 |209543147|EDUARDO RIOS LUNA|[edurios.luna@gmail.com](mailto:edurios.luna@gmail.com) |[edurios2021](https://github.com/edurios2021) |
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) | |
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) |*Pendiente* |
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[mauricio.tenorio7286@alumnos.udg.mx](mailto:mauricio.tenorio7286@alumnos.udg.mx) |[MauricioTen](https://github.com/MauricioTen) |
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[luisvallartarobledo@gmail.com](mailto:luisvallartarobledo@gmail.com) |[LUISVALLARTA](https://github.com/LUISVALLARTA) |
 |304578694|GABRIEL VARELA TAVARES|[gabriel.varela7869@alumnos.udg.mx](mailto:gabriel.varela7869@alumnos.udg.mx) |[D4NT3002](https://github.com/D4NT3002) |
@@ -119,7 +119,7 @@ __Material base__
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
 
 __Proyectos__
-- [Proyecto intermedio análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda)
+- [Proyecto intermedio de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda)
 - [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final)
 
 __Material extendido__
