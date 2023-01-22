@@ -76,7 +76,7 @@ Se comparten las calificaciones finales del curso.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|__0__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|1.7|1.4|0|0|0|__3.1__|
 |221973467|MANUEL GASTELUM REYES|0|1.7|1.4|0|0|0|__3.1__|
 |221973513|ALBERTO MARTÍNEZ LARA|0|1.7|1.4|0|0|0|__3.1__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|__0__|
@@ -111,7 +111,7 @@ Se comparten las calificaciones finales del curso.
 
 |ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06| 07| 08| 09| 10|ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|0|0|0|0|0|__0__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|0|0|0|0|0|0|0|0|0|0|0|__0__|
 |221973467|MANUEL GASTELUM REYES|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|0|0|0|0|0|__0__|
@@ -129,7 +129,7 @@ Se comparten las calificaciones finales del curso.
 
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|__0__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|0|0|0|0|0|0|__0__|
 |221973467|MANUEL GASTELUM REYES|100|0|0|0|0|0|0|__14.3__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|0|0|0|0|0|0|__14.3__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|__0__|
@@ -171,7 +171,7 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17| 18|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |221973467|MANUEL GASTELUM REYES|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |221973513|ALBERTO MARTÍNEZ LARA|1|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|0|0|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
