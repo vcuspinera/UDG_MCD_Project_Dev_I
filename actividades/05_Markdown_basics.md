@@ -1,7 +1,7 @@
 # 05 • Markdown
 *Referencia rápida a comandos para usar en Markdown*
 
-Este archivo es un una referencia rápida a manera de *cheatsheet* para dar formato a Markdowns, lo cual aplica para archivos terminación `.md`, R-markdown y Jupyter notebooks. En este documento se presenta el código usado, así como el resultado.
+Este archivo es un una referencia rápida a manera de *cheatsheet* para dar formato a los **Markdowns**, es decir, archivos con terminación `.md`. Este formato también se utiliza al escribir texto en los R-markdown (`.Rmd`) y Jupyter notebooks (`ipynb`). En este documento se presenta el código usado, así como el resultado.
 
 ## Contenido
 1. Header
@@ -71,14 +71,14 @@ Para tachar texto utiliza ~~dos tildes~~
 
 Para énfasis use cursiva utilizando *asteriscos* o _guión bajo_.
 
-Para un mayor énfasis puedes utilizar negritas usando  **dos asteriscos** o __dos guiones bajos__.
+Para un mayor énfasis puedes utilizar negritas usando **dos asteriscos** o __dos guiones bajos__.
 
 Para tener ambos énfasos usa **doble asterisco + _guión bajo sencillo_**.
 
 Para tachar texto utiliza ~~dos tildes~~.
 
 ## 3. Listas
-Para hacer una lista con números basta con incluir la numeración al inicio del texto seguida de un punto. Para una lista co viñetas se puede utilizar `-`, `*` o `+`. Se puede identar con espacios para considerar puntos adicionales
+Para hacer una lista con números basta con incluir la numeración al inicio del texto seguida de un punto. Para una lista con viñetas se puede utilizar `-`, `*` o `+`. Se puede identar con espacios para considerar puntos adicionales.
 
 ```
 Lista numérica. Al despertar:
@@ -292,7 +292,7 @@ Then the bird said: <p style="color:red">“Nevermore.”</p>
 </html>
 
 ## 10. Líneas horizontales
-Hay distintas maneras de incluir una línea en el texto de markdown, apra lo cual se deben de poner tres o más de las siguientes opciones:
+Hay distintas maneras de incluir una línea en el texto de markdown, para lo cual se deben de poner tres o más de las siguientes opciones:
 
 ```
 ---
