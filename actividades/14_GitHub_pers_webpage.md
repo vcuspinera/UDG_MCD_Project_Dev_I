@@ -1,4 +1,4 @@
-# 13 • GitHub page
+# 14 • GitHub personal webpage
 *Crear una página web personal -básica- en GitHub*
 
 Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). En esta actividad crearemos una página web personal muy básica en GitHub.

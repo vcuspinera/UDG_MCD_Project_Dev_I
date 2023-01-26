@@ -1,7 +1,7 @@
-# 08 • Git & GitHub basics
+# 08 • Git & GitHub connection
 *Práctica usando Git de forma local y GitHub de forma remota*
 
-Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). En esta sección trabajaremos con el control de versiones usando Git de forma local y GitHub de forma remota.
+Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). En esta sección revisaremos al manera en conectar ambas herramientas para el control de versiones (Git de forma local y GitHub de forma remota).
 
 ## Contenido
 1. `git clone`, clonar un repositorio de GitHub en tu Git local
