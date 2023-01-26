@@ -88,7 +88,7 @@ Revisar que en la raíz del repositorio tengas un archivo de nombre `LICENSE`.
 
 > 3.3. Make the license explicit.
 
-Además, revisar que en la sección del lado derecho aparezca uan opción que diga `MIT license`.
+Además, revisar que en la sección del lado derecho aparezca una opción que diga `MIT license`.
 
 > 3.3. Make the license explicit. 2nd paragraph: "For software, we recommend a permissive open source license such as the MIT, BSD, or Apache license".
 

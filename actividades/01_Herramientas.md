@@ -12,7 +12,7 @@ Existen algunas herramientas esenciales en la Ciencia de Datos, destacando el si
 |Editor de Textos|<ul><li>Recomendado **Visual Studio Code**. </li></li>Alternativas **Atom** y **Spyder**</li></ul>|<ul><li> Editor fácil de utilizar</li><li>Fácil para explicar e hilar para proyectos y reportes</li></ul>|
 |Otras herramientas|**Excel, Visual Basic, Tableau, SQL, MongoDB, SAS, Stata, SPSS, Docker, AWS, Google Cloud** y **Azure**|Estas herramientas diversas son complementarias a las mencionadas en los registros anteriores, con las cuales se puede realizar análisis y reportes, visualización, consulta y administración de bases de datos estructuradas y no estructuradas, para análisis estadístico, crear entornos reproducibles y correr programas en la nube.|
 
-La mayoría de estos programas y apps son open source por lo que no tienen costo. Las herramientas que se mencionaro en la tabla anterior que sí tienen costo son Excel, SAS y SPSS.
+La mayoría de estos programas y apps son __*open source*__ por lo que no tienen costo. Las herramientas que se mencionaron en la tabla anterior que sí tienen costo son Excel, SAS y SPSS.
 
 Para la instalación de algunos de estos programas en los sistemas operativos de Windows, Mac o Ubuntu (Linux) se recomienda revisar la [guía de instalación](https://ubc-mds.github.io/resources_pages/installation_instructions/) de UBC MDS.
 

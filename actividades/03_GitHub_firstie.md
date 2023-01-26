@@ -8,7 +8,7 @@ Entre las opciones del menú general destacan:
 
 |Opción |Imagen |
 |:---|:---:|
-|_Your profile_ es la página principal y la vista de como otros usuarios verán la actividad y proyectos que han desarrollado o en las que han participado | <img src="img/03-02_profile.png" width="700" align = "centre">[_Profile de hadley en GitHub_](https://github.com/hadley)|
+|_Your profile_ es la página principal y la vista de cómo otros usuarios verán la actividad y proyectos que han desarrollado o en las que han participado | <img src="img/03-02_profile.png" width="700" align = "centre">[_Profile de hadley en GitHub_](https://github.com/hadley)|
 |En _Your repositories_ se muestran los repositorios en los que el usuario ha desarrollado proyectos | <img src="img/03-03_repositorios.png" width="700" align = "centre">[_Repositorios con proyectos de vcuspinera_](https://github.com/vcuspinera?tab=repositories)|
 |En _Settings_ se puede personalizar el perfil y la configuración de la cuenta | <img src="img/03-04_settings.png" width="700" align = "centre">[_Settings de cuenta GitHub de vcuspinera_](https://github.com/vcuspinera?tab=repositories)|
 

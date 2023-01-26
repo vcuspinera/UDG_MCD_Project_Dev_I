@@ -14,7 +14,7 @@ Este archivo es un una referencia rápida a manera de *cheatsheet* para dar form
 8. Citas
 9. HTML
 10. Líneas horizontales
-11. Youtube
+11. YouTube
 12. Referencias
 
 ## 1. Header
@@ -42,14 +42,14 @@ Alternativa usando líneas:
 H1 alternativo para encabezado para título
 ====
 
-H2 alterantivo para encabezado para subtítulo
+H2 alternativo para encabezado para subtítulo
 ---
 ```
 
 H1 alternativo para encabezado para título
 ====
 
-H2 alterantivo para encabezado para subtítulo
+H2 alternativo para encabezado para subtítulo
 ---
 
 <br>
@@ -58,27 +58,27 @@ H2 alterantivo para encabezado para subtítulo
 ## 2. Énfasis
 Existen distintos tipos de énfasis:
 ```
-Para énfasis use cursiva utilizando *asteriscos* o _guión bajo_.
+Para énfasis use cursiva utilizando *asteriscos* o _guion bajo_.
 
 Para un mayor énfasis puedes utilizar negritas usando  **dos asteriscos** o __dos guiones bajos__.
 
-Para tener ambos énfasos usa **doble asterisco y _guión bajo sencillo_**.
+Para tener ambos énfasis usa **doble asterisco y _guion bajo sencillo_**.
 
 Para tachar texto utiliza ~~dos tildes~~
 ```
 
 ... y aquí se ejemplifica:
 
-Para énfasis use cursiva utilizando *asteriscos* o _guión bajo_.
+Para énfasis use cursiva utilizando *asteriscos* o _guion bajo_.
 
 Para un mayor énfasis puedes utilizar negritas usando **dos asteriscos** o __dos guiones bajos__.
 
-Para tener ambos énfasos usa **doble asterisco + _guión bajo sencillo_**.
+Para tener ambos énfasis usa **doble asterisco + _guion bajo sencillo_**.
 
 Para tachar texto utiliza ~~dos tildes~~.
 
 ## 3. Listas
-Para hacer una lista con números basta con incluir la numeración al inicio del texto seguida de un punto. Para una lista con viñetas se puede utilizar `-`, `*` o `+`. Se puede identar con espacios para considerar puntos adicionales.
+Para hacer una lista con números basta con incluir la numeración al inicio del texto seguida de un punto. Para una lista con viñetas se puede utilizar `-`, `*` o `+`. Se puede indentar con espacios para considerar puntos adicionales.
 
 ```
 Lista numérica. Al despertar:
@@ -91,7 +91,7 @@ Lista con viñetas. Compras del super:
 * Pan
 + Huevo 
 
-Lista combinada e identada. Cocinar una sincronizada:
+Lista combinada e indentada. Cocinar una sincronizada:
 1. Comprar:
    - tortillas
    - queso
@@ -112,7 +112,7 @@ Lista con viñetas. Compras del super:
 * Pan
 + Huevo 
 
-Lista combinada e identada. Cocinar una sincronizada:
+Lista combinada e indentada. Cocinar una sincronizada:
 1. Comprar:
    - tortillas
    - queso
@@ -199,7 +199,7 @@ varias líneas.
 ```
 ````
 
-Así se ven als ventanas de códigos anteriores...
+Así se ven las ventanas de códigos anteriores...
 
 Código en Python:
 ```python
@@ -316,8 +316,8 @@ Y así se ve el código anterior:
 ___
 (3) Usando guiones bajos
 
-## 11. Youtube
-No se pueden añadir videos de Youtube directo del Markdown, pero se puede añadir una imagen que te lleve a la página de Youtube utilizando el siguiente formato:
+## 11. YouTube
+No se pueden añadir videos de YouTube directo del Markdown, pero se puede añadir una imagen que te lleve a la página de YouTube utilizando el siguiente formato:
 
 ```
 [![TEXTO DE LA IMAGEN](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
