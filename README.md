@@ -41,7 +41,7 @@ Lista de alumnos del ciclo escolar 2023-A (semestre de otoño).
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) |*Pendiente* |
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xunaxhi.pineda7349@alumnos.udg.mx](mailto:xunaxhi.pineda7349@alumnos.udg.mx) |[xmpinedar](https://github.com/xmpinedar) |
 |209543147|EDUARDO RIOS LUNA|[edurios.luna@gmail.com](mailto:edurios.luna@gmail.com) |[edurios2021](https://github.com/edurios2021) |
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) |*Pendiente* |
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) |[DSouzaR67](https://github.com/DSouzaR67) |
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[mauricio.tenorio7286@alumnos.udg.mx](mailto:mauricio.tenorio7286@alumnos.udg.mx) |[MauricioTen](https://github.com/MauricioTen) |
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[luisvallartarobledo@gmail.com](mailto:luisvallartarobledo@gmail.com) |[LUISVALLARTA](https://github.com/LUISVALLARTA) |
 |304578694|GABRIEL VARELA TAVARES|[gabriel.varela7869@alumnos.udg.mx](mailto:gabriel.varela7869@alumnos.udg.mx) |[D4NT3002](https://github.com/D4NT3002) |
@@ -83,26 +83,27 @@ El material y actividades por clase se enlistan a continuación:
 |# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
 |1| 2023-01-18|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/02_GitHub_registro.md)</li></ul>| [Ver Issue #50](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/50) |
-|2| 2023-01-25|<ul><li>Basics</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/v1.1.0/actividades/03_GitHub_firstie.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/v1.1.0/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/v1.1.0/actividades/05_Markdown_basics.md)</li><li>[Asignación de 1ra ronda de presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_present_1.ipynb)</li></ul>|P.D.|
-|3| 2023-02-01|P.D.|P.D.|P.D.|
-|4| 2023-02-08|P.D.|P.D.|P.D.|
-|5| 2023-02-15|P.D.|P.D.|P.D.|
-|6| 2023-02-22|P.D.|P.D.|P.D.|
-|7| 2023-03-01|P.D.|P.D.|P.D.|
-|8| 2023-03-08|P.D.|P.D.|P.D.|
-|9| 2023-03-15|P.D.|P.D.|P.D.|
-|10| 2023-03-22|P.D.|P.D.|P.D.|
-|11| 2023-03-29|P.D.|P.D.|P.D.|
+|2| 2023-01-25|<ul><li>Básicos</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/03_GitHub_overview.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md)</li><li>[Asignación de equipos para 1ra ronda de presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_present_1.ipynb)</li></ul>|[Ver Issue #52](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues/52)|
+|3| 2023-02-01|<ul><li>*Version control*</li><li>Primer repo en GitHub</li></ul>|<ul><li>[Pres. 01, paper "Excuse me, do you have a moment to talk about version control?"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/material/01%20A%20moment%20for%20Versioning%20Control.pdf)</li><li>[Act. 06 • Crear primer repo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/06_GitHub_firstie.md)</li><li>Quiz 01</li></ul>|P.D.|
+|4| 2023-02-08|<ul><li>Charla</li><li>Conectando Git y GitHub</li></ul>|<ul><li>Charla con un invitado (*activ. por confirmar*).</li><li>[Act. 07 • Git install and config](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/07_Git_install.md)</li><li>[Act. 08 • Git & GitHub connection](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md)</li><li>Quiz 02</li></ul>|P.D.|
+|5| 2023-02-15|<ul><li>Pasado, presente y futuro de Data Science</li><li>Más de GitHub</li></ul>|<ul><li>[Pres. 02, paper "50 years of Data Science"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/material/02%2050%20Years%20of%20Data%20Science.pdf)</li><li>[Act. 09 • GitHub conflicts](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/09_GitHub_conflict.md)</li><li>[Act. 10 • GitHub fork](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/10_GitHub_fork.md)</li><li>Quiz 03</li></ul>|P.D.|
+|6| 2023-02-22|<ul><li>Buenas prácticas para programar en Data Science</li><li>Estándar global para fechas</li><li>Estructura de repositorio en GitHub</li></ul>|<ul><li>[Pres. 03, paper "Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/material/03%20Good%20Enough%20Practices%20Sc%20Computing.pdf)</li><li>[Pres. 04, paper "The Problem with Dates: Applying ISO 8601"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/material/04%20The%20Problem%20with%20Dates%20(ISO8601).pdf)</li><li>[Act. 11 • Estructura de repositorio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md)</li><li>Quiz 04</li></ul>|P.D.|
+|7| 2023-03-01|<ul><li>Bases de datos alternativas</li><li>Librería Altair en Python</li></ul>|<ul><li>[Pres. 05, libro "Everybody Lies"](https://www.dropbox.com/scl/fo/18nzputb50yh8fzobg6t9/h?dl=0&rlkey=inxhoyecp31rf66whar7x6dex) (*presentar 10 o más bases de datos utilizadas, su fuente y comentarios sobre el análisis realizado*)</li><li>[Act. 13 • Visualización con Altair](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/13_Viz_Altair.ipynb)</li><li>Asignación de equipos para 2da ronda de presentaciones</li><li>Quiz 05</li></ul>|P.D.|
+|8| 2023-03-08|<ul><li>EDA</li></ul>|<ul><li>[Pres. 06, libro "The Art of Data Science", cap. 4](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/material/06%20Art%20of%20Data%20Science.pdf)</li><li>[Act. 12 • Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/12_EDA.ipynb)</li><li>[Guía para proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda)</li><li>Quiz 06</li></ul>|P.D.|
+|9| 2023-03-15|<ul><li>Webpage personal en GitHub</li><li>Calificaciones proy. EDA</li></ul>|<ul><li>Pres. 07, por definir</li><li>[Act. 14 • GitHub personal webpage](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/14_GitHub_pers_webpage.md )</li><li>Compartir observaciones de proyectos de EDA</li><li>Revisión de calificaciones proy. EDA</li><li>Quiz 07</li></ul>|P.D.|
+|10| 2023-03-22|<ul><li>Trabajo en equipo</li><li>Pedir ayuda a la comunidad</li></ul>|<ul><li>Pres. 08, por definir</li><li>[Act. 15 • Trabajando en equipo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/15_GitHub_teams.md)</li><li>[Act. 16 • Asking for help](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/16_ask4help.ipynb)</li><li>Quiz 08</li></lu>|P.D.|
+|11| 2023-03-29|<ul><li>Análisis de texto</li></ul>|<ul><li>Pres. 09, por definir</li><li>[Act. 17 • Consulta de tweets](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/17_Consultar_tweets.ipynb)</li><li>[Act. 18 • Herramientas de texto](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/18_Text_tools.ipynb)</li><li>[Act. 19 • Análisis de texto](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/19_Text_analysis.ipynb)</li><li>Quiz 09</li></lu>|P.D.|
 |12| 2023-04-05|N/A|**No habrá clase**|N/A|
 |13| 2023-04-12|N/A|**No habrá clase**|N/A|
-|14| 2023-04-19|P.D.|P.D.|P.D.|
-|15| 2023-04-26|P.D.|P.D.|P.D.|
-|16| 2023-05-03|P.D.|P.D.|P.D.|
-|17| 2023-05-10|P.D.|P.D.|P.D.|
+|14| 2023-04-19|<ul><li>Mapas en Python</li></ul>|<ul><li>Charla con un invitado (*activ. por confirmar*).</li><li>Pres. 10, por definir</li><li>Act. 20 • Spatial Data in Python</li><li>Quiz 10</li></lu>|P.D.|
+|15| 2023-04-26|<ul><li>Asignación proyecto final</li></ul> |<ul><li>Pres. 11, por definir</li><li>Asignación de equipos para proyecto final</li><li>[Guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final)</li><li>Quiz 11</li></ul>|P.D.|
+|16| 2023-05-03|<ul><li>Seguimiento proyecto final</li></ul>|<ul><li>Pres. 12, por definir</li><li>Espacio para dudas sobre el proyecto final</li><li>Quiz 12</li><ul>|P.D.|
+|17| 2023-05-10|<ul><li>Cierre de curso</li></ul>|<ul><li>Charla con un invitado (*activ. por confirmar*).</li><li>Compartir observaciones de proyecto final</li><li>Revisión de actividades para puntos extras</li><li>Calificaciones acumuladas</li><li>Encuesta final del curso</li><ul>|P.D.|
 |18| 2023-05-17|P.D.|P.D.|P.D.|
 
-
 *Nota: el acrónimo __N/A__ significa "no aplica", y __P.D.__ es "por definir".*
+
+*Nota 2: este es un calendario de actividades tentativo, el cual podría tener cambios en función de las necesidades y desarrollo del curso. De llevarse a cabo el calendario propuesto sin interrupciones o atrasos, el curso acabaría en la sesión 17.*
 
 [Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2023-2024) para revisar el calendario oficial de la UDG del ciclo escolar 2023-A.
 
@@ -110,19 +111,20 @@ El material y actividades por clase se enlistan a continuación:
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
 - [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
+- [Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0) con arhivos complementarios: videos de clase, presentaciones de alumnos y papers/ar´ticulos/libros de gran tamaño.
 
 __Material base__
-- [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_materia_%20IH602.pdf)
+- [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_IH602.pdf)
 - [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades)
-- [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Libro_PMI-RMP)
-- [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/#material-del-curso)
-- [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades)
+- [Papers, artículos y documentos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material)
 
 __Proyectos__
 - [Proyecto intermedio de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda)
 - [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final)
 
 __Material extendido__
+- [Quizes de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#2-quizes-de-lecturas)
+- [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/grades#calificaciones)
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/grades/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/sh/8vy3gby1wdiqsef/AADzSXfCOX06LRFjS7IWTfK5a?dl=0)
 - [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers)
