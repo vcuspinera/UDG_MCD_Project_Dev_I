@@ -41,7 +41,7 @@ Lista de alumnos del ciclo escolar 2023-A (semestre de otoño).
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) | [CesarMedina95](https://github.com/CesarMedina95) |
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xunaxhi.pineda7349@alumnos.udg.mx](mailto:xunaxhi.pineda7349@alumnos.udg.mx) |[xmpinedar](https://github.com/xmpinedar) |
 |209543147|EDUARDO RIOS LUNA|[edurios.luna@gmail.com](mailto:edurios.luna@gmail.com) |[edurios2021](https://github.com/edurios2021) |
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) |[DSouzaR67](https://github.com/DSouzaR67) |
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[daniel.souza1073@alumnos.udg.mx](mailto:daniel.souza1073@alumnos.udg.mx) |[DSouzaR67](https://github.com/DSouzaR67) |
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[mauricio.tenorio7286@alumnos.udg.mx](mailto:mauricio.tenorio7286@alumnos.udg.mx) |[MauricioTen](https://github.com/MauricioTen) |
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[luisvallartarobledo@gmail.com](mailto:luisvallartarobledo@gmail.com) |[LUISVALLARTA](https://github.com/LUISVALLARTA) |
 |304578694|GABRIEL VARELA TAVARES|[gabriel.varela7869@alumnos.udg.mx](mailto:gabriel.varela7869@alumnos.udg.mx) |[D4NT3002](https://github.com/D4NT3002) |
@@ -111,7 +111,7 @@ El material y actividades por clase se enlistan a continuación:
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II)
 - [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
-- [Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0) con arhivos complementarios: videos de clase, presentaciones de alumnos y papers/ar´ticulos/libros de gran tamaño.
+- [Dropbox](https://www.dropbox.com/sh/k6klb0b4d6ab1ub/AAA4xuIyks58mnu3F4-BGedZa?dl=0) con archivos complementarios: videos de clase, presentaciones de alumnos y papers/artículos/libros de gran tamaño.
 
 __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/Contenido_IH602.pdf)
