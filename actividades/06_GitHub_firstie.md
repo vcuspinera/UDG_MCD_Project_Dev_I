@@ -1,4 +1,4 @@
-# 06 • Práctica con GitHub
+# 06 • Crear primer repo en GitHub
 *Práctica usando GitHub para crear su primer repositorio*
 
 Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). En esta sección trabajaremos con el control de versiones usando GitHub de forma remota para crear su primer repositorio desde cero para después personalizarlo.
