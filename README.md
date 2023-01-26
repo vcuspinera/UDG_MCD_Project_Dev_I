@@ -38,7 +38,7 @@ Lista de alumnos del ciclo escolar 2023-A (semestre de otoño).
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[andro200194@outlook.com](mailto:andro200194@outlook.com)|[androbriel](https://github.com/androbriel) |
 |221973467|MANUEL GASTELUM REYES|[manuel.gastelum7346@alumnos.udg.mx](mailto:manuel.gastelum7346@alumnos.udg.mx) |[m5991](https://github.com/m5991) |
 |221973513|ALBERTO MARTÍNEZ LARA|[alberto.martinez7351@alumnos.udg.mx](mailto:alberto.martinez7351@alumnos.udg.mx) |[AlbertoMCD](https://github.com/AlbertoMCD)  |
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) |*Pendiente* |
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|[cemedina_95@outlook.com](mailto:cemedina_95@outlook.com) | [CesarMedina95](https://github.com/CesarMedina95) |
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xunaxhi.pineda7349@alumnos.udg.mx](mailto:xunaxhi.pineda7349@alumnos.udg.mx) |[xmpinedar](https://github.com/xmpinedar) |
 |209543147|EDUARDO RIOS LUNA|[edurios.luna@gmail.com](mailto:edurios.luna@gmail.com) |[edurios2021](https://github.com/edurios2021) |
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|[dsouzaHCIS@gmail.com](mailto:dsouzaHCIS@gmail.com) |*Pendiente* |
