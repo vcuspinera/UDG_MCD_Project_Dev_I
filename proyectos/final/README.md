@@ -23,11 +23,11 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 ### Análisis
 Deberán considerar al menos **3 de los siguientes puntos**:
-1.  **PENDINTE**
-2.  **PENDINTE**
-3.  **PENDINTE**
-4.  **PENDINTE**
-5.  **PENDINTE**
+1.  **PENDIENTE**
+2.  **PENDIENTE**
+3.  **PENDIENTE**
+4.  **PENDIENTE**
+5.  **PENDIENTE**
 
 Además,
   - Se podrá escoger la base de datos de forma libre.

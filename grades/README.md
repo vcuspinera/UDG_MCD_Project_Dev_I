@@ -94,7 +94,7 @@ Se comparten las calificaciones finales del curso.
 
 ### Presentaciones de alumnos:
 |ID. |NOMBRE|PRES 1|PRES 2|PROMEDIO|
-|:---|:---|---:|---:|---:|---:|
+|:---|:---|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|0|__0__|
 |221973467|MANUEL GASTELUM REYES|0|0|__0__|
 |221973513|ALBERTO MARTÍNEZ LARA|0|0|__0__|
