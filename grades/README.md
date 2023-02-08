@@ -29,9 +29,9 @@ Los detalles sobre los puntos anteriores:
 Las presentaciones se realizarán en equipo y tendrán una duración de 20 a 40 minutos, dependiendo del material de cada capítulo o papers. El equipo que exponga deberá **encender su cámara.** Inicialmente las presentaciones se compartirán en Dropbox ([click aquí](https://www.dropbox.com/sh/se04v1lqz669mnc/AACRbm1OMCfskhVDnXrJwQ2_a?dl=0)), y posteriormente se subirán a la carpeta de presentaciones del repositorio de GitHub ([dar click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/presentaciones)).
 
 ### 2) Quizes de lecturas
-Los *quizes* (o controles de lectura) se realizarán de forma __individual__ durante la última sección de la clase. Los alumnos tendrán hasta __las 9:00 PM del mismo día__ para responder.
+Los *quizes* (o controles de lectura) se realizarán de forma __individual__ durante la última sección de la clase. Los alumnos tendrán hasta __las 11:59 PM del mismo día__ para responder.
 
-Para los alumnos que contesten el *quiz* __posterior a las 9:00 PM habrá una penalización__, la cual consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
+Para los alumnos que contesten el *quiz* __posterior al día de la clase a las 11:59 PM habrá una penalización__, la cual consiste en ser evaluados sobre el 50% de la calificación obtenida; es decir, se asignará la mitad de la calificación.
 
 En caso de __no responder__ a un Quiz, la calificación será __cero__.
 
@@ -78,13 +78,13 @@ Se comparten las calificaciones finales del curso.
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|0|2.9|2.6|0|0|0|__5.5__|
 |221973467|MANUEL GASTELUM REYES|0|3.2|1.4|0|0|0|__4.6__|
-|221973513|ALBERTO MARTÍNEZ LARA|0|3.3|1.4|0|0|0|__4.8__|
+|221973513|ALBERTO MARTÍNEZ LARA|0|3.3|2.9|0|0|0|__6.2__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|0|3.1|2.6|0|0|0|__5.7__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|3.3|1.4|0|0|0|__14.7__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|3.3|2.6|0|0|0|__15.8__|
 |209543147|EDUARDO RIOS LUNA|10|3.2|2.6|0|0|0|__15.7__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|2.9|2.6|0|0|0|__5.5__|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|0|3.3|2.9|0|0|0|__6.1__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|0|1.7|1.4|0|0|0|__3.1__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|0|2.3|1.4|0|0|0|__3.8__|
 |304578694|GABRIEL VARELA TAVARES|0|3|2.9|0|0|0|__5.9__|
 |221310778|RICARDO GUTIERREZ ROQUE|0|3.3|2.6|0|0|0|__5.8__|
 
@@ -119,7 +119,7 @@ Se comparten las calificaciones finales del curso.
 |209543147|EDUARDO RIOS LUNA|100|90|0|0|0|0|0|0|0|0|0|0|__15.8__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|75|0|0|0|0|0|0|0|0|0|0|__14.6__|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|95|0|0|0|0|0|0|0|0|0|0|__16.3__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|0|0|0|0|0|0|0|0|0|0|0|__8.3__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|40|0|0|0|0|0|0|0|0|0|0|__11.7__|
 |304578694|GABRIEL VARELA TAVARES|100|80|0|0|0|0|0|0|0|0|0|0|__15__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|95|0|0|0|0|0|0|0|0|0|0|__16.3__|
 
@@ -127,13 +127,13 @@ Se comparten las calificaciones finales del curso.
 
 ### Seguimiento de actividades:
 
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 04<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
+|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 06<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|80|0|0|0|0|0|__25.7__|
 |221973467|MANUEL GASTELUM REYES|100|0|0|0|0|0|0|__14.3__|
-|221973513|ALBERTO MARTÍNEZ LARA|100|0|0|0|0|0|0|__14.3__|
+|221973513|ALBERTO MARTÍNEZ LARA|100|100|0|0|0|0|0|__28.6__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|100|80|0|0|0|0|0|__25.7__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|0|0|0|0|0|0|__14.3__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|80|0|0|0|0|0|__25.7__|
 |209543147|EDUARDO RIOS LUNA|100|80|0|0|0|0|0|__25.7__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|80|0|0|0|0|0|__25.7__|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|0|0|0|0|0|__28.6__|
@@ -179,7 +179,7 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 |209543147|EDUARDO RIOS LUNA|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|0|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |304578694|GABRIEL VARELA TAVARES|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |221310778|RICARDO GUTIERREZ ROQUE|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 
