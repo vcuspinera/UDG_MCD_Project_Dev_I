@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-02-02**
+Última actualización al: **2023-02-08**
 
 <br>
 
@@ -171,17 +171,17 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17| 18|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221973467|MANUEL GASTELUM REYES|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|209543147|EDUARDO RIOS LUNA|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973467|MANUEL GASTELUM REYES|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|209543147|EDUARDO RIOS LUNA|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|304578694|GABRIEL VARELA TAVARES|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
-|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|0|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|304578694|GABRIEL VARELA TAVARES|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
+|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|1|0|0|0|0|0|0|0|N/A|N/A|0|0|0|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 
