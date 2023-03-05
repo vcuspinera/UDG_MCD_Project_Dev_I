@@ -12,10 +12,10 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[androbriel](https://github.com/androbriel) | Pendiente|
 |221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | Pendiente|
 |221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | Pendiente|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|Pendiente | Pendiente|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|[CesarMedina95](https://github.com/CesarMedina95) | Pendiente|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | Pendiente|
 |209543147|EDUARDO RIOS LUNA|[edurios2021](https://github.com/edurios2021) | Pendiente|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|Pendiente | Pendiente|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|[DSouzaR67](https://github.com/DSouzaR67) | Pendiente|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | Pendiente|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | Pendiente|
 |304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | Pendiente|
