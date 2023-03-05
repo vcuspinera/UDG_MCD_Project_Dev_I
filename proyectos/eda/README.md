@@ -2,15 +2,13 @@
 
 En este documento se comparten las instrucciones para desarrollar de forma individual el proyecto intermedio con análisis EDA.
 
-# ⚠️ ESTE MATERIAL CORRESPONDE PARCIALMENTE A LO QUE SE SOLICITÓ EL SEMESTRE PASADO Y PODRÍA CAMBIAR EN FUNCIÓN DEL MATERIAL QUE SE VEA DURANTE EL SEMESTRE. SÓLO SE LOS COMPARTO PARA QUE LO TENGAN COMO REFERENCIA 
-
 ## ⚙️ Generalidades
 El **proyecto de análisis EDA** es una hito de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **de forma individual** y tendrá un valor del **20%** sobre la calificación final.
 
-En la siguiente tabla deberán de añadir el link del repositorio que desarrollaron para el proyecto EDA:
+En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link del repositorio** que desarrollaron para el proyecto EDA:
 
-| Id. UDG  | Nombre         | GitHub user                                           | Repositorio del proy. EDA        |
-|:--------:|:---------------|:------------------------------------------------------|:---------------------------------|
+| Id. UDG  | Nombre         | GitHub user                      | Repositorio del proy. EDA        |
+|:--------:|:---------------|:---------------------------------|:---------------------------------|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[androbriel](https://github.com/androbriel) | Pendiente|
 |221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | Pendiente|
 |221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | Pendiente|
@@ -25,53 +23,56 @@ En la siguiente tabla deberán de añadir el link del repositorio que desarrolla
 
 ## 🛠 Actividad a desarrollar
 
-### Análisis EDA con las siguientes características
-- Se podrá escoger la base de datos de forma libre. _Recomiendo ver sección "1. Fuentes de datos" de la [actividad 12•EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/12_EDA.ipynb)._
+### Análisis
+- Cada alumno deberá escoger una base de datos de forma libre. _Recomiendo ver sección "1. Fuentes de datos" de la actividad [13•Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/13_EDA.ipynb)._
 
-- El análisis de EDA deberá considerar las secciones:
+- El análisis de EDA deberá realizarse en un *Jupyter Notebook* y considerar los siguientes puntos:
   - Descripción de los datos
   - Limpieza de datos
   - Missing values
   - Visualización de datos
   - Referencias
-
-- Realizar el análisis EDA en un *notebook* de Jupyter.
-
-⚠️ Para referencia ver el notebook de la actividad [12•EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/12_EDA.ipynb).
+  
 
 ### Repositorio en GitHub
-- Cada alumno deberá de crear un repositorio en GitHub siguiendo las recomendaciones del paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers).
+- Cada alumno deberá de crear un repositorio en GitHub siguiendo las recomendaciones del paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material).
 
 Este repositorio deberá contener lo siguiente:
+
 - Deben considerar las carpetas y archivos recomendados en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers): carpetas data, doc, results, src; archivo README.md file dentro de cada carpeta con una breve descripción de la misma; archivos de licencia, forma de citar y contribución; un *issue* con comentarios sobre las actividades pendientes.
-- *Jupyter notebook* con el análisis.
-- Un archivo README.md en la carpeta raíz del repositorio con:
-   (1) la descripción general del proyecto, 
-   (2) un breve resumen de resultados, y
-   (3) link al EDA en *jupyter notebook*.
+
+- *Jupyter notebook* con el análisis EDA.
+
+- Un archivo README.md en la carpeta principal del repositorio con:  
+    (1) la descripción general del proyecto,  
+    (2) un breve resumen de resultados, y  
+    (3) link al EDA en *jupyter notebook*.  
 
 ⚠️ Para referencia ver el notebook de la [actividad 11•Estructura de repositorio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md).
 
 ### Difusión de proyecto
 
-Se deberá compartir este proyecto a través algún canal de difusión como LinkedIn, revistas de ciencia de datos, redes sociales u otro canal.
+Su proyecto lo deberán compartir a través algún canal de difusión como LinkedIn, redes sociales, revistas de ciencia de datos (como Towards Data Science o Medium) u otro canal.
 
-## 📚 Entregables:
+## 📚 Entregables a calificar:
 
 - Añadir link de su repositorio al inicio de este REDAME file
 - Repositorio en GitHub
-- Jupyter notebook de EDA
+- Jupyter notebook con el EDA
 - Divulgación del proyecto
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **PENDIENTE**  
+La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **martes 14 de marzo de 2023**.  
 
 
 ## 🔍 Forma de calificar
 Esta actividad se calificará con base en los siguientes puntos:
 
-- Realizar los entregables:
-    - añadir link, repo en GitHub, análisis EDA y divulgar proyecto.
-- Claridad de los resultados.
-- Respetar el *deadline*.
+1. Realizar los entregables:
+    - añadir link,  
+    - repo en GitHub,  
+    - análisis EDA y 
+    - divulgar proyecto.
+2. Claridad de los resultados.
+3. Respetar el *deadline*.
