@@ -63,7 +63,7 @@ Su proyecto lo deberán compartir a través algún canal de difusión como Linke
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **martes 14 de marzo de 2023**.  
+La fecha límite para generar el repositorio del proyecto y subir su EDA a GitHub es el día **domingo 19 de marzo de 2023** a las 23:59 hr.  
 
 
 ## 🔍 Forma de calificar
