@@ -10,7 +10,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 | Id. UDG  | Nombre         | GitHub user                      | Repositorio del proy. EDA        |
 |:--------:|:---------------|:---------------------------------|:---------------------------------|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[androbriel](https://github.com/androbriel) | https://github.com/androbriel/Proyecto-de-an-lisis-EDA---Alejandro-Camacho.git|
-|221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | (Datos Bursátiles Mundiales)[https://github.com/m5991/ProyectoAnalisisEDA-DatosBursatilesMundiales]|
+|221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | [Datos Bursátiles Mundiales](https://github.com/m5991/ProyectoAnalisisEDA-DatosBursatilesMundiales)|
 |221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | Pendiente|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|[CesarMedina95](https://github.com/CesarMedina95) | https://github.com/CesarMedina95/Proyecto_EDA_UDG.git|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | Pendiente|
