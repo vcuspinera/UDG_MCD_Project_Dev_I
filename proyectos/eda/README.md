@@ -13,7 +13,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | [Datos Bursátiles Mundiales](https://github.com/m5991/ProyectoAnalisisEDA-DatosBursatilesMundiales)|
 |221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | [Disney+](https://github.com/AlbertoMCD/EDA_DisneyPlus)|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|[CesarMedina95](https://github.com/CesarMedina95) | https://github.com/CesarMedina95/Proyecto_EDA_UDG.git|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | Pendiente|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | [Trust and Media Consumption](https://github.com/xmpinedar/Trust_and_MediaConsumption)|
 |209543147|EDUARDO RIOS LUNA|[edurios2021](https://github.com/edurios2021) | [Inseguridad en Jalisco](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG)|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|[DSouzaR67](https://github.com/DSouzaR67) | Pendiente|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | Pendiente|
