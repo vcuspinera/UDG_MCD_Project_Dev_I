@@ -18,7 +18,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|[DSouzaR67](https://github.com/DSouzaR67) | Pendiente|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | Pendiente|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | Pendiente|
-|304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | Pendiente|
+|304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | [Defunciones en México](https://github.com/D4NT3002/proyecto_EDA)|
 |221310778|RICARDO GUTIERREZ ROQUE|[rgutierrezroque](https://github.com/rgutierrezroque)| https://github.com/rgutierrezroque/EDA_IMDB_250.git|
 
 ## 🛠 Actividad a desarrollar
