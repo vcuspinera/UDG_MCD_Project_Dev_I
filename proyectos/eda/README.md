@@ -9,17 +9,17 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 | Id. UDG  | Nombre         | GitHub user                      | Repositorio del proy. EDA        |
 |:--------:|:---------------|:---------------------------------|:---------------------------------|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[androbriel](https://github.com/androbriel) | Pendiente|
-|221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | Pendiente|
-|221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | Pendiente|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|[CesarMedina95](https://github.com/CesarMedina95) | https://github.com/CesarMedina95/Proyecto_EDA_UDG.git|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | Pendiente|
-|209543147|EDUARDO RIOS LUNA|[edurios2021](https://github.com/edurios2021) | Pendiente|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|[androbriel](https://github.com/androbriel) |[Análisis EDA - Dataset Videogames](https://github.com/androbriel/Proyecto-de-an-lisis-EDA---Alejandro-Camacho.git)|
+|221973467|MANUEL GASTELUM REYES|[m5991](https://github.com/m5991) | [Datos Bursátiles Mundiales](https://github.com/m5991/ProyectoAnalisisEDA-DatosBursatilesMundiales)|
+|221973513|ALBERTO MARTÍNEZ LARA|[AlbertoMCD](https://github.com/AlbertoMCD)  | [Disney+](https://github.com/AlbertoMCD/EDA_DisneyPlus)|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|[CesarMedina95](https://github.com/CesarMedina95) | [Supermarket](https://github.com/CesarMedina95/Proyecto_EDA_UDG.git)|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|[xmpinedar](https://github.com/xmpinedar) | [Trust and Media Consumption](https://github.com/xmpinedar/Trust_and_MediaConsumption)|
+|209543147|EDUARDO RIOS LUNA|[edurios2021](https://github.com/edurios2021) | [Inseguridad en Jalisco](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG)|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|[DSouzaR67](https://github.com/DSouzaR67) | Pendiente|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | Pendiente|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | Pendiente|
-|304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | Pendiente|
-|221310778|RICARDO GUTIERREZ ROQUE|[rgutierrezroque](https://github.com/rgutierrezroque)| Pendiente|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | [Metacritic Videogames Scores](https://github.com/MauricioTen/Metacritic_Videogames_Score)|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | [Cambio climático](https://github.com/LUISVALLARTA/cambio_climatico)|
+|304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | [Defunciones en México](https://github.com/D4NT3002/proyecto_EDA)|
+|221310778|RICARDO GUTIERREZ ROQUE|[rgutierrezroque](https://github.com/rgutierrezroque)| [EDA IMBD 250](https://github.com/rgutierrezroque/EDA_IMDB_250.git)|
 
 ## 🛠 Actividad a desarrollar
 
@@ -46,7 +46,7 @@ Este repositorio deberá contener lo siguiente:
 - Un archivo README.md en la carpeta principal del repositorio con:  
     (1) la descripción general del proyecto,  
     (2) un breve resumen de resultados, y  
-    (3) link al EDA en *jupyter notebook*.  
+    (3) link al EDA en *Jupyter notebook*.  
 
 ⚠️ Para referencia ver el notebook de la [actividad 11•Estructura de repositorio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md).
 
