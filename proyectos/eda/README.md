@@ -17,7 +17,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |209543147|EDUARDO RIOS LUNA|[edurios2021](https://github.com/edurios2021) | [Inseguridad en Jalisco](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG)|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|[DSouzaR67](https://github.com/DSouzaR67) | Pendiente|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|[MauricioTen](https://github.com/MauricioTen) | Pendiente|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | [cambio climatico](https://github.com/LUISVALLARTA/cambio_climatico)|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|[LUISVALLARTA](https://github.com/LUISVALLARTA) | [Cambio climático](https://github.com/LUISVALLARTA/cambio_climatico)|
 |304578694|GABRIEL VARELA TAVARES|[D4NT3002](https://github.com/D4NT3002) | [Defunciones en México](https://github.com/D4NT3002/proyecto_EDA)|
 |221310778|RICARDO GUTIERREZ ROQUE|[rgutierrezroque](https://github.com/rgutierrezroque)| [EDA IMBD 250](https://github.com/rgutierrezroque/EDA_IMDB_250.git)|
 
@@ -46,7 +46,7 @@ Este repositorio deberá contener lo siguiente:
 - Un archivo README.md en la carpeta principal del repositorio con:  
     (1) la descripción general del proyecto,  
     (2) un breve resumen de resultados, y  
-    (3) link al EDA en *jupyter notebook*.  
+    (3) link al EDA en *Jupyter notebook*.  
 
 ⚠️ Para referencia ver el notebook de la [actividad 11•Estructura de repositorio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/11_Repo_structure.md).
 
