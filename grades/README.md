@@ -74,7 +74,7 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 __Calificación final__|
 Se comparten las calificaciones acumuladas del curso, a la fecha de actualziación.
 
-|ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
+|ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|10|16.6|9.7|19.5|0|0|__55.8__|
 |221973467|MANUEL GASTELUM REYES|10|18.5|10|17.8|0|0|__56.3__|
