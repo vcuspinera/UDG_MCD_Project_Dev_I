@@ -65,28 +65,30 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-03-11**
+Última actualización al: **2023-03-21**
 
 <br>
 
 ## Resumen de calificaciones
 
 __Calificación final__|
-Se comparten las calificaciones finales del curso.
+Se comparten las calificaciones acumuladas del curso, a la fecha de actualziación.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(30%)|ACTIVIDADES<br>(20%)|PROY. EDA<br>(10%)|PROY. FINAL<br>(20%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|10|9.7|9.7|0|0|0|__29.4__|
-|221973467|MANUEL GASTELUM REYES|10|10.8|9.6|0|0|0|__30.3__|
-|221973513|ALBERTO MARTÍNEZ LARA|10|11.5|10|0|0|0|__31.5__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|10|9.5|6.7|0|0|0|__26.2__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|11.2|9.3|0|0|0|__30.5__|
-|209543147|EDUARDO RIOS LUNA|10|11|9.6|0|0|0|__30.6__|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|6.3|5|0|0|0|__11.3__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|10|10.8|7.1|0|0|0|__27.9__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|10|10.3|10|0|0|0|__30.3__|
-|304578694|GABRIEL VARELA TAVARES|10|10.6|8.6|0|0|0|__29.2__|
-|221310778|RICARDO GUTIERREZ ROQUE|10|10.6|10|0|0|0|__30.6__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|10|9.7|9.7|19.5|0|0|__48.9__|
+|221973467|MANUEL GASTELUM REYES|10|10.8|10|17.8|0|0|__48.6__|
+|221973513|ALBERTO MARTÍNEZ LARA|10|11.5|10|20|0|0|__51.5__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|10|9.5|7.1|18.9|0|0|__45.5__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|11.2|9.3|19.4|0|0|__49.9__|
+|209543147|EDUARDO RIOS LUNA|10|11|9.6|20|0|0|__50.6__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|6.3|5|12.8|0|0|__24.1__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|10|10.8|7.1|17|0|0|__44.9__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|10|10.3|10|17.8|0|0|__48.1__|
+|304578694|GABRIEL VARELA TAVARES|10|10.6|8.6|17.2|0|0|__46.4__|
+|221310778|RICARDO GUTIERREZ ROQUE|10|10.6|10|18.3|0|0|__48.9__|
+
+**Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.
 
 <br>
 
@@ -130,9 +132,9 @@ Se comparten las calificaciones finales del curso.
 |ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 06<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|80|100|100|100|100|100|__97.1__|
-|221973467|MANUEL GASTELUM REYES|100|100|100|100|100|100|70|__95.7__|
+|221973467|MANUEL GASTELUM REYES|100|100|100|100|100|100|100|__100__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|100|100|100|100|100|100|__100__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|100|0|0|100|100|70|__67.1__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|100|0|0|100|100|100|__71.4__|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|80|100|100|100|100|70|__92.9__|
 |209543147|EDUARDO RIOS LUNA|100|100|100|100|100|100|70|__95.7__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|80|0|100|0|70|0|__50__|
@@ -141,15 +143,25 @@ Se comparten las calificaciones finales del curso.
 |304578694|GABRIEL VARELA TAVARES|100|100|100|100|100|100|0|__85.7__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|100|100|100|100|100|100|__100__|
 
-⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificarle al profesor para que se actualice la calificación de esta sección.*
+⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificárselo al profesor para que se actualice la calificación de esta sección.*
 
 ### Proyecto de análisis EDA:
 
 Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda).
 
-**PENDIENTE**
-
-![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
+|ID. UDG|NOMBRE|Compartir link<br>(10%)|Repo en GitHub<br>(30%)|EDA Notebook<br>(50%)|Divulgar proyecto<br>(10%)|Penalización Deadline<br>(-20%)|CALIF.|
+|:---:|:---|---:|---:|---:|---:|---:|---:|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|100|95|100|0|__97.5__|
+|221973467|MANUEL GASTELUM REYES|100|80|90|100|0|__89__|
+|221973513|ALBERTO MARTÍNEZ LARA|100|100|100|100|0|__100__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|90|95|100|0|__94.5__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|90|100|100|0|__97__|
+|209543147|EDUARDO RIOS LUNA|100|100|100|100|0|__100__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|80|80|100|-100|__64__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|80|90|100|-20|__85__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|80|90|100|0|__89__|
+|304578694|GABRIEL VARELA TAVARES|100|70|90|100|0|__86__|
+|221310778|RICARDO GUTIERREZ ROQUE|100|80|95|100|0|__91.5__|
 
 ### Proyecto final:
 
@@ -161,11 +173,13 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 
 ## Puntos extras:
 
+|ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
+|:---:|:---|:---|:---|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|Publicación|Publicación de paper ["Relationship between the Use of Social Networks and Mistrust of Mass Media among Mexican Youth: A Mixed-Methods and NLP Study"](https://www.mdpi.com/2076-0760/12/3/179), revista *Social Sciences*.|
+
+**Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.
+
 ⚠️ Si alguien realiza o participa en una actividad con el cual pueden obtener puntos extras, favor de compartirme la información.
-
-**PENDIENTE**
-
-![](https://media.giphy.com/media/3o6ozFNGTtax2pSGmA/giphy-downsized.gif)
 
 ## Asistencia
 
