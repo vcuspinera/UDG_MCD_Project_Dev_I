@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-03-21**
+Última actualización al: **2023-03-22**
 
 <br>
 
@@ -77,15 +77,15 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|10|16.6|9.7|19.5|0|0|__55.8__|
-|221973467|MANUEL GASTELUM REYES|10|18.5|10|17.8|0|0|__56.3__|
+|221973467|MANUEL GASTELUM REYES|20|18.5|10|17.8|0|0|__66.3__|
 |221973513|ALBERTO MARTÍNEZ LARA|10|19.7|10|20|0|0|__59.7__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|10|16.2|7.1|18.9|0|0|__52.3__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|19.2|9.3|19.4|0|0|__57.9__|
-|209543147|EDUARDO RIOS LUNA|10|18.9|9.6|20|0|0|__58.4__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|10|19.2|9.7|19.4|0|0|__58.3__|
+|209543147|EDUARDO RIOS LUNA|10|18.9|10|20|0|0|__58.9__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|10.8|5|12.8|0|0|__28.6__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|10|18.5|7.1|17|0|0|__52.6__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|20|18.5|7.1|17|0|0|__62.6__|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|10|17.6|10|17.8|0|0|__55.4__|
-|304578694|GABRIEL VARELA TAVARES|10|18.1|8.6|17.2|0|0|__53.9__|
+|304578694|GABRIEL VARELA TAVARES|20|18.1|8.6|17.2|0|0|__63.9__|
 |221310778|RICARDO GUTIERREZ ROQUE|10|18.2|10|18.3|0|0|__56.5__|
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.
@@ -98,15 +98,15 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |ID. |NOMBRE|PRES 1|PRES 2|PROMEDIO|
 |:---|:---|---:|---:|---:|
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|0|__50__|
-|221973467|MANUEL GASTELUM REYES|100|0|__50__|
+|221973467|MANUEL GASTELUM REYES|100|100|__100__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|0|__50__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|100|0|__50__|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|0|__50__|
 |209543147|EDUARDO RIOS LUNA|100|0|__50__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|0|__0__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|0|__50__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|__100__|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|0|__50__|
-|304578694|GABRIEL VARELA TAVARES|100|0|__50__|
+|304578694|GABRIEL VARELA TAVARES|100|100|__100__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|0|__50__|
 
 ### Quizes de lecturas:
@@ -135,8 +135,8 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |221973467|MANUEL GASTELUM REYES|100|100|100|100|100|100|100|__100__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|100|100|100|100|100|100|__100__|
 |221973521|CÉSAR AUGUSTO MEDINA MAYA|100|100|0|0|100|100|100|__71.4__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|80|100|100|100|100|70|__92.9__|
-|209543147|EDUARDO RIOS LUNA|100|100|100|100|100|100|70|__95.7__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|80|100|100|100|100|100|__97.1__|
+|209543147|EDUARDO RIOS LUNA|100|100|100|100|100|100|100|__100__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|80|0|100|0|70|0|__50__|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|0|100|0|100|100|__71.4__|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|100|100|100|100|100|100|__100__|
@@ -144,6 +144,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |221310778|RICARDO GUTIERREZ ROQUE|100|100|100|100|100|100|100|__100__|
 
 ⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificárselo al profesor para que se actualice la calificación de esta sección.*
+
 
 ### Proyecto de análisis EDA:
 
@@ -163,6 +164,7 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |304578694|GABRIEL VARELA TAVARES|100|70|90|100|0|__86__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|80|95|100|0|__91.5__|
 
+
 ### Proyecto final:
 
 Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
@@ -170,6 +172,7 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 **PENDIENTE**
 
 ![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
+
 
 ## Puntos extras:
 
@@ -181,21 +184,22 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 
 ⚠️ Si alguien realiza o participa en una actividad con el cual pueden obtener puntos extras, favor de compartirme la información.
 
+
 ## Asistencia
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17| 18|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221973467|MANUEL GASTELUM REYES|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|209543147|EDUARDO RIOS LUNA|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|1|0|0|1|1|1|0|0|N/A|N/A|0|0|0|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|0|0|0|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|304578694|GABRIEL VARELA TAVARES|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
-|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|1|1|1|1|1|1|0|0|N/A|N/A|0|0|0|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221973467|MANUEL GASTELUM REYES|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|209543147|EDUARDO RIOS LUNA|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|1|0|0|1|1|1|1|0|N/A|N/A|0|0|0|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|0|0|0|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|304578694|GABRIEL VARELA TAVARES|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
+|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|1|1|1|1|1|1|1|0|N/A|N/A|0|0|0|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 
