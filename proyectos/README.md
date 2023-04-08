@@ -3,7 +3,7 @@ En esta carpeta se compartirán información sobre los proyectos que se realizar
 
 ### Proyecto de análisis EDA
 Carpeta `eda_analysis`.  
-Instrucciones para el trabajo en equipo a realizar a mediados de semestre, en el cual se seleccionará una base de datos y realizará análisis exploratorio de datos.
+Instrucciones para el trabajo individual a mediados de semestre, en el cual se seleccionará una base de datos y realizará análisis exploratorio.
 
 ### Proyecto final
 Carpeta `final_eval`.  
