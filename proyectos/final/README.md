@@ -23,11 +23,12 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 1. Mostrar **visualizaciones interactivas** usando **Altair**.
 2. Consultar información de **redes sociales usando un scraper**.
-3. Hacer **preprocesamiento** de texto utilizando **string methods, regex, spaCy y/o NLTK**.
+3. Hacer **preprocesamiento o análisis** de texto utilizando **string methods, regex, spaCy y/o NLTK**.
 4. Utilizar herramientas de texto como **n-grams y/o wordclouds**.
 5. Realizar **análisis de sentimiento**.
-6. Analizar con mapas información **georreferenciada** con librerías de Python.
-7. Utilizar herramientas de la librería **scikit-learn**.
+6. Utilizar la librería **geopandas**.
+7. Análisis visual con **mapas** usando otras librerías de Python especializadas en info georreferenciada.
+8. Utilizar herramientas de la librería **scikit-learn**.
 
 Notas:
   - Se podrá escoger la base de datos de forma libre.
