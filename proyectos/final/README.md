@@ -19,16 +19,14 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 ## 🛠 Actividad a desarrollar
 
 ### Análisis
-- El análisis deberá realizarse en un *Jupyter Notebook* y considerar al menos **5 de los siguientes puntos**:
+- El análisis deberá realizarse en un *Jupyter Notebook* y considerar al menos **3 de los siguientes puntos** revisados durante la segunda parte del curso:
 
 1. Mostrar **visualizaciones interactivas** usando **Altair**.
 2. Consultar información de **redes sociales usando un scraper**.
 3. Hacer **preprocesamiento o análisis** de texto utilizando **string methods, regex, spaCy y/o NLTK**.
-4. Utilizar herramientas de texto como **n-grams y/o wordclouds**.
-5. Realizar **análisis de sentimiento**.
-6. Utilizar la librería **geopandas**.
-7. Análisis visual con **mapas** usando otras librerías de Python especializadas en info georreferenciada.
-8. Utilizar herramientas de la librería **scikit-learn**.
+4. Utilizar herramientas de texto como **n-grams**, **wordclouds** y/o **análisis de sentimiento**.
+5. Utilizar la librería **geopandas** u otras librerías para análisis visual con mapas y/o información georreferenciada.
+6. Utilizar herramientas de la librería **scikit-learn**.
 
 Notas:
   - Se podrá escoger la base de datos de forma libre.
@@ -71,7 +69,7 @@ Su proyecto lo deberán compartir a través algún canal de difusión como Linke
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **sábado 6 de mayo de 2023** a las 23:59 hr.
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es el día **viernes 5 de mayo de 2023** a las 23:59 hr.
 
 
 ## ❗️ Contribuciones
