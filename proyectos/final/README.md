@@ -24,12 +24,13 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 1. Mostrar **visualizaciones interactivas** usando **Altair**.
 2. Consultar información de **redes sociales usando un scraper**.
 3. Hacer **preprocesamiento o análisis** de texto utilizando **string methods, regex, spaCy y/o NLTK**.
-4. Utilizar herramientas de texto como **n-grams**, **wordclouds** y/o **análisis de sentimiento**.
-5. Utilizar la librería **geopandas** u otras librerías para análisis visual con mapas y/o información georreferenciada.
-6. Utilizar herramientas de la librería **scikit-learn**.
+4. Utilizar herramientas de análisis de texto como **n-grams**, **wordclouds** y/o **análisis de sentimiento**.
+5. Usar **geopandas** u otras librerías para análisis visual con **mapas y/o información georreferenciada**.
+6. Realizar análisis con herramientas de librería **scikit-learn**.
 
 Notas:
   - Se podrá escoger la base de datos de forma libre.
+  - Se recomienda usar la base de datos que alguno de los integrantes del equipo utilice para su proyecto de tesis.
 
 
 ### Repositorio en GitHub
