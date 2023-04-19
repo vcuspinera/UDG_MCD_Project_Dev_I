@@ -5,16 +5,16 @@ En este documento se comparten las instrucciones para desarrollar en equipo el p
 ## ⚙️ Generalidades
 El **proyecto de evaluación final** marca el cierre de la materia de _Desarrollo de Proyectos II_, el cual se desarrollará **en equipo** y tendrá un valor del **30 %** sobre la calificación final.
 
-El equipo de trabajo se seleccionará de forma aleatoria.
+El equipo de trabajo se [seleccionará de forma aleatoria](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/src/asignar_proy_final.ipynb).
 
 En la siguiente tabla los equipos deberán de añadir el link del repositorio que desarrollaron para el proyecto:
 
 | No. Equipo | Integrantes                                       | Repositorio del proy. final |
 |:----------:|:--------------------------------------------------|:----------------------------|
-|01 |1️⃣ MAURICIO TENORIO • 2️⃣ MANUEL GASTELUM • 3️⃣ GABRIEL VARELA | Pendiente                   |
-|02 |1️⃣ LUIS VALLARTA • 2️⃣ LUIS SOUZA • 3️⃣ EDUARDO RIOS           | Pendiente                   |
-|03 |1️⃣ ALEJANDRO CAMACHO • 2️⃣ CÉSAR MEDINA • 3️⃣ ALBERTO MARTÍNEZ | Pendiente                   |
-|04 |1️⃣ RICARDO GUTIERREZ • 2️⃣ MONSERRAT PINEDA                   | Pendiente                   |
+|01 |Pendiente                                                   | Pendiente                   |
+|02 |Pendiente                                                   | Pendiente                   |
+|03 |Pendiente                                                   | Pendiente                   |
+|04 |Pendiente                                                   | Pendiente                   |
 
 ## 🛠 Actividad a desarrollar
 
