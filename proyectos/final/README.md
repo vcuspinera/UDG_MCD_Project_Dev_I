@@ -11,10 +11,10 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 | No. Equipo | Integrantes                                       | Repositorio del proy. final |
 |:----------:|:--------------------------------------------------|:----------------------------|
-|01 |Pendiente                                                   | Pendiente                   |
-|02 |Pendiente                                                   | Pendiente                   |
-|03 |Pendiente                                                   | Pendiente                   |
-|04 |Pendiente                                                   | Pendiente                   |
+|01 |1️⃣MONSERRAT PINEDA • 2️⃣LUIS SOUZA • 3️⃣CÉSAR MEDINA         | Pendiente                   |
+|02 |1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS     | Pendiente                   |
+|03 |1️⃣GABRIEL VARELA • 2️⃣MANUEL GASTELUM • 3️⃣RICARDO GUTIERREZ | Pendiente                   |
+|04 |1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO                    | Pendiente                   |
 
 ## 🛠 Actividad a desarrollar
 
