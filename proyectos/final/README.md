@@ -12,7 +12,7 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 | No. Equipo | Integrantes                                       | Repositorio del proy. final |
 |:----------:|:--------------------------------------------------|:----------------------------|
 |01 |1️⃣MONSERRAT PINEDA • 2️⃣LUIS SOUZA • 3️⃣CÉSAR MEDINA         | Pendiente                   |
-|02 |1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS     | Pendiente                   |
+|02 |1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS     |https://github.com/LUISVALLARTA/Proyecto_final               |
 |03 |1️⃣GABRIEL VARELA • 2️⃣MANUEL GASTELUM • 3️⃣RICARDO GUTIERREZ | Pendiente                   |
 |04 |1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO                    | Pendiente                   |
 
