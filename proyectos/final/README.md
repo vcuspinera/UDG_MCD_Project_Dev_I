@@ -14,7 +14,7 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 |01 |1️⃣MONSERRAT PINEDA • 2️⃣LUIS SOUZA • 3️⃣CÉSAR MEDINA         | [Analysis-of-AMLO-s-speeches](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches)|                |
 |02 |1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS     | [Análisis_de_la_percepcion_del_plan_de_movilidad](https://github.com/LUISVALLARTA/Proyecto_final)               |
 |03 |1️⃣GABRIEL VARELA • 2️⃣MANUEL GASTELUM • 3️⃣RICARDO GUTIERREZ |[Uso de la tecnología en México](https://github.com/m5991/tecnologiaMexico)|
-|04 |1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO                    | Pendiente                   |
+|04 |1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO                    | [Análisis de Sentimientos ChatGPT](https://github.com/AlbertoMCD/ChatGPT_tweets)                   |
 
 ## 🛠 Actividad a desarrollar
 
