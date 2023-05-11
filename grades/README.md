@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-05-03**
+Última actualización al: **2023-05-10**
 
 <br>
 
@@ -76,17 +76,17 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|20|16.6|9.7|19.5|0|0|__65.8__|
-|221973467|MANUEL GASTELUM REYES|20|18.5|10|17.8|0|0|__66.3__|
-|221973513|ALBERTO MARTÍNEZ LARA|20|19.7|10|20|0|0|__69.7__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|20|16.2|7.1|18.9|0|0|__62.3__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|20|19.2|10|19.4|0|0|__68.6__|
-|209543147|EDUARDO RIOS LUNA|20|18.9|10|20|0|0|__68.9__|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|10|10.8|7.6|12.8|0|0|__41.2__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|20|18.5|7.1|17|0|0|__62.6__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|20|17.6|10|17.8|0|0|__65.4__|
-|304578694|GABRIEL VARELA TAVARES|20|18.1|8.6|17.2|0|0|__63.9__|
-|221310778|RICARDO GUTIERREZ ROQUE|20|18.2|10|18.3|0|0|__66.5__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|20|16.6|9.7|19.5|30|0|__95.8__|
+|221973467|MANUEL GASTELUM REYES|20|18.5|10|17.8|30|0|__96.3__|
+|221973513|ALBERTO MARTÍNEZ LARA|20|19.7|10|20|30|0|__99.7__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|20|16.2|10|18.9|30|0|__95.1__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|20|19.2|10|19.4|30|5|__100__|
+|209543147|EDUARDO RIOS LUNA|20|18.9|10|20|30|0|__98.9__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|10|10.8|9.3|12.8|30|0|__72.9__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|20|18.5|7.1|17|30|0|__92.6__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|20|17.6|10|17.8|30|0|__95.4__|
+|304578694|GABRIEL VARELA TAVARES|20|18.1|8.6|17.2|30|0|__93.9__|
+|221310778|RICARDO GUTIERREZ ROQUE|20|18.2|10|18.3|30|0|__96.5__|
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.
 
@@ -134,10 +134,10 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|80|100|100|100|100|100|__97.1__|
 |221973467|MANUEL GASTELUM REYES|100|100|100|100|100|100|100|__100__|
 |221973513|ALBERTO MARTÍNEZ LARA|100|100|100|100|100|100|100|__100__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|100|0|0|100|100|100|__71.4__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|100|100|100|100|100|100|__100__|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|100|100|100|100|100|100|__100__|
 |209543147|EDUARDO RIOS LUNA|100|100|100|100|100|100|100|__100__|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|80|0|100|100|100|50|__75.7__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|100|100|100|100|100|50|__92.9__|
 |213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|0|100|0|100|100|__71.4__|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|100|100|100|100|100|100|__100__|
 |304578694|GABRIEL VARELA TAVARES|100|100|100|100|100|100|0|__85.7__|
@@ -167,11 +167,9 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 
 ### Proyecto final:
 
-Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
+Proyecto final del curso realizado en equipo. Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
 
-**PENDIENTE**
-
-![](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy-downsized.gif)
+**PENDIENTE SUBIR CUADRO**
 
 
 ## Puntos extras:
@@ -179,6 +177,7 @@ Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía 
 |ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
 |:---:|:---|:---|:---|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|Publicación|Publicación de paper ["Relationship between the Use of Social Networks and Mistrust of Mass Media among Mexican Youth: A Mixed-Methods and NLP Study"](https://www.mdpi.com/2076-0760/12/3/179), revista *Social Sciences*.|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|EVENTO|Ponente en Jalisco Talent Land 2023, con una charla del futuro de los servicios de salud pública.|
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 75%** en el “Total” de la Evaluación General.
 
