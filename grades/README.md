@@ -71,22 +71,22 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 
 ## Resumen de calificaciones
 
-__Calificación final__|
-Se comparten las calificaciones acumuladas del curso, a la fecha de actualziación.
+### Calificación final 
+Se comparten las calificaciones acumuladas del curso, a la fecha de actualización.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|20|16.6|9.7|19.5|30|0|__95.8__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|20|17.5|9.7|19.5|30|0|__96.7__|
 |221973467|MANUEL GASTELUM REYES|20|18.5|10|17.8|30|0|__96.3__|
-|221973513|ALBERTO MARTÍNEZ LARA|20|19.7|10|20|30|0|__99.7__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|20|16.2|10|18.9|30|0|__95.1__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|20|19.2|10|19.4|30|5|__100__|
-|209543147|EDUARDO RIOS LUNA|20|18.9|10|20|30|0|__98.9__|
+|221973513|ALBERTO MARTÍNEZ LARA|20|20|10|20|30|0|__100__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|20|17.2|10|18.9|30|0|__96.1__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|20|19.5|10|19.4|30|5|__100__|
+|209543147|EDUARDO RIOS LUNA|20|19.6|10|20|30|0|__99.6__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|10|10.8|9.3|12.8|30|0|__72.9__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|20|18.5|7.1|17|30|0|__92.6__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|20|17.6|10|17.8|30|0|__95.4__|
-|304578694|GABRIEL VARELA TAVARES|20|18.1|8.6|17.2|30|0|__93.9__|
-|221310778|RICARDO GUTIERREZ ROQUE|20|18.2|10|18.3|30|0|__96.5__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|20|19.3|10|17|30|0|__96.3__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|20|18.5|10|17.8|30|0|__96.3__|
+|304578694|GABRIEL VARELA TAVARES|20|18.7|8.6|17.2|30|0|__94.5__|
+|221310778|RICARDO GUTIERREZ ROQUE|20|18.9|10|18.3|30|0|__97.2__|
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 75% en el “Total” de la Evaluación General.
 
@@ -109,23 +109,25 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |304578694|GABRIEL VARELA TAVARES|100|100|__100__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|100|__100__|
 
+
 ### Quizes de lecturas:
 
 |ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06|ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|75|80|100|82|75|70||__83.1__|
-|221973467|MANUEL GASTELUM REYES|100|90|90|100|91|75|100||__92.3__|
-|221973513|ALBERTO MARTÍNEZ LARA|100|100|90|100|100|100|100||__98.6__|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|85|65|100|73|75|70||__81.1__|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|95|95|100|91|100|90||__95.8__|
-|209543147|EDUARDO RIOS LUNA|100|90|75|100|100|95|100||__94.3__|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|75|70|0|0|43|90||__53.9__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|95|90|100|73|100|90||__92.5__|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|80|80|100|91|95|70||__88__|
-|304578694|GABRIEL VARELA TAVARES|100|80|85|100|100|80|90||__90.7__|
-|221310778|RICARDO GUTIERREZ ROQUE|100|95|75|100|91|85|90||__90.8__|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|100|75|80|100|82|75|70|100|__87.4__|
+|221973467|MANUEL GASTELUM REYES|100|90|90|100|91|75|100|0|__92.3__|
+|221973513|ALBERTO MARTÍNEZ LARA|100|100|90|100|100|100|100|100|__100__|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|100|85|65|100|73|75|70|100|__86.1__|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|95|95|100|91|100|90|100|__97.3__|
+|209543147|EDUARDO RIOS LUNA|100|90|75|100|100|95|100|100|__97.9__|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|75|70|0|0|43|90|0|__53.9__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|95|90|100|73|100|90|100|__96.4__|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|80|80|100|91|95|70|100|__92.3__|
+|304578694|GABRIEL VARELA TAVARES|100|80|85|100|100|80|90|100|__93.6__|
+|221310778|RICARDO GUTIERREZ ROQUE|100|95|75|100|91|85|90|100|__94.4__|
 
-⚠️ *__Nota__: Para el QUIZ 00 sólo se calificará su completez.*
+⚠️ *__Nota__: Para el QUIZ 00 y la ENCUESTA FINAL sólo se calificará su completez. La calificación final de quizes corresponde al promedio de los quizes y encuestas, eliminando el quiz con menor calificación del alumno.*
+
 
 ### Seguimiento de actividades:
 
@@ -138,7 +140,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|100|100|100|100|100|100|100|__100__|
 |209543147|EDUARDO RIOS LUNA|100|100|100|100|100|100|100|__100__|
 |221310735|LUIS DANIEL SOUZA RODRIGUEZ|100|100|100|100|100|100|50|__92.9__|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|0|100|0|100|100|__71.4__|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|100|100|100|100|100|100|100|__100__|
 |304570863|LUIS ENRIQUE VALLARTA ROBLEDO|100|100|100|100|100|100|100|__100__|
 |304578694|GABRIEL VARELA TAVARES|100|100|100|100|100|100|0|__85.7__|
 |221310778|RICARDO GUTIERREZ ROQUE|100|100|100|100|100|100|100|__100__|
@@ -148,7 +150,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualziaci�
 
 ### Proyecto de análisis EDA:
 
-Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda).
+Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/eda).
 
 |ID. UDG|NOMBRE|Compartir link<br>(10%)|Repo en GitHub<br>(30%)|EDA Notebook<br>(50%)|Divulgar proyecto<br>(10%)|Penalización Deadline<br>(-20%)|CALIF.|
 |:---:|:---|---:|---:|---:|---:|---:|---:|
@@ -167,9 +169,14 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 
 ### Proyecto final:
 
-Proyecto final del curso realizado en equipo. Los detalles sobre la forma de evaluar este proyecto se encuenrtan en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
+Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/proyectos/final).
 
-**PENDIENTE SUBIR CUADRO**
+|No. EQUIPO|INTEGRANTES|PROYECTO|Análisis en Jupyter<br>(30%)|Markdown resultados<br>(20%)|Repo en GitHub<br>(20%)|Compartir link<br>(10%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización Deadline<br>(-20%)|CALIF.|
+|:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|---:|
+|1|1️⃣MONSERRAT PINEDA • 2️⃣LUIS SOUZA • 3️⃣CÉSAR MEDINA|[Analysis of AMLO's speeches](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches)|100|100|100|100|100|100|0|__100__|
+|2|1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS|[Análisis de la percepcion del plan de movilidad](https://github.com/LUISVALLARTA/Proyecto_final)|100|100|100|100|100|100|0|__100__|
+|3|1️⃣GABRIEL VARELA • 2️⃣MANUEL GASTELUM • 3️⃣RICARDO GUTIERREZ|[Uso de la tecnología en México](https://github.com/m5991/tecnologiaMexico)|100|100|100|100|100|100|0|__100__|
+|4|1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO|[Análisis de Sentimientos ChatGPT](https://github.com/AlbertoMCD/ChatGPT_tweets)|100|100|100|100|100|100|0|__100__|
 
 
 ## Puntos extras:
@@ -177,7 +184,7 @@ Proyecto final del curso realizado en equipo. Los detalles sobre la forma de eva
 |ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
 |:---:|:---|:---|:---|
 |221973491|XUNAXHI MONSERRAT PINEDA RASGADO|Publicación|Publicación de paper ["Relationship between the Use of Social Networks and Mistrust of Mass Media among Mexican Youth: A Mixed-Methods and NLP Study"](https://www.mdpi.com/2076-0760/12/3/179), revista *Social Sciences*.|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|EVENTO|Ponente en Jalisco Talent Land 2023, con una charla del futuro de los servicios de salud pública.|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|Evento|[Ponente en Jalisco Talent Land 2023](https://www.talent-land.mx/speakers/luis-souza/), con una charla del futuro de los servicios de salud pública.|
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 75%** en el “Total” de la Evaluación General.
 
@@ -188,17 +195,17 @@ Proyecto final del curso realizado en equipo. Los detalles sobre la forma de eva
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16| 17| 18|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221973467|MANUEL GASTELUM REYES|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|1|1|1|1|1|1|1|1|N/A|N/A|0|1|1|0|N/A|
-|209543147|EDUARDO RIOS LUNA|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|1|0|0|1|1|1|1|1|N/A|N/A|0|1|1|0|N/A|
-|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|0|1|1|0|N/A|
-|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|0|0|0|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|304578694|GABRIEL VARELA TAVARES|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
-|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|0|N/A|
+|221973505|ALEJANDRO GABRIEL CAMACHO HERNANDEZ|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221973467|MANUEL GASTELUM REYES|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221973513|ALBERTO MARTÍNEZ LARA|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221973521|CÉSAR AUGUSTO MEDINA MAYA|0|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221973491|XUNAXHI MONSERRAT PINEDA RASGADO|1|0|1|1|1|1|1|1|1|1|1|N/A|N/A|0|1|1|1|N/A|
+|209543147|EDUARDO RIOS LUNA|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221310735|LUIS DANIEL SOUZA RODRIGUEZ|0|1|1|1|0|0|1|1|1|1|1|N/A|N/A|0|1|1|1|N/A|
+|213272867|MAURICIO ARNOLDO TENORIO VARGAS|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|0|1|1|1|N/A|
+|304570863|LUIS ENRIQUE VALLARTA ROBLEDO|1|1|0|0|0|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|304578694|GABRIEL VARELA TAVARES|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
+|221310778|RICARDO GUTIERREZ ROQUE|1|1|1|1|1|1|1|1|1|1|1|N/A|N/A|1|1|1|1|N/A|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase.*
 
