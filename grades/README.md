@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-05-10**
+Última actualización al: **2023-05-20**
 
 <br>
 
@@ -173,10 +173,10 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 |No. EQUIPO|INTEGRANTES|PROYECTO|Análisis en Jupyter<br>(30%)|Markdown resultados<br>(20%)|Repo en GitHub<br>(20%)|Compartir link<br>(10%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización Deadline<br>(-20%)|CALIF.|
 |:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|---:|
-|1|1️⃣MONSERRAT PINEDA • 2️⃣LUIS SOUZA • 3️⃣CÉSAR MEDINA|[Analysis of AMLO's speeches](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches)|100|100|100|100|100|100|0|__100__|
-|2|1️⃣ALEJANDRO CAMACHO • 2️⃣LUIS VALLARTA • 3️⃣EDUARDO RIOS|[Análisis de la percepcion del plan de movilidad](https://github.com/LUISVALLARTA/Proyecto_final)|100|100|100|100|100|100|0|__100__|
-|3|1️⃣GABRIEL VARELA • 2️⃣MANUEL GASTELUM • 3️⃣RICARDO GUTIERREZ|[Uso de la tecnología en México](https://github.com/m5991/tecnologiaMexico)|100|100|100|100|100|100|0|__100__|
-|4|1️⃣ALBERTO MARTÍNEZ • 2️⃣MAURICIO TENORIO|[Análisis de Sentimientos ChatGPT](https://github.com/AlbertoMCD/ChatGPT_tweets)|100|100|100|100|100|100|0|__100__|
+|1|MONSERRAT PINEDA • LUIS SOUZA • CÉSAR MEDINA|[Analysis of AMLO's speeches](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches)|100|100|100|100|100|100|0|__100__|
+|2|ALEJANDRO CAMACHO • LUIS VALLARTA • EDUARDO RIOS|[Análisis de la percepcion del plan de movilidad](https://github.com/LUISVALLARTA/Proyecto_final)|100|100|100|100|100|100|0|__100__|
+|3|GABRIEL VARELA • MANUEL GASTELUM • RICARDO GUTIERREZ|[Uso de la tecnología en México](https://github.com/m5991/tecnologiaMexico)|100|100|100|100|100|100|0|__100__|
+|4|ALBERTO MARTÍNEZ • MAURICIO TENORIO|[Análisis de Sentimientos ChatGPT](https://github.com/AlbertoMCD/ChatGPT_tweets)|100|100|100|100|100|100|0|__100__|
 
 
 ## Puntos extras:
