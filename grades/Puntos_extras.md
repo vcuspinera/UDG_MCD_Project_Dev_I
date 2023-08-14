@@ -1,9 +1,9 @@
 # Puntos extras
-Para el curso de Desarrollo de proyectos II de la Maestría en Ciencia de los Datos de CUCEA en la UDG, se considerará el esfuerzo que realicen los alumnos por desarrollar proyectos de ciencia de datos personales y divulgaros, participar en voluntariados y hackathones. El objetivo de estas actividades es promover es buscar acercarlos a problemas reales, donde participen en equipos de trabajo, para que aprendan más herramientas durante este camino y al mismo tiempo formar un portafolio de proyectos el cuál les servirá como una carta de presentación como científicos de datos.
+Para el curso de Desarrollo de proyectos I de la Maestría en Ciencia de los Datos de CUCEA en la UDG, se considerará el esfuerzo que realicen los alumnos por desarrollar proyectos de ciencia de datos personales y divulgaros, participar en voluntariados y hackathones. El objetivo de estas actividades es promover es buscar acercarlos a problemas reales, donde participen en equipos de trabajo, para que aprendan más herramientas durante este camino y al mismo tiempo formar un portafolio de proyectos el cuál les servirá como una carta de presentación como científicos de datos.
 
 ## Evaluación
 
-En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Temario_IH602.pdf) se comparte el la siguiente información con los puntos extras para la evaluación final del curso y consideraciones en caso de participar en alguna de las actividades adicionales del curso
+En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/docs/Temario_IH602.pdf) se comparte el la siguiente información con los puntos extras para la evaluación final del curso y consideraciones en caso de participar en alguna de las actividades adicionales del curso
 
 ### Cuadro de actividades adicionales y puntos extras
 
@@ -19,7 +19,7 @@ En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/b
 ### Consideraciones para ser acreedores a puntos extras
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.
 - Máximos puntos extras a obtener: 20% adicional a la evaluación general.
-- Para tener acceso a los puntos extras se necesita una calificación de al menos 70% en el `Total` de la Evaluación General ([revisar sección `16.Evaluación` del temario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/docs/Temario_IH602.pdf)).
+- Para tener acceso a los puntos extras se necesita una calificación de al menos 70% en el `Total` de la Evaluación General ([revisar sección `16.Evaluación` del temario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/docs/Temario_IH602.pdf)).
 
 ## (A) Proyectos personales de ciencia de datos
 Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica. Para tener estos puntos además de realizar el proyecto se deberá divulgarlo en GitHub, LinkedIn, redes sociales u otro canal.
@@ -69,7 +69,7 @@ Se comparten distintos voluntariados, seleccionar la opción `online`, y buscar 
 ### [Data Science for Social Good](https://www.solveforgood.org)
 Plataforma que busca apoyar organizaciones de bienestar social con proyectos. Los proyectos impulsados por esta organización se encuentran en [este link](https://www.solveforgood.org/proj/).
 
-## D) Eventos
+## (D) Eventos
 Otra manera de aprender, obtener experiencia y desarrollar un portafolio de proyectos es participando eventos relacionados con Ciencia de Datos como competencias y *hackathones*, congresos y conferencias. Entre los más famosos *hackathones* están los de [Kaggle](https://www.kaggle.com/competitions) y [Driven Data](https://www.drivendata.org/competitions/). Por otro lado, algunas instituciones organizan o patrocinan *hackathones* a manera de reclutamiento como Google, IBM, BBVA, CitiBanamex, Grupo Modelo, entre muchos otros.
 
 ### Próximos eventos

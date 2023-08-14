@@ -5,7 +5,7 @@ Carpeta con material para el curso como bases de datos, código, imágenes y dis
 Archivos en el `directorio raíz` del repositorio.  
 Estos archivos contienen los pasos para realizar actividades y/o jupyter notebooks a revisar durante las clases.
 
-Al finalizar cada clase se levantará un `Issue` con las actividades pendientes en el repositorio de GitHub de la materia ([click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/issues)) y se compartirá por Slack, favor de estar atentos.
+Al finalizar cada clase se levantará un `Issue` con las actividades pendientes en el repositorio de GitHub de la materia ([click aquí](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues)) y se compartirá por Slack, favor de estar atentos.
 
 ### Presentaciones de alumnos
 Carpeta `presentaciones`.  
