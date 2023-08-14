@@ -3,7 +3,7 @@ Para el curso de Desarrollo de proyectos I de la Maestría en Ciencia de los Dat
 
 ## Evaluación
 
-En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/docs/Temario_IH602.pdf) se comparte el la siguiente información con los puntos extras para la evaluación final del curso y consideraciones en caso de participar en alguna de las actividades adicionales del curso
+En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf) se comparte el la siguiente información con los puntos extras para la evaluación final del curso y consideraciones en caso de participar en alguna de las actividades adicionales del curso
 
 ### Cuadro de actividades adicionales y puntos extras
 
@@ -19,7 +19,7 @@ En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/bl
 ### Consideraciones para ser acreedores a puntos extras
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.
 - Máximos puntos extras a obtener: 20% adicional a la evaluación general.
-- Para tener acceso a los puntos extras se necesita una calificación de al menos 70% en el `Total` de la Evaluación General ([revisar sección `16.Evaluación` del temario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/docs/Temario_IH602.pdf)).
+- Para tener acceso a los puntos extras se necesita una calificación de al menos 80% en el `Total` de la evaluación general ([revisar puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)).
 
 ## (A) Proyectos personales de ciencia de datos
 Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica. Para tener estos puntos además de realizar el proyecto se deberá divulgarlo en GitHub, LinkedIn, redes sociales u otro canal.
@@ -30,11 +30,12 @@ Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, e
 
 ### Ejemplos
 Algunos ejemplos de proyectos personales:
-- [Generador de Pokemmones](https://andrespitta.github.io/Pokemon-generator/) por Andres Pitta.
-- [Observación de ardillas en NYC Central Park](https://squirrel-park-cgostic.herokuapp.com) por Cari Gostlic.
+- [Generador de Pokemones](https://andrespitta.github.io/Pokemon-generator/) por Andres Pitta.
+- [Datos espaciales con Python](https://github.com/Carol-Castaneda/Spatial-Data-in-Python/blob/main/src/Spatial%20Data%20in%20Python.ipynb) por Carol Castañeda.
+- [Proyectos varios](https://cgostic.github.io/me/) por Cari Gostic.
 - [Análisis de sentimiento de elecciones en Canadá](https://github.com/SamEdwardes/sentiment-cdn-election) por Sam Edwardes.
-- [Análisis de sentimiento de respuesta de Canadá a Covid-19](https://www.linkedin.com/pulse/canada-response-covid-19-victor-cuspinera/) por Leopoldo y Victor Cuspinera.
-- [Elección de nombres de bebé usando Python](https://github.com/vcuspinera/Baby_names) por Victor Cuspinera.
+- [Análisis de sentimiento de respuesta de Canadá a Covid-19](https://www.linkedin.com/pulse/canada-response-covid-19-victor-cuspinera/) por Leopoldo y Víctor Cuspinera.
+- [Elección de nombres de bebé usando Python](https://github.com/vcuspinera/Baby_names) por Víctor Cuspinera.
 
 ## (B) Publicación
 Publicación de *Papers* o artículos relacionados con ciencias de datos en revistas de ciencia de datos como [Towards Data Science](https://towardsdatascience.com), o revistas de divulgación de la ciencia como [EconoQuantum](https://econoquantum.cucea.udg.mx/index.php/EQ/index) de CUCEA con la UDG, o [¿Cómo ves?](http://www.comoves.unam.mx) de la UNAM.
@@ -74,18 +75,17 @@ Otra manera de aprender, obtener experiencia y desarrollar un portafolio de proy
 
 ### Próximos eventos
 Para quienes estén interesados, les comparto algunos próximos eventos que identifiqué:
-- [LATAM Conferencia de inteligencia artificial aplicada (IAA)](https://www.latam-ai.com).
-- Hackathon [MXHacks III](https://mxhacks-iii.devpost.com) por el Tec de Monterrey.
+- [Explorando análisis de datos y AI en producción LATAM](https://www.latam-ai.com) por Latam AI.
+- Hackathon [Hack Mty](https://hackmty.com) por Tec de Monterrey.
+- [Jalisco Talented Land Digital 2024](https://www.talent-land.mx/en/home/) por el Gobierno de Jalisco.
 
 Recomiendo que estén atentos y revisen constantemente nuevos eventos que se anuncien.
 
 Por otro lado, a manera de referencia, algunos *hackathones* pasados organizados en México son:
-- [Hackathon Discorruption 2022](https://discorruption.mx).
-- [Ocean Hackathon 7 México 2022](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL.
-- [Hackathon BBVA 2021](https://openinnovation.bbva.com/es/evento/hackathon-bbva-2021) por banco BBVA.
+- [Ocean Hackathon 8 México 2023](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL.
+- [Hackathon BBVA 2022](https://www.bbvaspark.com/contenido/es/eventos/hackathon-bbva-2022/) por banco BBVA.
 - [Breweing Data Cup 2020](https://www.facebook.com/brewingdatacup/) por Grupo Modelo.
-- [Ocean Hackathon 6 México 2021](https://ifal.mx/ciencias/ocean-hackathon-mexico) por IFAL.
-- [Jalisco Talented Land Digital 2021](https://www.talent-land.mx/en/home/) por el Gobierno de Jalisco.
+- [Talent Hackathon](https://hackathon.talent-network.org) por Talentnetwork.
 
 ### Ventajas y desventajas
 - __Ventajas__ aprender mucho en corto tiempo.

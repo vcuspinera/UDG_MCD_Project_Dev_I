@@ -1,23 +1,22 @@
 # Referencias
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)
-- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
+- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-21cox7cnl-JZxtNvWTHwUxNW9BIDviZw)
 
 <br>
 
 __Material base__
-- [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_materia_%20IH602.pdf)
-- [Clases](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/clases)
-- [Libro PMI-RMP sobre admin. de riesgos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/clases/material/Libro_PMI-RMP)
+- [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)
+- [Actividades de clase](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades)
 - [Tests de lecturas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/#material-del-curso)
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades)
 
 <br>
 
 __Material extendido__
-- [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Puntos_extras.md)
+- [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/scl/fo/u24wh4ndgo9932xjhu6ii/h?rlkey=b2lswh6l9n0xvan3cbs9phe3r&dl=0)
-- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/clases/material/Papers)
+- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material)
     - [Briney, K. (2018). "The Problem with Dates: Applying ISO 8601 to Research Data Management"](https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1147&context=jeslib). Journal of eScience Librarianship, Volume 7, Issue 2, Article 7.
     - [Wilson G, Bryan J, Cranston K, et al. (2016). "Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037). Cornell University, arXiv:1609.00037 [cs.SE]
 

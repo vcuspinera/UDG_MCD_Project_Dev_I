@@ -7,12 +7,14 @@ En este documento se comparten las instrucciones para desarrollar en equipo el p
 ## ⚙️ Generalidades
 El **proyecto de evaluación final** marca el cierre de la materia de _Desarrollo de Proyectos I_, el cual se desarrollará **en equipo** y tendrá un valor del **30 %** sobre la calificación final.
 
-El equipo de trabajo se [seleccionará de forma aleatoria](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/src/asignar_proy_final.ipynb).
+El equipo de trabajo se **seleccionará de forma aleatoria**.
 
 En la siguiente tabla los equipos deberán de añadir el link del repositorio que desarrollaron para el proyecto:
 
 | No. Equipo | Integrantes | Repositorio del proy. final |
 |:----------:|:------------|:----------------------------|
+|Pendiente |Pendiente |Pendiente |
+|Pendiente |Pendiente |Pendiente |
 |Pendiente |Pendiente |Pendiente |
 |Pendiente |Pendiente |Pendiente |
 |Pendiente |Pendiente |Pendiente |
@@ -40,7 +42,7 @@ Notas:
 
 Este repositorio deberá contener lo siguiente:
 
-- Deben considerar las carpetas y archivos recomendados en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material/Papers):
+- Deben considerar las carpetas y archivos recomendados en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material):
    - carpetas `data`, `doc`, `results`, `src`,
    - archivo README.md file dentro de cada carpeta con una breve descripción de la misma,
    - archivos de licencia, forma de citar y contribución, 

@@ -11,9 +11,21 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 | Id. UDG | Nombre | GitHub user | Repositorio del proy. EDA |
 |:-------:|:-------|:------------|:--------------------------|
-|Pendiente |Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |Pendiente |
+|222980378|JORGE ARTURO HERRERA RAMIREZ|Pendiente |Pendiente |
+|222980386|DANIEL ISITA ASCENCIO|Pendiente |Pendiente |
+|214509127|REYNA VIVIANA JARAMILLO FLORES|Pendiente |Pendiente |
+|222980297|LARISA IRENE LOPEZ PAYAN |Pendiente |Pendiente |
+|222980335|MIGUEL ANGEL LOPEZ ROJAS |Pendiente |Pendiente |
+|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |Pendiente |Pendiente |
+|209538895|GUSTAVO MENDOZA NAVARRO |Pendiente |Pendiente |
+|222980327|LEONARDO DANIEL PANTOJA MORFIN |Pendiente |Pendiente |
+|222980246|JOSE MIGUEL RAMIREZ GALAN |Pendiente |Pendiente |
+|222980262|ROBERTO CARLOS RAMIREZ RAMOS |Pendiente |Pendiente |
+|222980351|CESAR KEVIN ROMERO HEREDIA |Pendiente |Pendiente |
+|302386283|JOSUE SANCHEZ ACOSTA |Pendiente |Pendiente |
+|222980343|VICTOR TELLEZ GARCIA |Pendiente |Pendiente |
+|222980289|YUKIE TESHIBA ZUBIETA |Pendiente |Pendiente |
+
 
 ## 🛠 Actividad a desarrollar
 
@@ -33,7 +45,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 Este repositorio deberá contener lo siguiente:
 
-- Deben considerar las carpetas y archivos recomendados en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material/Papers): carpetas data, doc, results, src; archivo README.md file dentro de cada carpeta con una breve descripción de la misma; archivos de licencia, forma de citar y contribución; un *issue* con comentarios sobre las actividades pendientes.
+- Deben considerar las carpetas y archivos recomendados en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material): carpetas data, doc, results, src; archivo README.md file dentro de cada carpeta con una breve descripción de la misma; archivos de licencia, forma de citar y contribución; un *issue* con comentarios sobre las actividades pendientes.
 
 - *Jupyter notebook* con el análisis EDA.
 

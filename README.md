@@ -112,7 +112,7 @@ El material y actividades por clase se enlistan a continuación:
 ### Links relevantes
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)
-- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-1e860l5on-GbDbdNKRubeUDy~7HSP1Kw)
+- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-21cox7cnl-JZxtNvWTHwUxNW9BIDviZw)
 - [Dropbox](https://www.dropbox.com/scl/fo/u24wh4ndgo9932xjhu6ii/h?rlkey=b2lswh6l9n0xvan3cbs9phe3r&dl=0) con archivos complementarios: videos de clase, presentaciones de alumnos y papers/artículos/libros de gran tamaño.
 
 __Material base__
@@ -129,7 +129,7 @@ __Material extendido__
 - [Calificaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#calificaciones)
 - [Guía sobre puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/Puntos_extras.md)
 - [Videos de la clase](https://www.dropbox.com/scl/fo/u24wh4ndgo9932xjhu6ii/h?rlkey=b2lswh6l9n0xvan3cbs9phe3r&dl=0)
-- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material/Papers)
+- [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material)
 
 Para mayor detalle de la bibliografía del curso, revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Referencias.md).
 
