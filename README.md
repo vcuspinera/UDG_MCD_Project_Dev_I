@@ -1,7 +1,7 @@
 <img src="actividades/img/logo_slack.png" width="160" align = "right">
 
-# Project Development I
-_Material for the course Desarrollo de Proyectos I (Project Development I) of the Master of Data Science at Universidad de Guadalajara._  
+# Desarrollo de proyectos I
+_Material for the course Project Development  I (Desarrollo de proyectos I) of the Master of Data Science at Universidad de Guadalajara._  
 _⚠️ Note: the material of this repository would be shared mainly in Spanish._
 
 En este repositorio se compartirá material para los alumnos del curso _Desarrollo de proyectos I_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, administración de control de versiones y trabajo colaborativo.
