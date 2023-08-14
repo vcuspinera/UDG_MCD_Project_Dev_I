@@ -86,22 +86,22 @@ El material y actividades por clase se enlistan a continuación:
 
 |# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
-|01| 2023-08-16|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH602.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/02_GitHub_registro.md)</li></ul>| [Ver Issue #50](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/50) |
-|02| 2023-08-23|<ul><li>Básicos</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/03_GitHub_overview.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md)</li><li>[Asignación de equipos para 1ra ronda de presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/src/asignar_present_1.ipynb)</li></ul>|[Ver Issue #52](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/52)|
-|03| 2023-08-30|<ul><li>*Version control*</li><li>Primer repo en GitHub</li></ul>|<ul><li>[Pres. 01, paper "Excuse me, do you have a moment to talk about version control?"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/01%20A%20moment%20for%20Versioning%20Control.pdf)</li><li>[Act. 06 • Crear primer repo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/06_GitHub_firstie.md)</li><li>[Quiz 01](https://forms.office.com/r/F0ftzvHjff)</li></ul>|[Ver Issue #54](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/54)|
-|04| 2023-09-06|<ul><li>Instalar y configurar Git</li><li>Conectando Git y GitHub</li></ul>|<ul><li>[Act. 07 • Git install and config](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/07_Git_install.md)</li><li>[Act. 08 • Git & GitHub connection](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md)</li><li>[Quiz 02](https://forms.office.com/r/jgW7UmrqW0)</li></ul>|[Ver Issue #55](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/55)|
-|05| 2023-09-13|__P.D.__ |__P.D.__ |
-|06| 2023-09-20|__P.D.__ |__P.D.__ |
-|07| 2023-09-27|__P.D.__ |__P.D.__ |
-|08| 2023-10-04|__P.D.__ |__P.D.__ |
-|09| 2023-10-11|__P.D.__ |__P.D.__ |
-|10| 2023-10-18|__P.D.__ |__P.D.__ |
-|11| 2023-10-25|__P.D.__ |__P.D.__ |
-|12| 2023-11-01|__P.D.__ |__P.D.__ |
-|13| 2023-11-08|__P.D.__ |__P.D.__ |
-|14| 2023-11-15|__P.D.__ |__P.D.__ |
-|15| 2023-11-22|__P.D.__ |__P.D.__ |
-|16| 2023-11-29|__P.D.__ |__P.D.__ |
+|01| 2023-08-16|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/02_GitHub_registro.md)</li></ul>| __P.D.__ |
+|02| 2023-08-23|<ul><li>Básicos</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/03_GitHub_overview.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md)</li><li>Asignación de equipos para 1ra ronda de presentaciones</li></ul>|__P.D.__ |
+|03| 2023-08-30|<ul><li>Control de versiones</li><li>Primer repo en GitHub</li></ul>|<ul><li>[Pres. 01, paper "Excuse me, do you have a moment to talk about version control?"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/01%20A%20moment%20for%20Versioning%20Control.pdf)</li><li>[Act. 06 • Crear primer repo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/06_GitHub_firstie.md)</li><li>Quiz 01</li></ul>|__P.D.__ |
+|04| 2023-09-06|<ul><li>Instalar y configurar Git</li><li>Conectando Git y GitHub</li></ul>|<ul><li>[Act. 07 • Git install and config](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/07_Git_install.md)</li><li>[Act. 08 • Git & GitHub connection](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md)</li><li>Quiz 02</li></ul>|__P.D.__ |
+|05| 2023-09-13|__P.D.__ |__P.D.__ |__P.D.__ |
+|06| 2023-09-20|__P.D.__ |__P.D.__ |__P.D.__ |
+|07| 2023-09-27|__P.D.__ |__P.D.__ |__P.D.__ |
+|08| 2023-10-04|__P.D.__ |__P.D.__ |__P.D.__ |
+|09| 2023-10-11|__P.D.__ |__P.D.__ |__P.D.__ |
+|10| 2023-10-18|__P.D.__ |__P.D.__ |__P.D.__ |
+|11| 2023-10-25|__P.D.__ |__P.D.__ |__P.D.__ |
+|12| 2023-11-01|__P.D.__ |__P.D.__ |__P.D.__ |
+|13| 2023-11-08|__P.D.__ |__P.D.__ |__P.D.__ |
+|14| 2023-11-15|__P.D.__ |__P.D.__ |__P.D.__ |
+|15| 2023-11-22|__P.D.__ |__P.D.__ |__P.D.__ |
+|16| 2023-11-29|__P.D.__ |__P.D.__ |__P.D.__ |
 
 *Nota: el acrónimo __P.D.__ significa "por definir" y __N/A__ es "no aplica".*
 
