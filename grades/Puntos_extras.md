@@ -19,7 +19,7 @@ En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/bl
 ### Consideraciones para ser acreedores a puntos extras
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.
 - Máximos puntos extras a obtener: 20% adicional a la evaluación general.
-- Para tener acceso a los puntos extras se necesita una calificación de al menos 80% en el `Total` de la evaluación general ([revisar puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)).
+- Para tener acceso a los puntos extras se necesita una calificación de al menos 75% en el `Total` de la evaluación general ([revisar puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)).
 
 ## (A) Proyectos personales de ciencia de datos
 Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica. Para tener estos puntos además de realizar el proyecto se deberá divulgarlo en GitHub, LinkedIn, redes sociales u otro canal.
