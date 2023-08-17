@@ -34,22 +34,22 @@ Cualquier duda, aclaración o comentario sobre el material de este repositorio p
 ### Alumnos
 Lista de alumnos del ciclo escolar otoño 2023.
 
-|Id. UDG |Nombre |e-mail |GitHub user| 
-|:----:|:----:|:----:|:-----:|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorge.herrera8037@alumnos.udg.mx](mailto:jorge.herrera8037@alumnos.udg.mx)|[cuenta_de_jorge](https://github.com/cuenta_de_jorge)|
-|222980386|DANIEL ISITA ASCENCIO|[daniel.isita8038@alumnos.udg.mx](mailto:daniel.isita8038@alumnos.udg.mx)|[cuenta_de_daniel](https://github.com/cuenta_de_daniel)|
-|214509127|REYNA VIVIANA JARAMILLO FLORES|[reyna.jaramillo0912@alumnos.udg.mx](mailto:reyna.jaramillo0912@alumnos.udg.mx)|[cuenta_de_reyna](https://github.com/cuenta_de_reyna)|
-|222980297|LARISA IRENE LOPEZ PAYAN|[larisa.lopez8029@alumnos.udg.mx](mailto:larisa.lopez8029@alumnos.udg.mx)|[cuenta_de_larisa](https://github.com/cuenta_de_larisa)|
-|222980335|MIGUEL ANGEL LOPEZ ROJAS|[miguel.lopez8033@alumnos.udg.mx](mailto:miguel.lopez8033@alumnos.udg.mx)|[cuenta_de_miguel](https://github.com/cuenta_de_miguel)|
-|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|[alejandro.martindelcampo2994@alumnos.udg.mx](mailto:alejandro.martindelcampo2994@alumnos.udg.mx)|[cuenta_de_alejandro](https://github.com/cuenta_de_alejandro)|
-|209538895|GUSTAVO MENDOZA NAVARRO|[gustavo.mendoza3889@alumnos.udg.mx](mailto:gustavo.mendoza3889@alumnos.udg.mx)|[cuenta_de_gustavo](https://github.com/cuenta_de_gustavo)|
-|222980327|LEONARDO DANIEL PANTOJA MORFIN|[leonardo.pantoja8032@alumnos.udg.mx](mailto:leonardo.pantoja8032@alumnos.udg.mx)|[cuenta_de_leonardo](https://github.com/cuenta_de_leonardo)|
-|222980246|JOSE MIGUEL RAMIREZ GALAN|[jose.ramirez8024@alumnos.udg.mx](mailto:jose.ramirez8024@alumnos.udg.mx)|[cuenta_de_jose](https://github.com/cuenta_de_jose)|
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS|[roberto.ramirez8026@alumnos.udg.mx](mailto:roberto.ramirez8026@alumnos.udg.mx)|[cuenta_de_roberto](https://github.com/cuenta_de_roberto)|
-|222980351|CESAR KEVIN ROMERO HEREDIA|[cesar.romero8035@alumnos.udg.mx](mailto:cesar.romero8035@alumnos.udg.mx)|[cuenta_de_cesar](https://github.com/cuenta_de_cesar)|
-|302386283|JOSUE SANCHEZ ACOSTA|[josue.sanchez8628@alumnos.udg.mx](mailto:josue.sanchez8628@alumnos.udg.mx)|[cuenta_de_josue](https://github.com/cuenta_de_josue)|
-|222980343|VICTOR TELLEZ GARCIA|[victor.tellez8034@alumnos.udg.mx](mailto:victor.tellez8034@alumnos.udg.mx)|[cuenta_de_victor](https://github.com/cuenta_de_victor)|
-|222980289|YUKIE TESHIBA ZUBIETA|[yukie.teshiba8028@alumnos.udg.mx](mailto:yukie.teshiba8028@alumnos.udg.mx)|[cuenta_de_yukie](https://github.com/cuenta_de_yukie)|
+|    |Id. UDG |Nombre |e-mail |GitHub user| 
+|---:|:----:|:----:|:----:|:-----:|
+| 01|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorge.herrera8037@alumnos.udg.mx](mailto:jorge.herrera8037@alumnos.udg.mx)| [jorgeherrerar](https://github.com/jorgeherrerar)|
+| 02|222980386|DANIEL ISITA ASCENCIO|[isita.daniel@gmail.com](mailto:isita.daniel@gmail.com)| [disita](https://github.com/disita)|
+| 03|214509127|REYNA VIVIANA JARAMILLO FLORES|[reyna.jaramillo0912@alumnos.udg.mx](mailto:reyna.jaramillo0912@alumnos.udg.mx)| [ReynaViviana](https://github.com/ReynaViviana)|
+| 04|222980297|LARISA IRENE LOPEZ PAYAN|[larisa.lopez8029@alumnos.udg.mx](mailto:larisa.lopez8029@alumnos.udg.mx)| [LLop8029](https://github.com/LLop8029)|
+| 05|222980335|MIGUEL ANGEL LOPEZ ROJAS|[miguel.lopez8033@alumnos.udg.mx](mailto:miguel.lopez8033@alumnos.udg.mx)| *Pendiente*|
+| 06|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|[alejandro.martindelcampo2994@alumnos.udg.mx](mailto:alejandro.martindelcampo2994@alumnos.udg.mx)| [Alejandro-Tecno](https://github.com/Alejandro-Tecno)|
+| 07|209538895|GUSTAVO MENDOZA NAVARRO|[gustavo.mendoza3889@alumnos.udg.mx](mailto:gustavo.mendoza3889@alumnos.udg.mx)| [GustMdz](https://github.com/GustMdz)|
+| 08|222980327|LEONARDO DANIEL PANTOJA MORFIN|[leonardo.pantoja8032@alumnos.udg.mx](mailto:leonardo.pantoja8032@alumnos.udg.mx)| [LeonardoDPantoja](https://github.com/LeonardoDPantoja)|
+| 09|222980246|JOSE MIGUEL RAMIREZ GALAN|[jose.ramirez8024@alumnos.udg.mx](mailto:jose.ramirez8024@alumnos.udg.mx)| *Pendiente*|
+| 10|222980262|ROBERTO CARLOS RAMIREZ RAMOS|[roberto.ramirez8026@alumnos.udg.mx](mailto:roberto.ramirez8026@alumnos.udg.mx)| *Pendiente*|
+| 11|222980351|CESAR KEVIN ROMERO HEREDIA|[cesar.romero8035@alumnos.udg.mx](mailto:cesar.romero8035@alumnos.udg.mx)| [kromero4708](https://github.com/kromero4708)|
+| 12|302386283|JOSUE SANCHEZ ACOSTA|[ursuzfolivora@gmail.com](mailto:ursuzfolivora@gmail.com)| [UrsuzEremita](https://github.com/UrsuzEremita)|
+| 13|222980343|VICTOR TELLEZ GARCIA|[victor.tellez8034@alumnos.udg.mx](mailto:victor.tellez8034@alumnos.udg.mx)| [victortg95](https://github.com/victortg95)|
+| 14|222980289|YUKIE TESHIBA ZUBIETA|[yukie.teshiba8028@alumnos.udg.mx](mailto:yukie.teshiba8028@alumnos.udg.mx)| [YukieTZ](https://github.com/YukieTZ)|
 
 
 ## Evaluación
