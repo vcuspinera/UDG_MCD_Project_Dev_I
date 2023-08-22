@@ -38,7 +38,7 @@ Es una herramienta en la cual, se crea una rama paralela a la vertiente principa
 
 5. Se abrirá una ventana en la que al calce podrá ver los cambios que se proponen hacer en el repositorio. Si estás de acuerdo con los cambios propuestos, deberás escribir un mensaje y dar click en el botón verde `Create pull request`.
 
-6. Una vez que GitHub haya identificado si no hay algún problema en el archivo, como vimos con los conflictos en la [actividad 09](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/09_GitHub_conflict.md), aparecerá un botón verde que dice `Merge pull request` en el que se deberá dar click, y posteriormente en `Confirm merge`.
+6. Una vez que GitHub haya identificado si no hay algún problema en el archivo, como vimos con los conflictos en la [actividad 09](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/09_GitHub_conflict.md), aparecerá un botón verde que dice `Merge pull request` en el que se deberá dar click, y posteriormente en `Confirm merge`.
 
 7. Una vez realizado esto, aparecerá en color morado un mensaje que dice "merged", con lo cual los cambios han sido aceptados en el branch principal del repositorio: `main`.
 

@@ -67,7 +67,7 @@ Para corregir un conflicto habrá que seguir los siguientes pasos:
         contact the professor by email.
         ```
 
-4. Una vez corregido el conflicto, habrá que salvar el archivo y subir los cambios al repositorio remoto desde la terminal con `git add`, `git commit` y `git push`. **Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) para ver cómo usar los tres comandos mencionados de `git`.
+4. Una vez corregido el conflicto, habrá que salvar el archivo y subir los cambios al repositorio remoto desde la terminal con `git add`, `git commit` y `git push`. **Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md) para ver cómo usar los tres comandos mencionados de `git`.
 
 ## 4. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.

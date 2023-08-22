@@ -46,7 +46,7 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
          C. dar click sobre **Share**,  
          D. dar click sobre **Copy GIF Link** de menor peso.  
         
-    4.2 Usar el código para añadir imágenes que vimos en las actividades [05_Markdown_basics.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md) y [06_GitHub_practice.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/06_GitHub_practice.md))
+    4.2 Usar el código para añadir imágenes que vimos en las actividades [05_Markdown_basics.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md) y [06_GitHub_practice.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/06_GitHub_practice.md))
 
         ```
         ![](pegar_link_aquí)  
@@ -58,7 +58,7 @@ Dentro de la carpeta `src` se deberán realizar las siguientes acciones:
 
 Posteriormente habrá que subir la información del repositorio local Git al repositorio remoto GitHub, usando los comandos `git add`, `git commit` y `git push`.
 
-**Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/08_Git_and_GitHub.md) para ver cómo usar los tres comandos mencionados de `git`.
+**Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md) para ver cómo usar los tres comandos mencionados de `git`.
 
 ## 6. Comentarios Finales
 Una vez realizado lo anterior podremos identificar que estos cambios se ven reflejados en la carpeta remota ubicada en GitHub, la cual fue *forkeada* y posteriormente modificada. En resumen, cuando hacemos `Fork` de un repositorio de otro usuario, realizamos una copia en nuestros repositorios remotos en GitHub, el cual lo usamos como una **base** para realizar modificaciones, desarrollar ideas propias, y generar / actualizar / utilizar el código para nuestros nuevos proyectos.

@@ -46,7 +46,7 @@ Realizar las siguientes modificaciones:
    3.3. dar click sobre el GIF  
    3.4. dar click sobre **Share**  
    3.5. dar click sobre **Copy GIF Link**  
-4. Después regresar a su página de GitHub, para pegar el link de la imagen y añadir la fuente. ([ver actividad `05_Markdown_basics.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/blob/main/actividades/05_Markdown_basics.md)). *Hint: copiar y pegar el texto del siguiente cuadro, y cambiar el texto “pegar_link_aquí” por el link del GIF (paso 3.5).*
+4. Después regresar a su página de GitHub, para pegar el link de la imagen y añadir la fuente. ([ver actividad `05_Markdown_basics.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md)). *Hint: copiar y pegar el texto del siguiente cuadro, y cambiar el texto “pegar_link_aquí” por el link del GIF (paso 3.5).*
 
 ```
 ![](pegar_link_aquí)

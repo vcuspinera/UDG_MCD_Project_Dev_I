@@ -143,4 +143,4 @@ Y aquí se mira como imagen la estructura:
 <img src="img/11-01_structure.png" width="800">
 
 ## 5. Referencias
-- Wilson, G., Bryan, J., Cranston, K., et al. (2016). ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_II/tree/main/actividades/material/Papers).
+- Wilson, G., Bryan, J., Cranston, K., et al. (2016). ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material/Papers).
