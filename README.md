@@ -84,7 +84,7 @@ Esta es una vista general sobre el material del curso, para mayor detalle revisa
 
 El material y actividades por clase se enlistan a continuación:
 
-|# | Fecha| Tema | Material y/o actividad |Activ. pendientes|
+|# | Fecha| Tema | Material y/o actividad |Act. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
 |01| 2023-08-16|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/02_GitHub_registro.md)</li></ul>| [Ver Issue #74](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/74) |
 |02| 2023-08-23|<ul><li>Básicos</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/03_GitHub_overview.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md)</li><li>[Asignación de equipos: 1º ronda presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/src/asignar_present_1.ipynb)</li></ul>|__P.D.__ |
@@ -95,19 +95,19 @@ El material y actividades por clase se enlistan a continuación:
 |07| 2023-09-27|<ul><li>Bases de datos alternativas</li><li>Librería Altair</li></ul>|<ul><li>[Pres. 05, libro "Everybody Lies"](https://www.dropbox.com/scl/fo/18nzputb50yh8fzobg6t9/h?dl=0&rlkey=inxhoyecp31rf66whar7x6dex) (*presentar al menos 10 bases de datos utilizadas, su fuente y comentarios sobre el análisis realizado*)</li><li>[Act. 12 • Visualización con Altair](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/12_Viz_Altair.ipynb)</li><li>Quiz 04</li></ul> |__P.D.__ |
 |08| 2023-10-04|<ul><li>EDA</li><li>Guía proyecto intermedio</li></ul> |<ul><li>[Pres. 06, libro "The Art of Data Science"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/06%20Art%20of%20Data%20Science.pdf)</li><li>[Act. 13 • Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/13_EDA.ipynb)</li><li>[Guía para proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/eda)</li><li>Quiz 05</li></ul> |__P.D.__ |
 |09| 2023-10-11|<ul><li>Webpage personal en GitHub</li><li>Trabajo en equipo</li><li>Pedir ayuda a la comunidad</li></ul>|<ul><li>Dudas y comentarios sobre proyecto EDA</li><li>[Act. 14 • GitHub personal webpage](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/14_GitHub_pers_webpage.md )</li><li>[Act. 15 • Trabajando en equipo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/15_GitHub_teams.md)</li><li>[Act. 16 • Asking for help](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/16_ask4help.ipynb)</li><li>[Asignación de equipos: 2º ronda presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/src/asignar_present_2.ipynb)</li></ul>|__P.D.__ |
-|10| 2023-10-18|<ul><li>Calificaciones proyecto EDA</li><li>Consultas en Twitter con Python</li></ul>|<ul><li>Pres. 07, __P.D.__</li><li>Observaciones generales de proy. intermedio EDA</li><li>[Revisión de calificaciones proy. EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#proyecto-de-análisis-eda)</li><li>Quiz 06</li></lu>|__P.D.__ |
-|11| 2023-10-25|__P.D.__ |<ul><li>Pres. 08, __P.D.__</li><li>Quiz 07</li></lu> |__P.D.__ |
-|12| 2023-11-01|__P.D.__ |<ul><li>Pres. 09, __P.D.__</li><li>Quiz 08</li></lu> |__P.D.__ |
-|13| 2023-11-08|__P.D.__ |<ul><li>Pres. 10, __P.D.__</li><li>[Guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final)</li><li>Quiz 09</li></lu> |__P.D.__ |
-|14| 2023-11-15|__P.D.__ |<ul><li>Pres. 11, __P.D.__</li><li>Dudas y comentarios sobre proyecto final</li><li>Quiz 10</li></lu> |__P.D.__ |
-|15| 2023-11-22|Cierre de curso |<ul><li>Compartir observaciones de proyecto final</li><li>Revisión de actividades para [puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/README.md#calificaciones)</li><li>[Calificaciones acumuladas](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#resumen-de-calificaciones)</li><li>Encuesta final del curso</li><ul> |__P.D.__ |
+|10| 2023-10-18|<ul><li>Calificaciones proyecto EDA</li><li>Consultas en Twitter con Python</li></ul>|<ul><li>Pres. 07, __P.D.__</li><li>Observaciones generales de proy. intermedio EDA</li><li>Revisión de calificaciones proy. EDA</li><li>Quiz 06</li></ul>|__P.D.__ |
+|11| 2023-10-25|__P.D.__ |<ul><li>Pres. 08, __P.D.__</li><li>Quiz 07</li></ul> |__P.D.__ |
+|12| 2023-11-01|__P.D.__ |<ul><li>Pres. 09, __P.D.__</li><li>Quiz 08</li></ul> |__P.D.__ |
+|13| 2023-11-08|__P.D.__ |<ul><li>Pres. 10, __P.D.__</li><li>[Guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final)</li><li>Quiz 09</li></ul> |__P.D.__ |
+|14| 2023-11-15|__P.D.__ |<ul><li>Pres. 11, __P.D.__</li><li>Dudas y comentarios sobre proyecto final</li><li>Quiz 10</li></ul> |__P.D.__ |
+|15| 2023-11-22|<ul><li>Cierre de curso</li></ul> |<ul><li>Compartir observaciones de proyecto final</li><li>Revisión de actividades para [puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/README.md#calificaciones)</li><li>Observaciones generales de proy. final</li><li>Calificación final del curso</li><li>Encuesta de cierre del curso</li></ul> |__P.D.__ |
 |16| 2023-11-29|__P.D.__ |__P.D.__ |__P.D.__ |
 
 *Nota: el acrónimo __P.D.__ significa "por definir" y __N/A__ es "no aplica".*
 
 *Nota 2: este es un calendario de actividades tentativo, el cual podría tener cambios en función de las necesidades y desarrollo del curso. De llevarse a cabo el calendario propuesto sin interrupciones o atrasos, el curso acabaría en la sesión 15.*
 
-[Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2023-2024) para revisar el calendario oficial de la UDG del ciclo escolar 2023-B. De llevarse a cabo el calendario propuesto sin interrupciones o atrasos, el curso acabaría en la sesión 15.
+[Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2023-2024) para revisar el calendario oficial de la UDG del ciclo escolar 2023-B..
 
 ### Links relevantes
 __Canales principales__
