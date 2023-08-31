@@ -44,7 +44,7 @@ Lista de alumnos del ciclo escolar otoño 2023.
 | 06|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|[alejandro.martindelcampo2994@alumnos.udg.mx](mailto:alejandro.martindelcampo2994@alumnos.udg.mx)| [Alejandro-Tecno](https://github.com/Alejandro-Tecno)|
 | 07|209538895|GUSTAVO MENDOZA NAVARRO|[gustavo.mendoza3889@alumnos.udg.mx](mailto:gustavo.mendoza3889@alumnos.udg.mx)| [GustMdz](https://github.com/GustMdz)|
 | 08|222980327|LEONARDO DANIEL PANTOJA MORFIN|[leonardo.pantoja8032@alumnos.udg.mx](mailto:leonardo.pantoja8032@alumnos.udg.mx)| [LeonardoDPantoja](https://github.com/LeonardoDPantoja)|
-| 09|222980246|JOSE MIGUEL RAMIREZ GALAN|[jose.ramirez8024@alumnos.udg.mx](mailto:jose.ramirez8024@alumnos.udg.mx)| *Pendiente*|
+| 09|222980246|JOSE MIGUEL RAMIREZ GALAN|[jose.ramirez8024@alumnos.udg.mx](mailto:jose.ramirez8024@alumnos.udg.mx)| [MIguelC137](https://github.com/MIguelC137)|
 | 10|222980262|ROBERTO CARLOS RAMIREZ RAMOS|[roberto.ramirez8026@alumnos.udg.mx](mailto:roberto.ramirez8026@alumnos.udg.mx)| [robrmz](https://github.com/robrmz)|
 | 11|222980351|CESAR KEVIN ROMERO HEREDIA|[cesar.romero8035@alumnos.udg.mx](mailto:cesar.romero8035@alumnos.udg.mx)| [kromero4708](https://github.com/kromero4708)|
 | 12|302386283|JOSUE SANCHEZ ACOSTA|[ursuzfolivora@gmail.com](mailto:ursuzfolivora@gmail.com)| [UrsuzEremita](https://github.com/UrsuzEremita)|
