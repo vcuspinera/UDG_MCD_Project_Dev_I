@@ -7,7 +7,8 @@ Git es una herramienta utilizada para trabajar de forma local (en equipo propio)
 1. En general
 2. Cómo identificar si hay un conflicto?
 3. Corregir un conflicto
-4. Referencias
+4. Actividad
+5. Referencias
 
 ## 1. En general
 Al usar el controlador de versiones, sobre todo al trabajar en equipo, puede suceder que se realicen cambios en mismo archivo:
@@ -69,6 +70,58 @@ Para corregir un conflicto habrá que seguir los siguientes pasos:
 
 4. Una vez corregido el conflicto, habrá que salvar el archivo y subir los cambios al repositorio remoto desde la terminal con `git add`, `git commit` y `git push`. **Hint:** Revisar *sección 5* de la actividad [08_Git_and_GitHub.md](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md) para ver cómo usar los tres comandos mencionados de `git`.
 
-## 4. Referencias
+## 4. Actividad
+### Cambios en repositorio remoto (GitHub)
+1. Abrir el repositorio `hello` creado en la actividad [06 • Crear primer repo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/06_GitHub_firstie.md).
+
+2. Editar el README file principal del repositorio remoto (en GitHub), añadiendo un texto antes del pie de página; por ejemplo:
+
+```
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
+```
+
+![](img/09-01_change_remote.png)
+
+Este cambio se refleja en el repositorio de GitHub así:
+
+![](img/09-02_remote_looks.png)
+
+### Cambios en repositorio local (Git)
+3. De forma paralela, editar el archivo README principal guardado en su repositorio local (Git), añadiendo un texto antes del pie de página, en el **mismo renglón** que la edición que se hizo en el repositorio remoto. Por ejemplo, añadiendo el siguiente texto:
+
+```
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+```
+
+![](img/09-03_change_local.png)
+
+### Conflicto
+
+4. Al intentar subir el archivo README file editado en el repositorio local (Git) usando (`git add`, `git commit` y `git push`) nos dirá que el repositorio remoto (GitHub) tiene cambios por lo que hacemos `git pull`. Al jalar la información remota nos aparecerá un conflicto:
+
+![](img/09-04_conflict_terminal.png)
+
+5. Para resolver el conflicto de un markdown hay que abrir el archivo README file, donde estará marcada la diferencia entre el archivo local y el remoto. El conflicto inicia con el texto "<<<<<<< HEAD", le sigue el texto del repositorio local, un separador "=======", el texto del repositorio remoto, los siguientes signos ">>>>>>>" y termina con el código del `branch` (rama).
+
+![](img/09-05_conflict_dif.png)
+
+6. Para corregir el conflicto hay que editar manualmente el texto, quitando "<<<<<<< HEAD", el separador "=======" y el cierre ">>>>>>>" con código de la rama, y escribir lo que se quiere que quede finalmente. En nuestro ejemplo, la propuesta de edición final es la siguiente:
+
+```
+### Original
+Original idea by [Tiffany Timbers](https://github.com/ttimbers) in the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
+```
+![](img/09-06_conflict_edited.png)
+
+7. Una vez editado el conflicto, al subirlo del repositorio local al remoto, no aparecerá ningún error:
+
+![](img/09-07_push.png)
+
+8. La vista final del archivo en el repositorio remoto es la siguiente:
+![](img/09-08_final_view.png)
+
+
+## 5. Referencias
 - Material público del curso [Plataformas para ciencia de datos](https://github.com/UBC-MDS/DSCI_521_platforms-dsci) de UBC MDS.
 - GitHub Docs [Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line).
