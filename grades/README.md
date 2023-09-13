@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-09-10**
+Última actualización al: **2023-09-12**
 
 <br>
 
@@ -76,7 +76,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|10|8.1|0|0|0|0|__18.1__|
+|222980378|JORGE ARTURO HERRERA RAMIREZ|10|8.5|0|0|0|0|__18.5__|
 |222980386|DANIEL ISITA ASCENCIO|10|8.4|0|0|0|0|__18.4__|
 |214509127|REYNA VIVIANA JARAMILLO FLORES|0|7.3|0|0|0|0|__7.3__|
 |222980297|LARISA IRENE LOPEZ PAYAN|10|8.3|0|0|0|0|__18.3__|
@@ -120,7 +120,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 |ID. |NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| 06|ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|100|83|100|0|0|0|0|0|__40.5__|
+|222980378|JORGE ARTURO HERRERA RAMIREZ|100|97|100|0|0|0|0|0|__42.4__|
 |222980386|DANIEL ISITA ASCENCIO|100|93|100|0|0|0|0|0|__41.9__|
 |214509127|REYNA VIVIANA JARAMILLO FLORES|100|57|98|0|0|0|0|0|__36.4__|
 |222980297|LARISA IRENE LOPEZ PAYAN|100|90|100|0|0|0|0|0|__41.4__|
