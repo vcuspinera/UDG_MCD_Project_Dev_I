@@ -183,25 +183,14 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 
 ### Proyecto final:
 
+|No. EQUIPO|INTEGRANTES EQUIPO|PROYECTO|Analisis en Jupyter<br>(30%)|Markdown resultados<br>(20%)|Repo en GitHub<br>(20%)|Compartir link<br>(10%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización deadline<br>( - 20%)|CALIF.|
+|:---:|:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|
+|1|Pendiente|Pendiente|0|0|0|0|0|0|0|__0__|
+|2|Pendiente|Pendiente|0|0|0|0|0|0|0|__0__|
+|3|Pendiente|Pendiente|0|0|0|0|0|0|0|__0__|
+|4|Pendiente|Pendiente|0|0|0|0|0|0|0|__0__|
+
 Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final).
-
-|No. EQUIPO|INTEGRANTES|PROYECTO|Análisis en Jupyter<br>(30%)|Markdown resultados<br>(20%)|Repo en GitHub<br>(20%)|Compartir link<br>(10%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización Deadline<br>(-20%)|CALIF.|
-|:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|---:|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|0|0|0|0|0|0|__0__|
-|222980386|DANIEL ISITA ASCENCIO|0|0|0|0|0|0|__0__|
-|214509127|REYNA VIVIANA JARAMILLO FLORES|0|0|0|0|0|0|__0__|
-|222980297|LARISA IRENE LOPEZ PAYAN|0|0|0|0|0|0|__0__|
-|222980335|MIGUEL ANGEL LOPEZ ROJAS|0|0|0|0|0|0|__0__|
-|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|0|0|0|0|0|0|__0__|
-|209538895|GUSTAVO MENDOZA NAVARRO|0|0|0|0|0|0|__0__|
-|222980327|LEONARDO DANIEL PANTOJA MORFIN|0|0|0|0|0|0|__0__|
-|222980246|JOSE MIGUEL RAMIREZ GALAN|0|0|0|0|0|0|__0__|
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS|0|0|0|0|0|0|__0__|
-|222980351|CESAR KEVIN ROMERO HEREDIA|0|0|0|0|0|0|__0__|
-|302386283|JOSUE SANCHEZ ACOSTA|0|0|0|0|0|0|__0__|
-|222980343|VICTOR TELLEZ GARCIA|0|0|0|0|0|0|__0__|
-|222980289|YUKIE TESHIBA ZUBIETA|0|0|0|0|0|0|__0__|
-
 
 ## Puntos extras:
 
