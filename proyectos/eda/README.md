@@ -2,8 +2,6 @@
 
 En este documento se comparten las instrucciones para desarrollar de forma individual el proyecto intermedio con análisis EDA.
 
-# *NOTA: LA INFORMACIÓN PRESENTADA A CONTINUACIÓN SE BASA EN LAS BASES DEL PROYECTO DE MEDIADOS DE SEMESTRE, POR LO QUE PODRÍA VARIAR PARA EL SEMESTRE DE OTOÑO 2023.*
-
 ## ⚙️ Generalidades
 El **proyecto de análisis EDA** es una hito de la materia de _Desarrollo de Proyectos I_, el cual se desarrollará **de forma individual** y tendrá un valor del **20%** sobre la calificación final.
 
