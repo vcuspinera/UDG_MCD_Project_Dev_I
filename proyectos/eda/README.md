@@ -17,7 +17,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |Pendiente |
 |209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |Pendiente |
 |222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |Pendiente |
-|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |Pendiente |
+|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin |
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |Pendiente |
 |222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |Pendiente |
 |302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |Pendiente |
