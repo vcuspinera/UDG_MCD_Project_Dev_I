@@ -9,20 +9,20 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 | Id. UDG | Nombre | GitHub user | Repositorio del proy. EDA |
 |:-------:|:-------|:------------|:--------------------------|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |Pendiente |
-|222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |Pendiente |
-|214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |Pendiente |
-|222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |Pendiente |
-|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |Pendiente |
-|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |Pendiente |
-|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |Pendiente |
-|222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |Pendiente |
-|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin |
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |Pendiente |
-|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |Pendiente |
-|302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |Pendiente |
-|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |Pendiente |
-|222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |Pendiente |
+|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Pendiente](liga) |
+|222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Pendiente](liga) |
+|214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Pendiente](liga) |
+|222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Pendiente](liga) |
+|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Pendiente](liga) |
+|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Pendiente](liga) |
+|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Pendiente](liga) |
+|222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Pendiente](liga) |
+|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de Sentimientos en Tormenta de Espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
+|222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |[Pendiente](liga) |
+|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Pendiente](liga) |
+|302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Pendiente](liga) |
+|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Pendiente](liga) |
+|222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[Pendiente](liga) |
 
 
 ## 🛠 Actividad a desarrollar
