@@ -9,7 +9,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 | Id. UDG | Nombre | GitHub user | Repositorio del proy. EDA |
 |:-------:|:-------|:------------|:--------------------------|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Pendiente](liga) |
+|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Robo de Vehículos Jal.](https://github.com/jorgeherrerar/Robo-de-Autos-EDA) |
 |222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Temperaturas del mundo](https://github.com/disita/EDA-Class-Proyect) |
 |214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Pendiente](liga) |
 |222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Pendiente](liga) |
