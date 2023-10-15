@@ -1,4 +1,4 @@
-![imagen](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/assets/63375998/714e97b5-1fd0-4f66-8e1f-09f3592f42a7)# Proyecto de análisis EDA
+# Proyecto de análisis EDA
 
 En este documento se comparten las instrucciones para desarrollar de forma individual el proyecto intermedio con análisis EDA.
 
