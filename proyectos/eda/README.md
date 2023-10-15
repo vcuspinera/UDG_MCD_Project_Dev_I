@@ -1,4 +1,4 @@
-# Proyecto de análisis EDA
+![imagen](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/assets/63375998/714e97b5-1fd0-4f66-8e1f-09f3592f42a7)# Proyecto de análisis EDA
 
 En este documento se comparten las instrucciones para desarrollar de forma individual el proyecto intermedio con análisis EDA.
 
@@ -10,7 +10,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 | Id. UDG | Nombre | GitHub user | Repositorio del proy. EDA |
 |:-------:|:-------|:------------|:--------------------------|
 |222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Pendiente](liga) |
-|222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Pendiente](liga) |
+|222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Temperaturas del mundo](https://github.com/disita/EDA-Class-Proyect) |
 |214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Pendiente](liga) |
 |222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Pendiente](liga) |
 |222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Pendiente](liga) |
