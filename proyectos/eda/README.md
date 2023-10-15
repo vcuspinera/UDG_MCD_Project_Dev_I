@@ -14,7 +14,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Pendiente](liga) |
 |222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Pendiente](liga) |
 |222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Pendiente](liga) |
-|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Pendiente](liga) |
+|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Tiempo de entrega de pedidos](https://github.com/Alejandro-Tecno/EDA_project) |
 |209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Pendiente](liga) |
 |222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Pendiente](liga) |
 |222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de Sentimientos en Tormenta de Espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
