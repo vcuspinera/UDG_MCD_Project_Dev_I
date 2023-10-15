@@ -21,7 +21,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |[Pendiente](liga) |
 |222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Pendiente](liga) |
 |302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Pendiente](liga) |
-|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Pendiente](liga) |
+|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Precipitación Acumulada en México](https://github.com/victortg95/EDA_precipitacion_Mexico.git) |
 |222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[Pendiente](liga) |
 
 
