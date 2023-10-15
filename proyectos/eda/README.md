@@ -13,7 +13,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Temperaturas del mundo](https://github.com/disita/EDA-Class-Proyect) |
 |214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Análisis de movilidad social](https://github.com/ReynaViviana/An-lsis-de-la-Movilidad-Social-Intergeneracional)|
 |222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Pendiente](liga) |
-|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Pendiente](liga) |
+|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Saturación de industria Mayorista](https://github.com/miguelrojas1990/EDA-Class-project) |
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Tiempo de entrega de pedidos](https://github.com/Alejandro-Tecno/EDA_project) |
 |209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Pendiente](liga) |
 |222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Inclusión Financiera](https://github.com/LeonardoDPantoja/EDA_Project.git) |
