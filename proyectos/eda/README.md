@@ -19,7 +19,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Inclusión Financiera](https://github.com/LeonardoDPantoja/EDA_Project.git) |
 |222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de Sentimientos en Tormenta de Espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |[Pendiente](liga) |
-|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Pendiente](liga) |
+|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Analisis de Contratos](https://github.com/kromero4708/Analisis_de_Contratos/tree/main) |
 |302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Estadisticas de Peleadores de la UFC](https://github.com/UrsuzEremita/EDA-y-base-de-datos-de-la-UFC) |
 |222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Precipitación Acumulada en México](https://github.com/victortg95/EDA_precipitacion_Mexico.git) |
 |222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[Pendiente](liga) |
