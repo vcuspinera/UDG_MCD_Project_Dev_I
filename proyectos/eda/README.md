@@ -22,7 +22,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Analisis de Contratos](https://github.com/kromero4708/Analisis_de_Contratos/tree/main) |
 |302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Estadisticas de Peleadores de la UFC](https://github.com/UrsuzEremita/EDA-y-base-de-datos-de-la-UFC) |
 |222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Precipitación Acumulada en México](https://github.com/victortg95/EDA_precipitacion_Mexico.git) |
-|222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[Pendiente](liga) |
+|222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[¿Quiénes se suicidan según las estadísticas?](https://github.com/YukieTZ/Who_suicide_statistics) |
 
 
 ## 🛠 Actividad a desarrollar
