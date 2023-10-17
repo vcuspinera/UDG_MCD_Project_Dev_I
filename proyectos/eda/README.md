@@ -15,7 +15,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 |222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Encuesta-de-Satisfacci-n](https://github.com/LLop8029/Encuesta-de-Satisfacci-n) |
 |222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Saturación de industria Mayorista](https://github.com/miguelrojas1990/EDA-Class-project) |
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Tiempo de entrega de pedidos](https://github.com/Alejandro-Tecno/EDA_project) |
-|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Pendiente](liga) |
+|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Analysis_LigaMX_2016-2020_seasons](https://github.com/GustMdz/Analysis_LigaMX_2016-2020_seasons) |
 |222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Inclusión Financiera](https://github.com/LeonardoDPantoja/EDA_Project.git) |
 |222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de Sentimientos en Tormenta de Espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |[Seguridad en el estado de Jalisco](https://github.com/robrmz/EDA-Seguridad-en-el-estado-de-Jalisco) |
