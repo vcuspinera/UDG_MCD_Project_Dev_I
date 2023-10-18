@@ -9,19 +9,19 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por el link
 
 | Id. UDG | Nombre | GitHub user | Repositorio del proy. EDA |
 |:-------:|:-------|:------------|:--------------------------|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Robo de Vehículos Jal.](https://github.com/jorgeherrerar/Robo-de-Autos-EDA) |
+|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorgeherrerar](https://github.com/jorgeherrerar) |[Robo de vehículos en Jalisco](https://github.com/jorgeherrerar/Robo-de-Autos-EDA) |
 |222980386|DANIEL ISITA ASCENCIO|[disita](https://github.com/disita) |[Temperaturas del mundo](https://github.com/disita/EDA-Class-Proyect) |
 |214509127|REYNA VIVIANA JARAMILLO FLORES|[ReynaViviana](https://github.com/ReynaViviana) |[Análisis de movilidad social](https://github.com/ReynaViviana/An-lsis-de-la-Movilidad-Social-Intergeneracional)|
-|222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Encuesta-de-Satisfacci-n](https://github.com/LLop8029/Encuesta-de-Satisfacci-n) |
-|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Saturación de industria Mayorista](https://github.com/miguelrojas1990/EDA-Class-project) |
+|222980297|LARISA IRENE LOPEZ PAYAN |[LLop8029](https://github.com/LLop8029) |[Encuesta de satisfacción](https://github.com/LLop8029/Encuesta-de-Satisfacci-n) |
+|222980335|MIGUEL ANGEL LOPEZ ROJAS |[miguelrojas1990](https://github.com/miguelrojas1990) |[Saturación de industria mayorista](https://github.com/miguelrojas1990/EDA-Class-project) |
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA |[Alejandro-Tecno](https://github.com/Alejandro-Tecno) |[Tiempo de entrega de pedidos](https://github.com/Alejandro-Tecno/EDA_project) |
-|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Analysis_LigaMX_2016-2020_seasons](https://github.com/GustMdz/Analysis_LigaMX_2016-2020_seasons) |
-|222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Inclusión Financiera](https://github.com/LeonardoDPantoja/EDA_Project.git) |
-|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de Sentimientos en Tormenta de Espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
+|209538895|GUSTAVO MENDOZA NAVARRO |[GustMdz](https://github.com/GustMdz) |[Análisis de liga MX de fútbol soccer durante las temporadas 2016 a 2020](https://github.com/GustMdz/Analysis_LigaMX_2016-2020_seasons) |
+|222980327|LEONARDO DANIEL PANTOJA MORFIN |[LeonardoDPantoja](https://github.com/LeonardoDPantoja) |[Inclusión financiera](https://github.com/LeonardoDPantoja/EDA_Project.git) |
+|222980246|JOSE MIGUEL RAMIREZ GALAN |[MIguelC137](https://github.com/MIguelC137) |[Análisis de sentimientos en Tormenta de espadas de George R.R. Martin](https://github.com/MIguelC137/An-lisis-de-Sentimientos-en-Tormenta-de-Espadas-de-George-R.R.-Martin) |
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS |[robrmz](https://github.com/robrmz) |[Seguridad en el estado de Jalisco](https://github.com/robrmz/EDA-Seguridad-en-el-estado-de-Jalisco) |
-|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Analisis de Contratos](https://github.com/kromero4708/Analisis_de_Contratos/tree/main) |
-|302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Estadisticas de Peleadores de la UFC](https://github.com/UrsuzEremita/EDA-y-base-de-datos-de-la-UFC) |
-|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Precipitación Acumulada en México](https://github.com/victortg95/EDA_precipitacion_Mexico.git) |
+|222980351|CESAR KEVIN ROMERO HEREDIA |[kromero4708](https://github.com/kromero4708) |[Analisis de contratos](https://github.com/kromero4708/Analisis_de_Contratos/tree/main) |
+|302386283|JOSUE SANCHEZ ACOSTA |[UrsuzEremita](https://github.com/UrsuzEremita) |[Estadísticas de peleadores de la UFC](https://github.com/UrsuzEremita/EDA-y-base-de-datos-de-la-UFC) |
+|222980343|VICTOR TELLEZ GARCIA |[victortg95](https://github.com/victortg95) |[Precipitación acumulada en México](https://github.com/victortg95/EDA_precipitacion_Mexico.git) |
 |222980289|YUKIE TESHIBA ZUBIETA |[YukieTZ](https://github.com/YukieTZ) |[¿Quiénes se suicidan según las estadísticas?](https://github.com/YukieTZ/Who_suicide_statistics) |
 
 
