@@ -7,7 +7,8 @@ Git es una herramienta utilizada para trabajar de forma local (en equipo propio)
 1. Intro
 2. Branches
 3. Pull requests
-4. Referencias
+4. Comandos git en la terminal
+5. Referencias
 
 ## 1. Intro
 Hasta ahora, al interactuar en GitHub hemos trabajado directamente en la carpeta principal (`main`) sin necesidad de solicitar la aprobación de cambios o trabajar en una rama paralela. En esta actividad se mencionará como trabajar en equipo de manera más segura utilizando `pull requests` y `branches`.
@@ -42,5 +43,18 @@ Es una herramienta en la cual, se crea una rama paralela a la vertiente principa
 
 7. Una vez realizado esto, aparecerá en color morado un mensaje que dice "merged", con lo cual los cambios han sido aceptados en el branch principal del repositorio: `main`.
 
-## 4. Referencias
+## 4. Comandos de git en la terminal
+
+A continuación se comparten algunos de los comandos de git más utilizados cuando se crean y trabajan en ramas paralelas a la rama principal del repositorio:
+
+- `git branch`: sirve para ver todas las ramas (*branches*) del repositorio. De forma análoga se puede utilizar el código `git branch --list`
+- `git branch <new_branch>`: crea una nueva rama con el nombre "new_branch".
+- `git branch -d <branch>`: borra la rama de forma segura una vez que se ha fusionado con la rama principal `main`.
+- `git branch -D <branch>`: borra la rama aún cuando no haya sido fusionada con la rama principal `main`.
+- `git branch -m <new_name_branch>`: renombra la rama actual con el nombre "new_name_branch".
+- `git checkout <other_branch>`: cambia de la rama actual a la rama de nombre "other_branch".
+- `git checkout -b ＜new_branch＞`: crea uan nueva rama de nombre "new_branch" y se cambia a esta nueva rama creada.
+
+## 5. Referencias
 - [Timbers, T. (2020). "Lecture 1 - Intro to Data Science Workflows". Course DSCI 522 Data Science Workflows. MDS public material. UBC.](https://github.com/UBC-MDS/DSCI_522_dsci-workflows/blob/master/lectures/01_lecture-intro-to-ds-workflows.ipynb)
+- [Atlassian. (2023). "Software Development: Learn Git, Git Branch".](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
