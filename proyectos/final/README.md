@@ -60,7 +60,10 @@ Este repositorio deberá contener lo siguiente:
 
 
 ### Difusión de proyecto
-Su proyecto lo deberán compartir a través algún canal de difusión como LinkedIn, redes sociales, revistas de ciencia de datos (como Towards Data Science o Medium) u otro canal.
+Su proyecto lo deberán compartir a través alguno(s) de las siguientes opciones de difusión:
+- **Redes sociales de ámbito profesional**: LinkedIn, X (antes Twitter), Mastodon *(⚠️ sólo las mencionadas, no se aceptarán otras redes sociales como Facebook, Whatsapp o Instagram)*.
+- **Revistas de ciencia de datos**, por ejemplo, [Towards Data Science](https://towardsdatascience.com), [Analytics Vidhya](https://www.analyticsvidhya.com) o [Medium](https://medium.com).
+- **Canales para compartir análisis, modelos o datos**, como [Kaggle](https://www.kaggle.com) o [Hugging Face](https://huggingface.co).
 
 
 ## 📚 Entregables:
