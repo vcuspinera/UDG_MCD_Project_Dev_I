@@ -46,7 +46,7 @@ Este repositorio deberá contener lo siguiente:
    - carpetas `data`, `doc`, `results`, `src`,
    - archivo README.md file dentro de cada carpeta con una breve descripción de la misma,
    - archivos de licencia, forma de citar y contribución, 
-   - un *issue* con comentarios sobre las actividades pendientes.
+   - un *issue* con la liga hacia la publicación donde se [difundió el proyecto](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final#difusión-de-proyecto).
 
 - *Jupyter notebook* con el análisis.
 
