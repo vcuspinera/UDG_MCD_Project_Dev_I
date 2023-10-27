@@ -102,14 +102,14 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |:---|:---|---:|---:|---:|
 |222980378|JORGE ARTURO HERRERA RAMIREZ|100|0|__50__|
 |222980386|DANIEL ISITA ASCENCIO|100|0|__50__|
-|214509127|REYNA VIVIANA JARAMILLO FLORES|100|0|__50__|
+|214509127|REYNA VIVIANA JARAMILLO FLORES|100|100|__100__|
 |222980297|LARISA IRENE LOPEZ PAYAN|100|0|__50__|
 |222980335|MIGUEL ANGEL LOPEZ ROJAS|100|0|__50__|
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|100|0|__50__|
-|209538895|GUSTAVO MENDOZA NAVARRO|100|0|__50__|
+|209538895|GUSTAVO MENDOZA NAVARRO|100|100|__100__|
 |222980327|LEONARDO DANIEL PANTOJA MORFIN|100|0|__50__|
 |222980246|JOSE MIGUEL RAMIREZ GALAN|100|0|__50__|
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS|100|0|__50__|
+|222980262|ROBERTO CARLOS RAMIREZ RAMOS|100|100|__100__|
 |222980351|CESAR KEVIN ROMERO HEREDIA|100|0|__50__|
 |302386283|JOSUE SANCHEZ ACOSTA|100|0|__50__|
 |222980343|VICTOR TELLEZ GARCIA|100|0|__50__|
@@ -143,7 +143,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |ID. UDG|NOMBRE|ACT 02 <br>*Registro GitHub*|ACT 06<br>*1º Repo*|ACT 08<br>*Git & GitHub*|ACT 09<br>*Conflicts*|ACT 10<br>*Fork*|ACT 11<br>*Repo Structure*|ACT 14<br>*Webpage*|ACT 15<br>*Branch & pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |222980378|JORGE ARTURO HERRERA RAMIREZ|100|100|100|100|100|100|0|0|__75__|
-|222980386|DANIEL ISITA ASCENCIO|100|80|100|100|100|100|0|0|__72.5__|
+|222980386|DANIEL ISITA ASCENCIO|100|100|100|100|100|100|0|0|__75__|
 |214509127|REYNA VIVIANA JARAMILLO FLORES|100|0|0|0|0|0|0|0|__12.5__|
 |222980297|LARISA IRENE LOPEZ PAYAN|100|100|0|0|0|0|0|0|__25__|
 |222980335|MIGUEL ANGEL LOPEZ ROJAS|100|50|0|0|0|0|0|0|__18.8__|
@@ -151,10 +151,10 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |209538895|GUSTAVO MENDOZA NAVARRO|100|100|100|100|100|100|0|0|__75__|
 |222980327|LEONARDO DANIEL PANTOJA MORFIN|100|80|100|100|100|100|0|0|__72.5__|
 |222980246|JOSE MIGUEL RAMIREZ GALAN|100|0|0|0|0|0|0|0|__12.5__|
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS|100|100|0|0|0|0|0|0|__25__|
+|222980262|ROBERTO CARLOS RAMIREZ RAMOS|100|100|0|0|0|0|100|0|__37.5__|
 |222980351|CESAR KEVIN ROMERO HEREDIA|100|80|100|100|100|100|0|0|__72.5__|
 |302386283|JOSUE SANCHEZ ACOSTA|100|80|0|0|80|100|0|0|__45__|
-|222980343|VICTOR TELLEZ GARCIA|100|20|0|0|0|100|0|0|__27.5__|
+|222980343|VICTOR TELLEZ GARCIA|100|100|100|0|0|100|0|0|__50__|
 |222980289|YUKIE TESHIBA ZUBIETA|100|80|0|0|0|80|0|0|__32.5__|
 
 ⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificárselo al profesor para que se actualice la calificación de esta sección.*
@@ -177,9 +177,10 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |222980246|JOSE MIGUEL RAMIREZ GALAN|100|95|90|100|0|__93.5__|
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS|100|100|100|100|0|__100__|
 |222980351|CESAR KEVIN ROMERO HEREDIA|100|75|95|0|0|__80__|
-|302386283|JOSUE SANCHEZ ACOSTA|100|100|100|0|0|__90__|
-|222980343|VICTOR TELLEZ GARCIA|100|-|-|-|-|__PENDIENTE__|
-|222980289|YUKIE TESHIBA ZUBIETA|100|-|-|-|-|__PENDIENTE__|
+|302386283|JOSUE SANCHEZ ACOSTA|100|100|100|100|0|__100__|
+|222980343|VICTOR TELLEZ GARCIA|100|0|0|0|0|__10__|
+|222980289|YUKIE TESHIBA ZUBIETA|100|0|0|0|0|__10__|
+
 
 ### Proyecto final:
 
@@ -205,8 +206,6 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 ## Asistencia
 
-*(ESTA SECCIÓN FALTA SER ACTUALZIADA)*
-
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |222980378|JORGE ARTURO HERRERA RAMIREZ|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
@@ -224,8 +223,8 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 |222980343|VICTOR TELLEZ GARCIA|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
 |222980289|YUKIE TESHIBA ZUBIETA|1|1|1|1|1|1|1|1|N/A|1|0|0|0|0|0|0|
 
-
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase. *
+
 
 ## Comentarios
 

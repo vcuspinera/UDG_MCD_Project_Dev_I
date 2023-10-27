@@ -23,6 +23,7 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 |Medio |Virtual | 
 |Liga a la clase |[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/89566540361) |
 
+
 ### Profesor
 
 Cualquier duda, aclaración o comentario sobre el material de este repositorio pueden contactarme a través de los siguientes canales:
@@ -30,6 +31,7 @@ Cualquier duda, aclaración o comentario sobre el material de este repositorio p
 |Nombre |e-mail |GitHub user| Página web |
 |:----:|:----:|:-----:|:-----:|
 |Víctor Cuspinera | vcuspinera@gmail.com | [vcuspinera](https://github.com/vcuspinera) | [<img src="https://raw.githubusercontent.com/vcuspinera/Canada_response_covid/8d616c02dcdf9a0362a6f8ecb98471eae8f0e28b/img/logo_vcuspinera.png" width=20%/>](https://vcuspinera.github.io) |
+
 
 ### Alumnos
 Lista de alumnos del ciclo escolar otoño 2023.
@@ -80,6 +82,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ## Material del curso
 Esta es una vista general sobre el material del curso, para mayor detalle revisar los links correspondientes.
 
+
 ### Actividades 
 
 El material y actividades por clase se enlistan a continuación:
@@ -96,19 +99,19 @@ El material y actividades por clase se enlistan a continuación:
 |08| 2023-10-04|<ul><li>EDA</li><li>Guía proyecto EDA</li></ul> |<ul><li>[Pres. 06, libro "The Art of Data Science"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/06%20Art%20of%20Data%20Science.pdf)</li><li>[Act. 13 • Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/13_EDA.ipynb)</li><li>[Guía para proyecto de EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/eda)</li><li>[Quiz 05](https://forms.office.com/r/ZpgeZaakkt)</li></ul> |[Ver Issue #86](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/86) |
 |09| 2023-10-11|<ul><li>Dudas y comentarios sobre proyecto EDA</li></ul>|<ul><li>Dudas y comentarios sobre proyecto EDA</li></ul>|[Ver Issue #87](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/87) |
 |10| 2023-10-18|<ul><li>Webpage personal en GitHub</li><li>Trabajo en equipo</li></ul>|<ul><li>[Act. 14 • GitHub personal webpage](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/14_GitHub_pers_webpage.md )</li><li>[Act. 15 • Trabajando en equipo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/15_GitHub_teams.md)</li><li>[Asignación de equipos: 2º ronda presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/89)</li></ul> |[Ver Issue #90](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/90)|
-|11| 2023-10-25|<ul><li>Calificaciones proyecto EDA</li><li>Librería para *scrape* de redes sociales</li></ul> |<ul><li>Pres. 07, librería para hacer *scrape* en una red social</li><li>Observaciones generales de proy. intermedio EDA</li><li>Revisión de calificaciones proy. EDA</li></ul> |__P.D.__ |
-|12| 2023-11-01|<ul><li>Análisis de texto</li></ul> |<ul><li>Pres. 08, librería NLTK</li><li>Pres. 09, librería spaCy</li></ul> |__P.D.__ |
+|11| 2023-10-25|<ul><li>Calificación proyecto EDA</li><li>Librería para *scrape* del web</li></ul> |<ul><li>Revisión de calificaciones proy. EDA</li><li>Observaciones generales de proy. intermedio EDA</li><li>Pres. 07, librería(s) para hacer *scrape* en web</li><li>[Act. 17 • Facebook scraper](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/17_FB_first_scrape.ipynb)</li></ul> |[Ver Issue #92](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/92) |
+|12| 2023-11-01|<ul><li>Análisis de texto</li></ul> |<ul><li>Pres. 08, librería NLTK</li><li>Pres. 09, librería spaCy</li><li>[Act. 18 • Herramientas de texto](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/18_Text_tools.ipynb)</li><li>[Act. 19 • Análisis de texto](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/19_Text_analysis.ipynb)</li></ul> |__P.D.__ |
 |13| 2023-11-08|<ul><li>Guía proyecto final</li><li>Mapas en Python</li></ul> |<ul><li>Pres. 10, GeoPandas</li><li>Pres. 11, Folium</li><li>[Guía para proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final)</li></ul> |__P.D.__ |
 |14| 2023-11-15|<ul><li>Seguimiento a proyecto final</li><li>Uso de ChatGPT</li></ul> |<ul><li>Pres. 12, ChatGPT</li><li>Dudas y comentarios sobre proyecto final</li></ul>|__P.D.__ |
 |15| 2023-11-22|<ul><li>Seguimiento a proyecto final</li></ul> |<ul><li>Dudas y comentarios sobre proyecto final</li></ul> |__P.D.__ |
 |16| 2023-11-29|<ul><li>Cierre de curso</li></ul> |<ul><li>Compartir observaciones de proyecto final</li><li>Revisión de actividades para [puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/README.md#calificaciones)</li><li>Observaciones generales de proy. final</li><li>Calificación final del curso</li><li>Encuesta de cierre del curso</li></ul> |__P.D.__ |
-
 
 *Nota: el acrónimo __P.D.__ significa "por definir" y __N/A__ es "no aplica".*
 
 *Nota 2: este es un calendario de actividades tentativo, el cual podría tener cambios en función de las necesidades y desarrollo del curso. De llevarse a cabo el calendario propuesto sin interrupciones o atrasos, el curso acabaría en la sesión 15.*
 
 [Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2023-2024) para revisar el calendario oficial de la UDG del ciclo escolar 2023-B..
+
 
 ### Links relevantes
 __Canales principales__
@@ -133,6 +136,7 @@ __Material extendido__
 - [Papers y artículos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material)
 
 Para mayor detalle de la bibliografía del curso, revisar el documento de [`Referencias.md`](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Referencias.md).
+
 
 ## Organización de carpetas
     ├── actividades             <- Carpeta con actividades y material para el curso.
