@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-10-25**
+Última actualización al: **2023-10-26**
 
 <br>
 
@@ -140,7 +140,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 ### Seguimiento de actividades:
 
-|ID. UDG|NOMBRE|ACT 02 <br>*GitHub user*|ACT 06<br>*1er Repo*|ACT 08<br>*Git-GitHub*|ACT 09<br>*Conflicts*|ACT 10<br>*GitHub Fork*|ACT 11<br>*Repo Structure*|ACT 13<br>*Webpage*|ACT 15<br>*Branch & Pull request*|PROMEDIO|
+|ID. UDG|NOMBRE|ACT 02 <br>*Registro GitHub*|ACT 06<br>*1º Repo*|ACT 08<br>*Git & GitHub*|ACT 09<br>*Conflicts*|ACT 10<br>*Fork*|ACT 11<br>*Repo Structure*|ACT 14<br>*Webpage*|ACT 15<br>*Branch & pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |222980378|JORGE ARTURO HERRERA RAMIREZ|100|100|100|100|100|100|0|0|__75__|
 |222980386|DANIEL ISITA ASCENCIO|100|80|100|100|100|100|0|0|__72.5__|
@@ -209,20 +209,21 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|222980378|JORGE ARTURO HERRERA RAMIREZ|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|222980386|DANIEL ISITA ASCENCIO|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|214509127|REYNA VIVIANA JARAMILLO FLORES|1|1|1|1|0|1|1|0|0|0|0|0|0|0|0|0|
-|222980297|LARISA IRENE LOPEZ PAYAN|1|1|1|1|0|1|1|0|0|0|0|0|0|0|0|0|
-|222980335|MIGUEL ANGEL LOPEZ ROJAS|0|1|1|0|0|1|1|0|0|0|0|0|0|0|0|0|
-|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|209538895|GUSTAVO MENDOZA NAVARRO|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|222980327|LEONARDO DANIEL PANTOJA MORFIN|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|222980246|JOSE MIGUEL RAMIREZ GALAN|1|0|1|1|0|0|1|0|0|0|0|0|0|0|0|0|
-|222980262|ROBERTO CARLOS RAMIREZ RAMOS|1|1|1|1|0|1|1|0|0|0|0|0|0|0|0|0|
-|222980351|CESAR KEVIN ROMERO HEREDIA|1|1|1|1|1|0|1|0|0|0|0|0|0|0|0|0|
-|302386283|JOSUE SANCHEZ ACOSTA|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|222980343|VICTOR TELLEZ GARCIA|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
-|222980289|YUKIE TESHIBA ZUBIETA|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|
+|222980378|JORGE ARTURO HERRERA RAMIREZ|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980386|DANIEL ISITA ASCENCIO|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|214509127|REYNA VIVIANA JARAMILLO FLORES|1|1|1|1|0|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980297|LARISA IRENE LOPEZ PAYAN|1|1|1|1|0|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980335|MIGUEL ANGEL LOPEZ ROJAS|0|1|1|0|0|1|1|0|N/A|1|0|0|0|0|0|0|
+|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|209538895|GUSTAVO MENDOZA NAVARRO|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980327|LEONARDO DANIEL PANTOJA MORFIN|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980246|JOSE MIGUEL RAMIREZ GALAN|1|0|1|1|0|1|1|1|N/A|0|0|0|0|0|0|0|
+|222980262|ROBERTO CARLOS RAMIREZ RAMOS|1|1|1|1|0|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980351|CESAR KEVIN ROMERO HEREDIA|1|1|1|1|1|0|1|1|N/A|1|0|0|0|0|0|0|
+|302386283|JOSUE SANCHEZ ACOSTA|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980343|VICTOR TELLEZ GARCIA|1|1|1|1|1|1|1|1|N/A|1|1|0|0|0|0|0|
+|222980289|YUKIE TESHIBA ZUBIETA|1|1|1|1|1|1|1|1|N/A|1|0|0|0|0|0|0|
+
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase. *
 
