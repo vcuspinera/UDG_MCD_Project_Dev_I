@@ -108,7 +108,7 @@ El material y actividades por clase se enlistan a continuación:
 
 *Nota: el acrónimo __P.D.__ significa "por definir" y __N/A__ es "no aplica".*
 
-*Nota 2: este es un calendario de actividades tentativo, el cual podría tener cambios en función de las necesidades y desarrollo del curso. De llevarse a cabo el calendario propuesto sin interrupciones o atrasos, el curso acabaría en la sesión 15.*
+*Nota 2: este es un calendario de actividades tentativo, el cual podría tener cambios en función de las necesidades y desarrollo del curso.*
 
 [Dar click aquí](http://www.escolar.udg.mx/calendario-escolar/calendario-escolar-para-centros-universitarios-2023-2024) para revisar el calendario oficial de la UDG del ciclo escolar 2023-B..
 
