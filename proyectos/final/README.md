@@ -2,8 +2,6 @@
 
 En este documento se comparten las instrucciones para desarrollar en equipo el proyecto final del curso.
 
-# *NOTA: LA INFORMACIÓN PRESENTADA A CONTINUACIÓN SE BASA EN LAS BASES DEL PROYECTO FINAL DE SEMESTRES PASADOS, POR LO QUE PODRÍA VARIAR PARA EL SEMESTRE DE OTOÑO 2023.*
-
 ## ⚙️ Generalidades
 El **proyecto de evaluación final** marca el cierre de la materia de _Desarrollo de Proyectos I_, el cual se desarrollará **en equipo** y tendrá un valor del **30 %** sobre la calificación final.
 
@@ -13,11 +11,11 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 | No. Equipo | Integrantes | Repositorio del proy. final |
 |:----------:|:------------|:----------------------------|
-|Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |
-|Pendiente |Pendiente |Pendiente |
+|Pendiente   |Pendiente    |Pendiente                    |
+|Pendiente   |Pendiente    |Pendiente                    |
+|Pendiente   |Pendiente    |Pendiente                    |
+|Pendiente   |Pendiente    |Pendiente                    |
+|Pendiente   |Pendiente    |Pendiente                    |
 
 ## 🛠 Actividad a desarrollar
 
@@ -25,15 +23,15 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 - El análisis deberá realizarse en un *Jupyter Notebook* y considerar al menos **3 de los siguientes puntos** revisados durante la segunda parte del curso:
 
 1. Mostrar **visualizaciones interactivas** usando **Altair**.
-2. Consultar información de **redes sociales usando un scraper**.
-3. Hacer **preprocesamiento o análisis** de texto utilizando **string methods, regex, spaCy y/o NLTK**.
+2. Consultar información de **redes sociales** y/o en el **web** usando un **scraper**.
+3. Hacer **preprocesamiento o análisis** de texto utilizando **string methods, regex, spaCy** y/o **NLTK**.
 4. Utilizar herramientas de análisis de texto como **n-grams**, **wordclouds** y/o **análisis de sentimiento**.
-5. Usar **geopandas** u otras librerías para análisis visual con **mapas y/o información georreferenciada**.
-6. Realizar análisis con herramientas de librería **scikit-learn**.
+5. Desarrollar mapas en Python con  **GeoPandas** o **Folium**.
+6. Usar herramientas de **ChatGPT** en Python.
 
 Notas:
   - Se podrá escoger la base de datos de forma libre.
-  - Se recomienda usar la base de datos que alguno de los integrantes del equipo utilice para su proyecto de tesis.
+  - Se recomienda usar la base de datos que alguno de los integrantes del equipo utilice para su tesis.
 
 
 ### Repositorio en GitHub
@@ -76,7 +74,7 @@ Su proyecto lo deberán compartir a través alguno(s) de las siguientes opciones
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **FECHA PENDIENTE POR DEFINIR**.
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **el viernes 24 de noviembre de 2023**.
 
 
 ## ❗️ Contribuciones
