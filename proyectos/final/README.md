@@ -14,7 +14,7 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 |01 |1️⃣CESAR KEVIN ROMERO HEREDIA <br> 2️⃣GUSTAVO MENDOZA NAVARRO <br> 3️⃣MIGUEL ANGEL LOPEZ ROJAS| PENDIENTE |
 |02 |1️⃣DANIEL ISITA ASCENCIO <br> 2️⃣LEONARDO DANIEL PANTOJA MORFIN <br> 3️⃣LARISA IRENE LOPEZ PAYAN | PENDIENTE |
 |03 |1️⃣REYNA VIVIANA JARAMILLO FLORES <br> 2️⃣ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA <br> 3️⃣JORGE ARTURO HERRERA RAMIREZ | [Extracción y análisis de comentarios de productos en Amazon](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1) |
-|04 |1️⃣YUKIE TESHIBA ZUBIETA <br> 2️⃣JOSE MIGUEL RAMIREZ GALAN <br> 3️⃣JOSUE SANCHEZ ACOSTA | [PENDIENTE](https://github.com/UrsuzEremita/Proyecto_final.git) |
+|04 |1️⃣YUKIE TESHIBA ZUBIETA <br> 2️⃣JOSE MIGUEL RAMIREZ GALAN <br> 3️⃣JOSUE SANCHEZ ACOSTA | (https://github.com/UrsuzEremita/Proyecto_final.git) |
 |05 |1️⃣VICTOR TELLEZ GARCIA<br>2️⃣ROBERTO CARLOS RAMIREZ RAMOS | PENDIENTE |
 
 ## 🛠 Actividad a desarrollar
