@@ -11,7 +11,7 @@ En la siguiente tabla los equipos deberán de añadir el link del repositorio qu
 
 | No. Equipo | Integrantes | Repositorio del proy. final |
 |:----------:|:------------|:----------------------------|
-|01 |1️⃣CESAR KEVIN ROMERO HEREDIA <br> 2️⃣GUSTAVO MENDOZA NAVARRO <br> 3️⃣MIGUEL ANGEL LOPEZ ROJAS| PENDIENTE |
+|01 |1️⃣CESAR KEVIN ROMERO HEREDIA <br> 2️⃣GUSTAVO MENDOZA NAVARRO <br> 3️⃣MIGUEL ANGEL LOPEZ ROJAS| [Análisis de Tickets de Soporte](https://github.com/GustMdz/Support_Ticket) |
 |02 |1️⃣DANIEL ISITA ASCENCIO <br> 2️⃣LEONARDO DANIEL PANTOJA MORFIN <br> 3️⃣LARISA IRENE LOPEZ PAYAN | [Using Data Science tools in a Mexican Company](https://github.com/LeonardoDPantoja/Final_Project.git) |
 |03 |1️⃣REYNA VIVIANA JARAMILLO FLORES <br> 2️⃣ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA <br> 3️⃣JORGE ARTURO HERRERA RAMIREZ | [Extracción y análisis de comentarios de productos en Amazon](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1) |
 |04 |1️⃣YUKIE TESHIBA ZUBIETA <br> 2️⃣JOSE MIGUEL RAMIREZ GALAN <br> 3️⃣JOSUE SANCHEZ ACOSTA | [Análisis Agronómico de la Producción de Berries en México](https://github.com/UrsuzEremita/Proyecto_final.git) |
