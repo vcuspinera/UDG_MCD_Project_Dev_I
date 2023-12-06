@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2023-12-04**
+Última actualización al: **2023-12-06**
 
 <br>
 
@@ -82,7 +82,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |222980297|LARISA IRENE LOPEZ PAYAN|20|19.1|10|16.2|29|0|__94.3__|
 |222980335|MIGUEL ANGEL LOPEZ ROJAS|20|8.7|3.8|17.9|28.5|0|__78.9__|
 |210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|20|19.5|10|19.5|29.6|0|__98.5__|
-|209538895|GUSTAVO MENDOZA NAVARRO|20|19.3|10|19.5|28.5|0|__97.3__|
+|209538895|GUSTAVO MENDOZA NAVARRO|20|19.3|10|19.5|28.5|5|__100__|
 |222980327|LEONARDO DANIEL PANTOJA MORFIN|20|19.1|10|18.1|29|0|__96.1__|
 |222980246|JOSE MIGUEL RAMIREZ GALAN|16|19.3|6|18.7|28.5|10|__98.5__|
 |222980262|ROBERTO CARLOS RAMIREZ RAMOS|20|20|10|20|30|0|__100__|
@@ -198,8 +198,8 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 |ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
 |:---:|:---|:---|:---|
-|222980246 |JOSE MIGUEL RAMIREZ GALAN |2 actividades |Evento como ponente de "El poder del Storytelling en la visualización de datos" en el TechFest Cucea en noviembre 2023, y actividad de voluntariado como profesor de la materia "Métodos Matemáticos para el Análisis de Datos" de la MCD de UDG.
- |
+|222980246 |JOSE MIGUEL RAMIREZ GALAN |2 actividades |Evento como ponente de "El poder del Storytelling en la visualización de datos" en el TechFest Cucea en noviembre 2023, y actividad de voluntariado como profesor de la materia "Métodos Matemáticos para el Análisis de Datos" de la MCD de UDG.|
+|209538895|GUSTAVO MENDOZA NAVARRO|Evento|Evento como asistente a "Webinar Spanish LATAM: Why migrate from a relational database to MongoDB?"|
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 75%** en el “Total” de la Evaluación General.
 

@@ -74,7 +74,7 @@ Su proyecto lo deberán compartir a través alguno(s) de las siguientes opciones
 
 
 ## 📅 Deadline
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **el viernes 24 de noviembre de 2023**.
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **el domingo 26 de noviembre de 2023 a las 11:59 p.m.**.
 
 
 ## ❗️ Contribuciones
