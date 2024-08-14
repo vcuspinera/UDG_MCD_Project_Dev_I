@@ -13,15 +13,15 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 
 ### Curso
 
-|Nombre | Desarrollo de Proyectos I |
+|Nombre | Desarrollo de Proyecto I - Grupo 1|
 |:----:|:----:|
 |Clave |IH601 | 
-|CRN   |176459 | 
-|Ciclo escolar |2023-B (otoño) | 
-|Inicio - fin | 14/08/2023 - 08/12/2023|
-|Horario |Miércoles de 18:00 a 21:00 hr. | 
+|NRC   |176459 | 
+|Ciclo escolar |2024-B (otoño) | 
+|Inicio - fin | 14/08/2024 - 08/12/2024|
+|Horario |Miércoles de 18:00 a 20:55 horas | 
 |Medio |Virtual | 
-|Liga a la clase |[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/89566540361) |
+|Liga a la clase |[Click aquí para unirse a clase por Zoom](https://udg-mx.zoom.us/j/87447313047) |
 
 
 ### Profesor
@@ -34,24 +34,11 @@ Cualquier duda, aclaración o comentario sobre el material de este repositorio p
 
 
 ### Alumnos
-Lista de alumnos del ciclo escolar otoño 2023.
+Lista de alumnos del ciclo escolar otoño 2024.
 
 |    |Id. UDG |Nombre |e-mail |GitHub user| 
 |---:|:----:|:----:|:----:|:-----:|
-| 01|222980378|JORGE ARTURO HERRERA RAMIREZ|[jorge.herrera8037@alumnos.udg.mx](mailto:jorge.herrera8037@alumnos.udg.mx)| [jorgeherrerar](https://github.com/jorgeherrerar)|
-| 02|222980386|DANIEL ISITA ASCENCIO|[isita.daniel@gmail.com](mailto:isita.daniel@gmail.com)| [disita](https://github.com/disita)|
-| 03|214509127|REYNA VIVIANA JARAMILLO FLORES|[reyna.jaramillo0912@alumnos.udg.mx](mailto:reyna.jaramillo0912@alumnos.udg.mx)| [ReynaViviana](https://github.com/ReynaViviana)|
-| 04|222980297|LARISA IRENE LOPEZ PAYAN|[larisa.lopez8029@alumnos.udg.mx](mailto:larisa.lopez8029@alumnos.udg.mx)| [LLop8029](https://github.com/LLop8029)|
-| 05|222980335|MIGUEL ANGEL LOPEZ ROJAS|[miguel.lopez8033@alumnos.udg.mx](mailto:miguel.lopez8033@alumnos.udg.mx)| [miguelrojas1990](https://github.com/miguelrojas1990)|
-| 06|210229944|ALEJANDRO NATHANAEL MARTIN DE CAMPO BARBA|[alejandro.martindelcampo2994@alumnos.udg.mx](mailto:alejandro.martindelcampo2994@alumnos.udg.mx)| [Alejandro-Tecno](https://github.com/Alejandro-Tecno)|
-| 07|209538895|GUSTAVO MENDOZA NAVARRO|[gustavo.mendoza3889@alumnos.udg.mx](mailto:gustavo.mendoza3889@alumnos.udg.mx)| [GustMdz](https://github.com/GustMdz)|
-| 08|222980327|LEONARDO DANIEL PANTOJA MORFIN|[leonardo.pantoja8032@alumnos.udg.mx](mailto:leonardo.pantoja8032@alumnos.udg.mx)| [LeonardoDPantoja](https://github.com/LeonardoDPantoja)|
-| 09|222980246|JOSE MIGUEL RAMIREZ GALAN|[jose.ramirez8024@alumnos.udg.mx](mailto:jose.ramirez8024@alumnos.udg.mx)| [MIguelC137](https://github.com/MIguelC137)|
-| 10|222980262|ROBERTO CARLOS RAMIREZ RAMOS|[roberto.ramirez8026@alumnos.udg.mx](mailto:roberto.ramirez8026@alumnos.udg.mx)| [robrmz](https://github.com/robrmz)|
-| 11|222980351|CESAR KEVIN ROMERO HEREDIA|[cesar.romero8035@alumnos.udg.mx](mailto:cesar.romero8035@alumnos.udg.mx)| [kromero4708](https://github.com/kromero4708)|
-| 12|302386283|JOSUE SANCHEZ ACOSTA|[ursuzfolivora@gmail.com](mailto:ursuzfolivora@gmail.com)| [UrsuzEremita](https://github.com/UrsuzEremita)|
-| 13|222980343|VICTOR TELLEZ GARCIA|[victor.tellez8034@alumnos.udg.mx](mailto:victor.tellez8034@alumnos.udg.mx)| [victortg95](https://github.com/victortg95)|
-| 14|222980289|YUKIE TESHIBA ZUBIETA|[yukie.teshiba8028@alumnos.udg.mx](mailto:yukie.teshiba8028@alumnos.udg.mx)| [YukieTZ](https://github.com/YukieTZ)|
+| PENDIENTE|PENDIENTE|PENDIENTE|PENDIENTE| PENDIENTE|
 
 
 ## Evaluación
@@ -61,12 +48,12 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 ## ✏️ Evaluación general
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
-|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material, papers, artículos, librerías de Python, capítulos de libros, etc.*| 20%|
-|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| 20%|
-|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 10%|
-|4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediados de semestre.*| 20%|
+|1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material, papers, artículos, librerías de Python, capítulos de libros, etc.*| PENDIENTE %|
+|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| PENDIENTE %|
+|3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| PENDIENTE %|
+|4| [Proyecto intermedio](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediados de semestre.*| PENDIENTE %|
 |5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre del curso.*| 30%|
-| |**Total**| **100%**|
+| |**Total**| **PENDIENTE %**|
 
 
 ## ⭐️ [Puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/Puntos_extras.md)
@@ -77,7 +64,7 @@ Para la evaluación existen dos componentes, para más detalles sobre la evaluac
 |C| [Voluntariado](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/Puntos_extras.md#c-voluntariado) <br> *Participación comprobable como voluntario en Omdena, ONU, Data Science for Social Good, entre otros.*|5%|
 |D| [Eventos](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/grades/Puntos_extras.md#d-eventos) <br> *Participación comprobable en eventos relacionados con Ciencia de Datos como 'Hackathon', congresos y conferencias.*|5%|
 
-⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un máximo acumulado de 20% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 75% en la evaluación general.*
+⚠️ *Nota: Se pueden participar más de una vez en cualquiera de los rubros de puntos extra, con un máximo acumulado de 10% adicional sobre la evaluación general. Para tener acceso a los puntos extras necesitas una calificación mayor o igual a 80% en la evaluación general.*
 
 ## Material del curso
 Esta es una vista general sobre el material del curso, para mayor detalle revisar los links correspondientes.
@@ -86,6 +73,8 @@ Esta es una vista general sobre el material del curso, para mayor detalle revisa
 ### Actividades 
 
 El material y actividades por clase se enlistan a continuación:
+
+#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
 
 |# | Fecha| Tema | Material y/o actividad |Act. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
@@ -114,10 +103,13 @@ El material y actividades por clase se enlistan a continuación:
 
 
 ### Links relevantes
+
+#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
+
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)
-- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-21cox7cnl-JZxtNvWTHwUxNW9BIDviZw)
-- [Dropbox](https://www.dropbox.com/scl/fo/u24wh4ndgo9932xjhu6ii/h?rlkey=b2lswh6l9n0xvan3cbs9phe3r&dl=0) con archivos complementarios: videos de clase, presentaciones de alumnos y papers/artículos/libros de gran tamaño.
+- [Canal de comunicación Slack](https://join.slack.com/t/udgmcddesarro-gtp5577/shared_invite/zt-2ozmny3s0-QzH4Ym_nv2Yfm3xPyKzMDQ)
+- [Dropbox](https://www.dropbox.com/scl/fo/vhpnnwbck2t89w6xggcv0/h?rlkey=b2lswh6l9n0xvan3cbs9phe3r&st=s6z2f7yv&dl=0) con archivos complementarios: videos de clase, presentaciones de alumnos y papers/artículos/libros de gran tamaño.
 
 __Material base__
 - [Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)
@@ -139,6 +131,7 @@ Para mayor detalle de la bibliografía del curso, revisar el documento de [`Refe
 
 
 ## Organización de carpetas
+### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
     ├── actividades             <- Carpeta con actividades y material para el curso.
     │   ├── data                <- Descripción de carpeta.
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
