@@ -74,11 +74,11 @@ Esta es una vista general sobre el material del curso, para mayor detalle revisa
 
 El material y actividades por clase se enlistan a continuación:
 
-#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
+#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBIARÁN.
 
 |# | Fecha| Tema | Material y/o actividad |Act. pendientes|
 |---:|:---:|:----|:-----------------------|:---------------------|
-|01| 2023-08-16|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/02_GitHub_registro.md)</li></ul>| [Ver Issue #74](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/74) |
+|01| 2023-08-16|  <ul><li>Introducción</li><li>Registro en GitHub</li></ul> | <ul><li>[Contenido de la materia](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)</li><li>[Presentación del repositorio en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)</li><li>[Act. 01 • Herramientas de Data Science](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/01_Herramientas.md)</li><li>[Act. 02 • Registro en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/02_GitHub_registro.md)</li><li>[Quiz 00, examen diagnóstico](https://forms.office.com/r/WxNxD6X9FY)</li></ul>| [Ver Issue #74](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/74) |
 |02| 2023-08-23|<ul><li>Básicos</li></ul>| <ul><li>[Act. 03 • Primer encuentro con GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/03_GitHub_overview.md)</li><li>[Act. 04 • Interfaz de usuario](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/04_Shell_basics.md)</li><li>[Act. 05 • Markdown](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/05_Markdown_basics.md)</li><li>[Asignación de equipos: 1º ronda presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/src/asignar_present_1.ipynb)</li></ul>| [Ver Issue #76](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/76) |
 |03| 2023-08-30|<ul><li>Pasado, presente y futuro de *Data Science*</li><li>Primer repo en GitHub</li></ul>|<ul><li>[Pres. 01, paper "50 years of Data Science"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/01%2050%20Years%20of%20Data%20Science.pdf)</li><li>[Act. 06 • Crear primer repo en GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/06_GitHub_firstie.md)</li><li>[Quiz 01](https://forms.office.com/r/L4QFxj8751)</li></ul>|[Ver Issue #81](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/81) |
 |04| 2023-09-06|<ul><li>Control de versiones</li><li>Instalar y configurar Git</li><li>Conectando Git y GitHub</li></ul>|<ul><li>[Pres. 02, paper "Excuse me, do you have a moment to talk about version control?"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/material/02%20A%20moment%20for%20Versioning%20Control.pdf)</li><li>[Act. 07 • Git install and config](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/07_Git_install.md)</li><li>[Act. 08 • Git & GitHub connection](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md)</li><li>[Quiz 02](https://forms.office.com/r/nmviRJ4v1M)</li></ul>|[Ver Issue #82](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/82)|
@@ -104,7 +104,7 @@ El material y actividades por clase se enlistan a continuación:
 
 ### Links relevantes
 
-#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
+#### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBIARÁN.
 
 __Canales principales__
 - [Repositorio de GitHub](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I)
@@ -131,7 +131,7 @@ Para mayor detalle de la bibliografía del curso, revisar el documento de [`Refe
 
 
 ## Organización de carpetas
-### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBAIRÁN.
+### ⚠️ EL MATERIAL AQUI PRESENTADO CORRESPONDE AL QUE SE LLEVÓ EN OTOÑO 2023 Y, DADO QUE SE PIENSA AJUSTAR, ESTE MATERIAL Y LAS ACTIVIDADES CAMBIARÁN.
     ├── actividades             <- Carpeta con actividades y material para el curso.
     │   ├── data                <- Descripción de carpeta.
     │   ├── img                 <- Carpeta con imágenes para el material compartido.  
