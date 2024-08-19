@@ -18,8 +18,8 @@ En el [temario del curso](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/bl
 
 ### Consideraciones para ser acreedores a puntos extras
 - Se pueden participar más de una vez en cualquiera de los rubros de puntos extra (A, B, C y D), y por cada participación podrá ser acreedor hasta un 5% adicional sobre la evaluación final.
-- Máximos puntos extras a obtener: 20% adicional a la evaluación general.
-- Para tener acceso a los puntos extras se necesita una calificación de al menos 75% en el `Total` de la evaluación general ([revisar puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)).
+- Máximos puntos extras a obtener: 10% adicional a la evaluación general.
+- Para tener acceso a los puntos extras se necesita una calificación de al menos 80% en el `Total` de la evaluación general ([revisar puntos extras](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/Contenido_IH601.pdf)).
 
 ## (A) Proyectos personales de ciencia de datos
 Su inspiración puede venir de hobbies, deportes, música, familia, pláticas, experiencia laboral o académica. Para tener estos puntos además de realizar el proyecto se deberá divulgarlo en GitHub, LinkedIn, redes sociales u otro canal.
@@ -73,19 +73,17 @@ Plataforma que busca apoyar organizaciones de bienestar social con proyectos. Lo
 ## (D) Eventos
 Otra manera de aprender, obtener experiencia y desarrollar un portafolio de proyectos es participando eventos relacionados con Ciencia de Datos como competencias y *hackathones*, congresos y conferencias. Entre los más famosos *hackathones* están los de [Kaggle](https://www.kaggle.com/competitions) y [Driven Data](https://www.drivendata.org/competitions/). Por otro lado, algunas instituciones organizan o patrocinan *hackathones* a manera de reclutamiento como Google, IBM, BBVA, CitiBanamex, Grupo Modelo, entre muchos otros.
 
-### Próximos eventos
-Para quienes estén interesados, les comparto algunos próximos eventos que identifiqué:
-- [Explorando análisis de datos y AI en producción LATAM](https://www.latam-ai.com) por Latam AI.
+### Ejemplo de eventos
+A manera de referencia, algunos eventos y *hackathones* pasados organizados en México son:
 - Hackathon [Hack Mty](https://hackmty.com) por Tec de Monterrey.
 - [Jalisco Talented Land Digital 2024](https://www.talent-land.mx/en/home/) por el Gobierno de Jalisco.
-
-Recomiendo que estén atentos y revisen constantemente nuevos eventos que se anuncien.
-
-Por otro lado, a manera de referencia, algunos *hackathones* pasados organizados en México son:
+- [Explorando análisis de datos y AI en producción LATAM](https://www.latam-ai.com) por Latam AI.
 - [Ocean Hackathon 8 México 2023](https://www.campusmer.fr/cities-mexico-city-4377-10-0-0.html) por IFAL.
 - [Hackathon BBVA 2022](https://www.bbvaspark.com/contenido/es/eventos/hackathon-bbva-2022/) por banco BBVA.
 - [Breweing Data Cup 2020](https://www.facebook.com/brewingdatacup/) por Grupo Modelo.
 - [Talent Hackathon](https://hackathon.talent-network.org) por Talentnetwork.
+
+Recomiendo que estén atentos y revisen constantemente nuevos eventos que se anuncien.
 
 ### Ventajas y desventajas
 - __Ventajas__ aprender mucho en corto tiempo.
