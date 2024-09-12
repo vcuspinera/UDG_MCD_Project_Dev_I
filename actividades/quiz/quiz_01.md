@@ -112,6 +112,10 @@ Respuesta correcta:
 
 ```
 # Yellow Submarine
+alternativa:
+Yellow Submarine  
+===  
+
 *The Beatles* (alternativa: _The Beatles_)
 
 In the town where I was born  
@@ -129,3 +133,28 @@ In our ~yellow submarine~
 3. We all live in a yellow submarine
 4. Yellow submarine, yellow submarine
 ```
+
+Así se ve:
+
+# Yellow Submarine
+alternativa:  
+Yellow Submarine  
+===  
+
+*The Beatles* (alternativa: _The Beatles_)
+
+In the town where I was born
+Lived a man who sailed the sea
+And he told us of his life
+**In the land of submarines** (alternativa: __In the land of submarines__)
+
+So we sailed up to the Sun  
+Till we found the sea of green  
+And we lived beneath the waves  
+In our ~yellow submarine~
+
+1. We all live in a yellow submarine
+2. Yellow submarine, yellow submarine
+3. We all live in a yellow submarine
+4. Yellow submarine, yellow submarine
+
