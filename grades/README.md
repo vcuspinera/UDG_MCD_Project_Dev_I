@@ -18,7 +18,7 @@ Para la evaluación existen dos componentes:
 |#|Descripción| Porcentaje|
 |---|:---|:---:|
 |1| [Presentaciones](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#1-presentaciones)<br>*Exposición de alumnos sobre el material, papers, artículos, librerías de Python, capítulos de libros, etc.*| 30%|
-|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| 30%|
+|2| [Quizes](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#2-quizes-de-lecturas)<br>*Control de lecturas del material, papers, artículos, librerías de Python, capítulos de libros.*| 10%|
 |3| [Actividades](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#3-seguimiento-de-actividades)<br>*Replicar actividades vistas en clase.*| 10%|
 |4| [Proyecto de análisis EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#4-proyecto-de-análisis-eda)<br>*Proyecto corto a mediados de semestre.*| 20%|
 |5| [Proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/grades#5-proyecto-final)<br>*Proyecto integral al cierre del curso.*| 30%|
@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2024-08-18**
+Última actualización al: **2024-09-30**
 
 <br>
 
@@ -74,11 +74,17 @@ Se comparte el resumen de calificaciones considerando los puntos acumulados por 
 ### Calificación final 
 Se comparten las calificaciones acumuladas del curso, a la fecha de actualización.
 
-#### ⚠️ SECCIÓN PENDIENTE
-
 |ID.|NOMBRE|PRESENTACIONES<br>(20%)|QUIZES<br>(20%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|PENDIENTE | | | | | | | |
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|20|6.5|2.5|0|0|0|__29__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|20|6.4|2.5|0|0|0|__28.9__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|20|6.5|2.5|0|0|0|__29__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|20|6.5|2.5|0|0|0|__29__|
+|323019043|OSCAR FERNANDO FLORES GARCIA|10|1.7|1.3|0|0|0|__12.9__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|20|6|2.5|0|0|0|__28.5__|
+|216910473|EYDER URIEL KINIL CERVERA|10|6.2|2.5|0|0|0|__18.7__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|20|6.4|2.5|0|0|0|__28.9__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|10|6.6|2.5|0|0|0|__19.1__|
 
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 80% en el “Total” de la Evaluación General.
@@ -86,36 +92,56 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 <br>
 
 ## Desgloce de calificaciones
-#### ⚠️ SECCIÓN PENDIENTE
 
 ### Presentaciones de alumnos:
-|ID. |NOMBRE|PRES 1|PRES 2|PROMEDIO|
-|:---|:---|---:|---:|---:|
-|PENDIENTE | | | | |
+|ID. |NOMBRE|PRES inicial tesis| PRES 1|PRES 2|PROMEDIO|
+|:---|:---|---:|---:|---:|---:|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|100|100|0|__66.7__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|100|100|0|__66.7__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|100|100|0|__66.7__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|100|100|0|__66.7__|
+|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|__33.3__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|0|__66.7__|
+|216910473|EYDER URIEL KINIL CERVERA|100|0|0|__33.3__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|100|100|0|__66.7__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|0|0|__33.3__|
 
 
 ### Quizes de lecturas:
-#### ⚠️ SECCIÓN PENDIENTE
 
 |ID. UDG|NOMBRE|QUIZ 00| 01| 02| 03| 04| 05| ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|
-|PENDIENTE | | | | | | | | | |
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|100|96.7|94.1|100|0|0|0|__65.1__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|100|91.7|90.3|100|0|0|0|__63.7__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|100|91.7|100|100|0|0|0|__65.3__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|100|98.3|94.1|100|0|0|0|__65.4__|
+|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|0|0|0|0|__16.7__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|86.7|84.4|88.9|0|0|0|__60__|
+|216910473|EYDER URIEL KINIL CERVERA|100|93.3|78.5|100|0|0|0|__62__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|100|83.3|100|100|0|0|0|__63.9__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|100|94.1|100|0|0|0|__65.7__|
 
 ⚠️ *__Nota__: Para el QUIZ 00 y la ENCUESTA FINAL sólo se calificará su completez. La calificación final de quizes corresponde al promedio de los quizes y encuestas, eliminando el quiz con menor calificación del alumno.*
 
 
 ### Seguimiento de actividades:
-#### ⚠️ SECCIÓN PENDIENTE
 
 |ID. UDG|NOMBRE|ACT 02 <br>*Registro GitHub*|ACT 06<br>*1º Repo*|ACT 08<br>*Git & GitHub*|ACT 09<br>*Conflicts*|ACT 10<br>*Fork*|ACT 11<br>*Repo Structure*|ACT 14<br>*Webpage*|ACT 15<br>*Branch & pull request*|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|PENDIENTE | | | | | | | | | | |
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|100|100|0|0|0|0|0|0|__25__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|100|100|0|0|0|0|0|0|__25__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|100|100|0|0|0|0|0|0|__25__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|100|100|0|0|0|0|0|0|__25__|
+|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|0|0|0|0|0|__12.5__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|0|0|0|0|0|0|__25__|
+|216910473|EYDER URIEL KINIL CERVERA|100|100|0|0|0|0|0|0|__25__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|100|100|0|0|0|0|0|0|__25__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|100|0|0|0|0|0|0|__25__|
 
 ⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificárselo al profesor para que se actualice la calificación de esta sección.*
 
 
 ### Proyecto de análisis EDA:
-#### ⚠️ SECCIÓN PENDIENTE
 
 Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/eda).
 
@@ -126,7 +152,6 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 
 
 ### Proyecto final:
-#### ⚠️ SECCIÓN PENDIENTE
 
 |No. EQUIPO|INTEGRANTES EQUIPO|PROYECTO|Analisis en Jupyter<br>(30%)|Markdown resultados<br>(20%)|Repo en GitHub<br>(20%)|Compartir link<br>(10%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización deadline<br>( - 20%)|CALIF.|
 |:---:|:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|
@@ -135,11 +160,10 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final).
 
 ## Puntos extras:
-#### ⚠️ SECCIÓN PENDIENTE
 
 |ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
 |:---:|:---|:---|:---|
-| | | |
+|PENDIENTE | | |
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 75%** en el “Total” de la Evaluación General.
 
@@ -147,11 +171,18 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 
 ## Asistencia
-#### ⚠️ SECCIÓN PENDIENTE
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|PENDIENTE | |0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|323019043|OSCAR FERNANDO FLORES GARCIA|1|1|1|0|0|N/A|0|0|0|0|0|0|0|0|0|0|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|216910473|EYDER URIEL KINIL CERVERA|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|210674077|JOSE LUIS MEDRANO MEDRANO|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|1|1|1|1|1|N/A|1|0|0|0|0|0|0|0|0|0|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase. La asistencia se contabilizó principalmente en función de los QUIZES (controles de lectura).*
 
