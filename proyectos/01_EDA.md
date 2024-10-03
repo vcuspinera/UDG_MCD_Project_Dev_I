@@ -52,17 +52,17 @@ En este documento se comparten las instrucciones para desarrollar el proyecto in
 
 ### 2. Análisis
 - **2.1.** Cada alumno deberá utilizar una base de datos relacionada con su tema de tesis:
-  - Pueden utilizar la base de datos de su tesis si ya tienen esta información y no tienen problema con compartirla.  
-  - En caso contrario:  
-    - pueden utilizar una base de datos relacionada con su tema de tesis (recomiendo ver la sección "1. Fuentes de datos" de la actividad [13•Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/13_EDA.ipynb) para tener ideas sobre distintas bases de datos que podría utilizar), o  
-    - utilizar información sintética con un ejemplo de la estructura de la base de datos que esperan usar en su tesis.  
+>  - Pueden utilizar la base de datos de su tesis si ya tienen esta información y no tienen problema con compartirla.  
+>  - En caso contrario:  
+>    - pueden utilizar una base de datos relacionada con su tema de tesis (recomiendo ver la sección "1. Fuentes de datos" de la actividad [13•Análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/13_EDA.ipynb) para tener ideas sobre distintas bases de datos que podría utilizar), o  
+>    - utilizar información sintética con un ejemplo de la estructura de la base de datos que esperan usar en su tesis.  
 
 - **2.2.** El análisis EDA deberá realizarse en un *Jupyter Notebook* y considerar los siguientes puntos:
-  - Descripción de los datos.
-  - Limpieza de datos.
-  - *Missing values*.
-  - Visualización de datos.
-  - Referencias.
+>  - Descripción de los datos
+>  - Limpieza de datos
+>  - *Missing values*
+>  - Visualización de datos
+>  - Referencias
   
 
 ### 3. Difusión de proyecto
@@ -94,7 +94,7 @@ Las actividades y su detalle mencionado en la sección `Actividad a desarrollar`
 
 ## 📅 Deadline
 
-La fecha límite de entrega es el __*sábado 19 de octubre de 2024, a las 11:59 p.m.*__.  
+La fecha límite de entrega es el __*domingo 20 de octubre de 2024, a las 11:59 p.m.*__  
 
 
 ## 🔍 Forma de calificar
