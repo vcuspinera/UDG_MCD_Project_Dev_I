@@ -11,7 +11,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por nombre 
 |:-------:|:--------------------------------|:-----------------------------------------------------|:--------------------------|
 |323019027|HUGO FERNANDO ABARCA JIMENEZ     | [Fabarcajim](https://github.com/Fabarcajim)          | Pendiente |
 |323018942|FERNANDO ARTURO AREVALO PEREZ    | [FernandoA182](https://github.com/FernandoA182)      | Pendiente |
-|323018977|CRISTIAN ULISES BARENCA SOTELO   | [CBarenca](https://github.com/CBarenca)              | Pendiente |
+|323018977|CRISTIAN ULISES BARENCA SOTELO   | [CBarenca](https://github.com/CBarenca)              | [Aplicación Web para Consulta de la Evaluación Docente](https://github.com/CBarenca/Aplicacion-Web-para-Consulta-de-la-Evaluacion-Docente/)|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA   | [edd885](https://github.com/edd885)                  | Pendiente |
 |323019043|OSCAR FERNANDO FLORES GARCIA     | [fernandofloresg](https://github.com/fernandofloresg)| Pendiente |
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ | [CarmenH23](https://github.com/CarmenH23)            | Pendiente |
