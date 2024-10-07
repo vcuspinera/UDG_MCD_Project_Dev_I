@@ -16,7 +16,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por nombre 
 |323019043|OSCAR FERNANDO FLORES GARCIA     | [fernandofloresg](https://github.com/fernandofloresg)| Pendiente |
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ | [CarmenH23](https://github.com/CarmenH23)            | Pendiente |
 |216910473|EYDER URIEL KINIL CERVERA        | [Heyder07](https://github.com/Heyder07)              | Pendiente |
-|210674077|JOSE LUIS MEDRANO MEDRANO        | [Jolmed26](https://github.com/Jolmed26)              | Pendiente |
+|210674077|JOSE LUIS MEDRANO MEDRANO        | [Jolmed26](https://github.com/Jolmed26)              | [Predicción de Rotación de Personal](https://github.com/Jolmed26/PrediccionRotacionPersonal) |
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ      | [OctavioMendoza](https://github.com/OctavioMendoza)  | Pendiente |
 
 
