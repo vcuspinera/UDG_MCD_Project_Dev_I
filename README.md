@@ -131,24 +131,22 @@ Para mayor detalle de la bibliografía del curso, revisar el documento de [`Refe
 
 
 ## Organización de carpetas
-    ├── actividades             <- Carpeta con actividades y material para el curso.
-    │   ├── data                <- Descripción de carpeta.
-    │   ├── img                 <- Carpeta con imágenes para el material compartido.  
-    │   ├── keys                <- Carpeta con detalle para obtener llaves de Twitter API.
-    │   ├── material            <- Carpeta con material para el curso, papers, artículos, etc.
-    │   ├── presentaciones      <- Carpeta para subir presentaciones del curso.    
-    │   ├── src                 <- Carpeta con programas y código.
-    │   └── ##_nombre-actividad <- Actividades, donde ## representan dos dígitos para el número
-    │                              consecutivo de la actividad, seguido por su nombre.
+    ├── actividades                <- Carpeta con actividades y material para el curso.
+    │   ├── data                   <- Descripción de carpeta.
+    │   ├── img                    <- Carpeta con imágenes para el material compartido.  
+    │   ├── keys                   <- Carpeta con detalle para obtener llaves de Twitter API.
+    │   ├── material               <- Carpeta con material para el curso, papers, artículos, etc.
+    │   ├── presentaciones         <- Carpeta para subir presentaciones del curso.    
+    │   ├── src                    <- Carpeta con programas y código.
+    │   └── ##_actividad.md/.ipynb <- Actividades revisadas durante las clases.
     │
-    ├── grades                  <- Carpeta con calificaciones del curso.
-    │   └── Puntos_extras.md    <- Detalle sobre actividades para ganar puntos extras.
+    ├── grades                     <- Carpeta con calificaciones del curso.
+    │   └── Puntos_extras.md       <- Detalle sobre actividades para ganar puntos extras.
     │
-    ├── proyectos               <- Carpeta con proyectos del curso.
-    │   ├── eda                 <- Carpeta para proyecto de análisis exploratorio de datos.
-    │   └── final               <- Carpeta para proyecto final de la materia.
+    ├── proyectos                  <- Carpeta con proyectos del curso.
+    │   ├── 01_EDA.md              <- Guía del proyecto intermedio de análisis exploratorio de datos.
+    │   └── 02_Final.md            <- Guía del proyecto final.
     │
-    ├── Contenido_IH601.pdf     <- Contenido temático de la materia.
-    ├── README.md               <- Readme-file principal con presentación del proyecto.
-    ├── LICENSE                 <- Licencia del material del repositorio.
-    └── Referencias.md          <- Bibliografía y referencias del curso.
+    ├── README.md                  <- Readme-file principal con presentación del proyecto.
+    ├── LICENSE                    <- Licencia del material del repositorio.
+    └── Referencias.md             <- Bibliografía y referencias del curso.

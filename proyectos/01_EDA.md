@@ -38,7 +38,8 @@ En este documento se comparten las instrucciones para desarrollar el proyecto in
 >  - archivos de licencia, forma de citar y contribución  
 
 - **1.3.** En la carpeta `doc` incluir:
->  - un archivo de markdown con el avance de lo que hayan realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología) que ya hayan realizado.
+>  - ⚠️⚠️⚠️NO REALIZAR⚠️⚠️⚠️ ~~un archivo de markdown con el avance de lo que hayan realizado sobre los capítulos 1 (introducción), 2 (marco teórico) y 3 (metodología) que ya hayan realizado.~~
+>  - ⚠️⚠️⚠️NUEVO⚠️⚠️⚠️ archivo `README.md` con descripción general de su tesis donde se incluya en 1 o 2 párrafos: (i) la problemática, (ii) el objetivo y (iii) justificación o relevancia.
 
 - **1.4.** En la carpeta `data` incluir:
 >  - la base de datos que utilizará para el análisis EDA del proyecto y en el `README.md` de esta carpeta una descripción general de esta información.
@@ -82,7 +83,7 @@ Las actividades y su detalle mencionado en la sección `Actividad a desarrollar`
 
 >  - 1.1. README file de carpeta raíz  
 >  - 1.2. Estructura recomendada de un repositorio  
->  - 1.3. En `doc` compartir el avance de los cap. 1, 2 y 3  
+>  - 1.3. En `doc` compartir ~~el avance de los cap. 1, 2 y 3~~ la descripción general de su tesis  
 >  - 1.4. En `data` la base de datos a utilizar  
 >  - 1.5. En `src` el notebook con el análisis EDA
 >  - 1.6. En `results` los resultados del análisis realizado
