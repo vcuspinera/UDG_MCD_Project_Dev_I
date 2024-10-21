@@ -14,7 +14,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por nombre 
 |323018977|CRISTIAN ULISES BARENCA SOTELO   | [CBarenca](https://github.com/CBarenca)              | [Aplicación Web para Consulta de la Evaluación Docente](https://github.com/CBarenca/Aplicacion-Web-para-Consulta-de-la-Evaluacion-Docente/)|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA   | [edd885](https://github.com/edd885)                  | [Tecnicas ML análisis de resultados de laboratorio](https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio.git)|
 |323019043|OSCAR FERNANDO FLORES GARCIA     | [fernandofloresg](https://github.com/fernandofloresg)| Pendiente |
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ | [CarmenH23](https://github.com/CarmenH23)            | Pendiente |
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ | [CarmenH23](https://github.com/CarmenH23)            | Perfiles-de-Pacientes-COVID-19- | https://github.com/CarmenH23/Perfiles-de-Pacientes-COVID-19-.git |
 |216910473|EYDER URIEL KINIL CERVERA        | [Heyder07](https://github.com/Heyder07)              | [Caracterizacion_de_Perfiles_de_Carga_Electrica](https://github.com/Heyder07/Caracterizacion_de_perfiles_de_carga_electrica)|
 |210674077|JOSE LUIS MEDRANO MEDRANO        | [Jolmed26](https://github.com/Jolmed26)              | [Predicción de Rotación de Personal](https://github.com/Jolmed26/PrediccionRotacionPersonal) |
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ      | [OctavioMendoza](https://github.com/OctavioMendoza)  | [Estudio de la Deserción en el TecMM Chapala](https://github.com/OctavioMendoza/Estudio-de-la-Desercion-en-el-TecMM-Chapala)|
