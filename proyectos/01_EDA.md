@@ -12,7 +12,7 @@ En la siguiente tabla **deberán de sustituir la palabra "Pendiente" por nombre 
 |323019027|HUGO FERNANDO ABARCA JIMENEZ     | [Fabarcajim](https://github.com/Fabarcajim)          | [Modelo de visualización, identificación y reconocimiento de armas de fuego.](https://github.com/Fabarcajim/Modelo_De_Visualizacion_Identificacion_y_Reconocimiento_de_armas_de_fuego.git)|
 |323018942|FERNANDO ARTURO AREVALO PEREZ    | [FernandoA182](https://github.com/FernandoA182)      | [Asistente Financiero Inteligente](https://github.com/FernandoA182/AFI)|
 |323018977|CRISTIAN ULISES BARENCA SOTELO   | [CBarenca](https://github.com/CBarenca)              | [Aplicación Web para Consulta de la Evaluación Docente](https://github.com/CBarenca/Aplicacion-Web-para-Consulta-de-la-Evaluacion-Docente/)|
-|323018926|EDUARDO CARLOS FLETES ARECHIGA   | [edd885](https://github.com/edd885)                  | Pendiente |
+|323018926|EDUARDO CARLOS FLETES ARECHIGA   | [edd885](https://github.com/edd885)                  | [Técnicas ML en análisis de resultados de laboratorio] (https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/tree/main)
 |323019043|OSCAR FERNANDO FLORES GARCIA     | [fernandofloresg](https://github.com/fernandofloresg)| Pendiente |
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ | [CarmenH23](https://github.com/CarmenH23)            | Pendiente |
 |216910473|EYDER URIEL KINIL CERVERA        | [Heyder07](https://github.com/Heyder07)              | Pendiente |
