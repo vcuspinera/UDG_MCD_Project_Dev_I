@@ -1,4 +1,4 @@
-# 15 • Trabajando en equipo en GitHub
+# 14 • Trabajando en equipo en GitHub
 *Uso de pull requests y branches para el trabajo en equipo en GitHub*
 
 Git es una herramienta utilizada para trabajar de forma local (en equipo propio) el sistema de control de versiones, y GitHub de forma remota (web). Revisaremos el uso de pull requests y branches para el trabajo en equipo en GitHub.
