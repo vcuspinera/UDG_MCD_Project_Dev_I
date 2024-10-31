@@ -1,10 +1,10 @@
 <img src="actividades/img/logo_slack.png" width="160" align = "right">
 
-# Desarrollo de proyectos I
-_Material for the course Project Development  I (Desarrollo de proyectos I) of the Master of Data Science at Universidad de Guadalajara._  
+# Desarrollo de proyecto I
+_Material for the course Project Development  I (Desarrollo de proyecto I) of the Master of Data Science at Universidad de Guadalajara._  
 _⚠️ Note: the material of this repository would be shared mainly in Spanish._
 
-En este repositorio se compartirá material para los alumnos del curso _Desarrollo de Proyectos I_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, administración de control de versiones y trabajo colaborativo.
+En este repositorio se compartirá material para los alumnos del curso _Desarrollo de Proyecto I_ de la _Maestría en Ciencia de los Datos (MCD)_ de la Universidad de Guadalajara (UDG). Además, este repositorio servirá a los alumnos para aprender a utilizar GitHub y Git como una herramienta de almacenamiento, administración de control de versiones y trabajo colaborativo.
 
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -96,7 +96,7 @@ El material y actividades por clase se enlistan a continuación:
 |11| 2024-10-23|<ul><li>Revisión de proyecto intermedio, p.1</li></ul> |<ul><li>Revisión de proyecto intermedio presentado por los alumnos, 6 de 8 alumnos.</li></ul>| [Ver Issue #121](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/121)|
 |12| 2024-10-30|<ul><li>Revisión de proyecto intermedio, p.2</li></ul> |<ul><li>Revisión de proyecto intermedio presentado por los alumnos, 2 alumnos restantes.</li><li>[Asignación de equipos 2º ronda presentaciones (librerías Python)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/123)</li></ul>| [Ver Issue #124](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/issues/124)|
 |13| 2024-11-06|<ul><li>Librerías spaCy y Web Scraping</li></ul> |<ul><li>Librería **spaCy** para análisis de texto 📝</li><li>Librerías de **Web Scraping** (p.ej. BeautifulSoup, Scrapy, Selenium) 🔎</li></ul>| PENDIENTE|
-|14| 2024-11-13|<ul><li>Librerías PDF reader con Python y Streamlit</li></ul> |<ul><li>Librería para **leer PDF con Python** (p.ej. PyPDF2) 📚</li><li>Librería **Streamlit** 🧑🏻‍💻</li></ul>| PENDIENTE|
+|14| 2024-11-13|<ul><li>Librerías PDF reader con Python y Streamlit</li></ul> |<ul><li>Librería para **leer PDF con Python** (p.ej. PyPDF2) 📚</li><li>Librería **Streamlit** 🧑🏻‍💻</li><li>Guía para proyecto final</li></ul>| PENDIENTE|
 |15| 2024-11-20|<ul><li>PENDIENTE</li></ul> |<ul><li>PENDIENTE</li></ul>| PENDIENTE|
 |16| 2024-11-27|<ul><li>PENDIENTE</li></ul> |<ul><li>PENDIENTE</li></ul>| PENDIENTE|
 |17| 2024-12-04|<ul><li>PENDIENTE</li></ul> |<ul><li>PENDIENTE</li></ul>| PENDIENTE|
