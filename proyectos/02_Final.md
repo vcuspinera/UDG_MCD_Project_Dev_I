@@ -27,7 +27,7 @@ En este documento se comparten las instrucciones para desarrollar el proyecto fi
 
 >  - Cada grupo deberá elegir el repositorio del **proyecto intermedio** de UNO de los DOS integrantes del equipo.
 >  - Este repositorio deberá tener la estructura recomenda en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material).
->  - Atender los comentarios realizados por el profesor sobre el **proyecto intermedio** en un *Issue* del repositorio relacionados con la estructura del repositorio y la ortografía (🔥 no realizar correcciones del análisis EDA).
+>  - Revisar la ortografía.
 
 - **1.2.** Archivo `README.md` en la carpeta raíz con:  
 
@@ -88,7 +88,7 @@ Las actividades y su detalle mencionado en la sección `Actividad a desarrollar`
 
 1. Repositorio en GitHub
 
->  - 1.1 Atender comentarios del proyecto intermedio sobre la estructura del repositorio y la ortografía  
+>  - 1.1. Estructura del repositorio y la ortografía  
 >  - 1.2. Actualizar README file de carpeta raíz  
 >  - 1.3. Estructura recomendada de un repositorio  
 >  - 1.4. En `src` el notebook con el análisis final  
@@ -102,6 +102,4 @@ Las actividades y su detalle mencionado en la sección `Actividad a desarrollar`
 
 5. Difusión del proyecto
 
-6. Ortografía y claridad de los resultados
-
-7. Respetar el *deadline*
+6. Respetar el *deadline*
