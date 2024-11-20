@@ -62,19 +62,19 @@ En este documento se comparten las instrucciones para desarrollar el proyecto fi
 - **4.1.** Cada alumno deberá dar retroalimentación a un equipo, dando **2 RECOMENDACIONES** sobre el análisis final o la estructura del repositorio, a través de en un *Issue* en el repositorio a comentar.
 
 | No. equipo que RECIBE comentarios | Alumnos que REALIZARÁN comentarios |
-|:---------:|:---:|
-| Equipo 01 | 1️⃣ JOSE LUIS MEDRANO MEDRANO y <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ |
-| Equipo 02 | 1️⃣ EDUARDO CARLOS FLETES ARECHIGA y <br>2️⃣ CRISTIAN ULISES BARENCA SOTEL |
-| Equipo 03 | 1️⃣ EYDER URIEL KINIL CERVERA y <br>2️⃣ MARIA DEL CARMEN HERRERA JIMENEZ |
-| Equipo 04 | 1️⃣ FERNANDO ARTURO AREVALO PEREZ y <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ |
+|:---------:|:--------|
+| Equipo 01 | 1️⃣ JOSE LUIS MEDRANO MEDRANO <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ |
+| Equipo 02 | 1️⃣ EDUARDO CARLOS FLETES ARECHIGA <br>2️⃣ CRISTIAN ULISES BARENCA SOTEL |
+| Equipo 03 | 1️⃣ EYDER URIEL KINIL CERVERA <br>2️⃣ MARIA DEL CARMEN HERRERA JIMENEZ |
+| Equipo 04 | 1️⃣ FERNANDO ARTURO AREVALO PEREZ <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ |
 
 ### 5. Difusión de proyecto 🕷️
 
 - **5.1.** Su proyecto lo deberán compartir a través alguna(s) de las siguientes opciones de difusión:
 
-> - Redes sociales de ámbito profesional: LinkedIn, X (antes Twitter), Mastodon (⚠️ no se aceptará redes sociales como Facebook, Whatsapp o Instagram).  
-> - Revistas de ciencia de datos; por ejemplo, [Towards Data Science](https://towardsdatascience.com), [Analytics Vidhya](https://www.analyticsvidhya.com) o [Medium](https://medium.com).  
-> - Canales para compartir análisis, modelos o datos, como [Kaggle](https://www.kaggle.com) o [Hugging Face](https://huggingface.co).  
+>  - Redes sociales de ámbito profesional: LinkedIn, X (antes Twitter), Mastodon (⚠️ no se aceptará redes sociales como Facebook, Whatsapp o Instagram).  
+>  - Revistas de ciencia de datos; por ejemplo, [Towards Data Science](https://towardsdatascience.com), [Analytics Vidhya](https://www.analyticsvidhya.com) o [Medium](https://medium.com).  
+>  - Canales para compartir análisis, modelos o datos, como [Kaggle](https://www.kaggle.com) o [Hugging Face](https://huggingface.co).  
 
 - **5.2.** Agregar un *issue* en el repositorio del proyecto con la liga hacia la publicación donde se realizó la difusión.
 
@@ -88,13 +88,13 @@ Las actividades y su detalle mencionado en la sección `Actividad a desarrollar`
 
 1. Repositorio en GitHub
 
->  - 1.1 Atender comenatarios sobre la estructura del repositorio y la ortografía del proyecto intermedio  
+>  - 1.1 Atender comentarios del proyecto intermedio sobre la estructura del repositorio y la ortografía  
 >  - 1.2. Actualizar README file de carpeta raíz  
 >  - 1.3. Estructura recomendada de un repositorio  
 >  - 1.4. En `src` el notebook con el análisis final  
 >  - 1.5. En `results` los resultados del análisis realizado  
 
-2. Análisis final considerando 2 de las 6 herramientas revisadas durante la segunda parte del semestre
+2. Análisis final considerando **2 de las 6 herramientas** revisadas durante la segunda parte del semestre
 
 3. Participación de ambos compañeros del equipo en el proyecto  
 
