@@ -1,0 +1,11 @@
+marca,ano,modelo,transmision,kilometraje,version,cuantos_choques_a_tenido,numero_puertas,precio
+Tesla,2023,Model S,Automatica,12000,Long Range,0,4,115000
+Tesla,2023,Model X,Automatica,8000,Performance,0,2,120000
+Tesla,2022,Model 3,Automatica,30000,Standard Range,1,4,45000
+Tesla,2021,Model Y,Automatica,15000,Long Range,1,2,60000
+Tesla,2021,Model S,Automatica,35000,Performance,2,4,95000
+Tesla,2020,Model X,Automatica,60000,Long Range,1,2,75000
+Tesla,2019,Model S,Automatica,90000,Standard Range,3,4,60000
+Tesla,2020,Model Y,Automatica,45000,Standard Range,0,2,58000
+Tesla,2022,Model 3,Automatica,10000,Performance,0,4,50000
+Tesla,2022,Model X,Automatica,12000,Long Range,0,2,98000
