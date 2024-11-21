@@ -26,13 +26,13 @@ En este documento se comparten las instrucciones para desarrollar el proyecto fi
 - **1.1.** Generales:  
 
 >  - Cada grupo deberá elegir el repositorio del **proyecto intermedio** de UNO de los DOS integrantes del equipo.
->  - Este repositorio deberá tener la estructura recomenda en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material).
+>  - Este repositorio deberá tener la estructura recomendada en el paper ["Good Enough Practices in Scientific Computing"](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/actividades/material).
 >  - Revisar la ortografía.
 
 - **1.2.** Archivo `README.md` en la carpeta raíz con:  
 
 > - Añadir una sección sobre los **resultados del proyecto final** (recomiendo que sea entre los "resultados del análisis EDA" y "estructura del repositorio).
-> - Actualziar la "estructura del repositorio".
+> - Actualizar la "estructura del repositorio".
 
 - **1.3.** En la carpeta `src` incluir:
 
@@ -48,10 +48,10 @@ En este documento se comparten las instrucciones para desarrollar el proyecto fi
 
 >  - 1. Mostrar **visualizaciones interactivas** usando *Altair*.  
 >  - 2. Consultar información usando **web scrapers** como *BeautifulSoup, Scrapy o Selenium*.  
->  - 3. Hacer **preprocesamiento o análisis** de texto utilizndo *spaCy, NLTK, string methods* o *regex*.  
+>  - 3. Hacer **preprocesamiento o análisis** de texto utilizando *spaCy, NLTK, string methods* o *regex*.  
 >  - 4. Utilizar herramientas de **análisis de texto** para presentar *n-gramas, wordclouds* o *análisis de sentimiento*.  
 >  - 5. Leer **documentos en PDF** con Python, usando librerías como *PyPDF2*.  
->  - 6. Utilizar *Streamlit* para realizar **app dinamicas** relacionada con el proyecto.
+>  - 6. Utilizar *Streamlit* para realizar una **App dinámica** relacionada con el proyecto.
 
 ### 3. Trabajo en equipo ⚽️
 
@@ -80,7 +80,7 @@ En este documento se comparten las instrucciones para desarrollar el proyecto fi
 
 ## 📅 Deadline
 
-La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **el sábado, 30 de noviembre de 2024, a las 11:59 p.m.**.
+La fecha límite para generar el repositorio del proyecto, subir el análisis y resultados a GitHub es **el domingo, 1 de diciembre de 2024, al medio día**.
 
 ## 📚 Entregables y puntos a calificar:
 
