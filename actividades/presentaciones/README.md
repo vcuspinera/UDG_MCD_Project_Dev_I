@@ -6,3 +6,4 @@ Además, en esta carpeta se comparten presentaciones y Jupyter notebooks de las 
 - `BeautifulSoup` y `Selenium`, notebooks con ejemplos para realziar *Web scraping*.
 - `spaCy`, la presentación y notebook se encuentran en el repositorio [EXPOSICIONspaCy](https://github.com/FernandoA182/EXPOSICIONspaCy).
 - `NLTK` (*Natural Language Toolkit*), presentaciones presentada por alumnos del ciclo escolar 2023-B, a manera de referencia.
+- `PyPDF`, el notebook de exploración de extracción y manejo de texto de la película Joker se encuentra en [JOKERanalysis]([(https://github.com/edd885/python_pdf_interaction)]).https://github.com/edd885/python_pdf_interaction
