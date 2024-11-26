@@ -13,7 +13,7 @@ En la siguiente tabla **deberán de sustituir la palabra "PENDIENTE" por el nomb
 | No. equipo | Equipo  | Repositorio del proy. EDA |
 |:----------:|:--------|:--------------------------|
 |01| 1️⃣ FERNANDO ARTURO AREVALO PEREZ <br>2️⃣ MARIA DEL CARMEN HERRERA JIMENEZ | PENDIENTE |
-|02| 1️⃣ JOSE LUIS MEDRANO MEDRANO <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ | PENDIENTE |
+|02| 1️⃣ JOSE LUIS MEDRANO MEDRANO <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ | [Rotación de personal](https://github.com/Jolmed26/PrediccionRotacionPersonal) |
 |03| 1️⃣ EDUARDO CARLOS FLETES ARECHIGA <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ | PENDIENTE |
 |04| 1️⃣ EYDER URIEL KINIL CERVERA <br>2️⃣ CRISTIAN ULISES BARENCA SOTEL | PENDIENTE |
 
