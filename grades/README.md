@@ -65,7 +65,7 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2024-11-27**
+Última actualización al: **2024-11-28**
 
 <br>
 
@@ -78,15 +78,15 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 |ID.|NOMBRE|PRESENTACIONES<br>(30%)|QUIZES<br>(10%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|323019027|HUGO FERNANDO ABARCA JIMENEZ|30|9.8|10|18.9|0|0|__68.7__|
-|323018942|FERNANDO ARTURO AREVALO PEREZ|30|9.6|10|19.4|0|0|__69.0__|
-|323018977|CRISTIAN ULISES BARENCA SOTELO|30|9.8|10|19.8|0|0|__69.6__|
-|323018926|EDUARDO CARLOS FLETES ARECHIGA|30|9.8|7.9|19.9|0|0|__67.6__|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|30|9.9|10|18.9|0|0|__68.8__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|30|9.8|10|19.4|0|0|__69.2__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|30|10|10|19.8|0|0|__69.8__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|30|10|7.9|19.9|0|0|__67.7__|
 |323019043|OSCAR FERNANDO FLORES GARCIA|10|2|1.4|0|0|0|__13.4__|
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|30|7.2|9.1|19.2|0|0|__65.5__|
-|216910473|EYDER URIEL KINIL CERVERA|30|9.4|8.6|19.4|0|0|__67.4__|
-|210674077|JOSE LUIS MEDRANO MEDRANO|30|9.7|10|20|0|0|__69.7__|
-|091420465|CARLOS OCTAVIO MENDOZA RUIZ|30|9.9|10|17.6|0|0|__67.5__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|30|9.2|9.1|19.2|0|0|__67.5__|
+|216910473|EYDER URIEL KINIL CERVERA|30|9.9|8.6|19.4|0|0|__67.8__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|30|10|10|20|0|0|__70.0__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|30|10|10|17.6|0|0|__67.6__|
 
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 80% en el “Total” de la Evaluación General.
@@ -113,15 +113,15 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 |ID. UDG|NOMBRE|QUIZ 00| 01| 02| 03| 04| ENCUESTA FINAL|PROMEDIO|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|
-|323019027|HUGO FERNANDO ABARCA JIMENEZ|100|96.7|94.1|100|100|0|__98.2__|
-|323018942|FERNANDO ARTURO AREVALO PEREZ|100|91.7|90.3|100|100|0|__96.4__|
-|323018977|CRISTIAN ULISES BARENCA SOTELO|100|91.7|100|100|100|0|__98.3__|
-|323018926|EDUARDO CARLOS FLETES ARECHIGA|100|98.3|94.1|100|100|0|__98.5__|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|100|96.7|94.1|100|100|100|__99.3__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|100|91.7|90.3|100|100|100|__98.3__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|100|91.7|100|100|100|100|__100__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|100|98.3|94.1|100|100|100|__99.7__|
 |323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|0|0|0|__20.0__|
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|86.7|84.4|88.9|0|0|__72.0__|
-|216910473|EYDER URIEL KINIL CERVERA|100|93.3|78.5|100|100|0|__94.4__|
-|210674077|JOSE LUIS MEDRANO MEDRANO|100|83.3|100|100|100|0|__96.7__|
-|091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|100|94.1|100|100|0|__98.8__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|86.7|84.4|88.9|0|100|__92.0__|
+|216910473|EYDER URIEL KINIL CERVERA|100|93.3|78.5|100|100|100|__98.7__|
+|210674077|JOSE LUIS MEDRANO MEDRANO|100|83.3|100|100|100|100|__100__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|100|94.1|100|100|100|__100__|
 
 ⚠️ *__Nota__: Para el QUIZ 00 y la ENCUESTA FINAL sólo se calificará su completez. La calificación final de quizes corresponde al promedio de los quizes y encuestas, eliminando el quiz con menor calificación del alumno.*
 
@@ -143,7 +143,7 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 ⚠️ *__Nota__: Los alumnos podrán realizar las actividades que tienen pendientes, y posteriormente habrá que notificárselo al profesor para que se actualice la calificación de esta sección.*
 
 
-### Proyecto de análisis EDA:
+### Proyecto de análisis intermedio EDA:
 
 Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto intermedio de análisis exploratorio de datos (EDA)](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/eda).
 
@@ -153,7 +153,7 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |323018942|FERNANDO ARTURO AREVALO PEREZ|100|97|95|100|0|__96.8__|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|100|99|98|100|0|__98.8__|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|100|99|100|100|0|__99.6__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|0|0|0|0|0|__0__|
+|323019043|OSCAR FERNANDO FLORES GARCIA|0|0|0|0|0|__0.0__|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|90|100|0|__96.0__|
 |216910473|EYDER URIEL KINIL CERVERA|100|97|95|100|0|__96.8__|
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|100|100|100|0|__100__|
@@ -177,7 +177,7 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 |ID. UDG|NOMBRE|ACTIVIDAD|DESCRIPCIÓN|
 |:---:|:---|:---|:---|
-|323019027|HUGO FERNANDO ABARCA JIMENEZ|||
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|2 actividades|Certificado de cursos (1) "MÓDULO II. Aprendizaje profundo (DL) para la mejora de la enseñanza aplicado a la Ciencia de Datos", (2) "Databricks y Apache Spark para Big Data: d e cero a experto"|
 |323018942|FERNANDO ARTURO AREVALO PEREZ|3 actividades|Actividades realizadas: (1) certificado de curso "Databricks y Apache Spark para Big Data: d e cero a experto", (2) Hackaton de USI Global, y (3) proyecto personal de difusión de Ciencia de Datos de TikTok|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|2 actividades|Participó como ponente en dos charlas relacionadas con Ciencia de Datos con alumnos de la Universidad de Colima|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|4 o + actividades|Certificado de cursos (1) "CURSO DE INTRODUCCIÓN A AWS: CÓMPUTO, ALMACENAMIENTO Y BASES DE DATOS", (2) "CURSO DE INTRODUCCIÓN AAWS: REDES, GOBERNANZA Y MACHINE LEARNING", (3) "CURSO PRÁCTICO DE AWS: ROLES Y SEGURIDAD CONIAM", (4) "CURSO DE INTRODUCCIÓN A AWS: FUNDAMENTOS DEL CLOUD COMPUTING", (5) "Databricks y Apache Spark para Big Data: d e cero a experto", (6) "Data Science Orientation"|
@@ -186,6 +186,7 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 |216910473|EYDER URIEL KINIL CERVERA|Curso|Certificado de curso "Databricks y Apache Spark para Big Data: de cero a experto"|
 |210674077|JOSE LUIS MEDRANO MEDRANO|Curso|Certificado de curso "Databricks y Apache Spark para Big Data: de cero a experto"|
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ|2 actividades|Certificado de cursos (1) "Fundamentos de IA Generativa por Microsoft", (2) "Databricks y Apache Spark para Big Data: d e cero a experto"|
+
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 80%** en el “Total” de la Evaluación General.
 
@@ -198,15 +199,15 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 
 |ID. |NOMBRE|CLASE: 01| 02| 03| 04| 05| 06| 07| 08| 09| 10| 11| 12| 13| 14| 15| 16|
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|323019027|HUGO FERNANDO ABARCA JIMENEZ|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
-|323018942|FERNANDO ARTURO AREVALO PEREZ|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
-|323018977|CRISTIAN ULISES BARENCA SOTELO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
-|323018926|EDUARDO CARLOS FLETES ARECHIGA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
+|323018942|FERNANDO ARTURO AREVALO PEREZ|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
+|323018977|CRISTIAN ULISES BARENCA SOTELO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|0|
 |323019043|OSCAR FERNANDO FLORES GARCIA|1|1|1|0|0|N/A|0|0|0|0|0|0|N/A|0|0|0|
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|1|1|1|1|1|N/A|1|0|1|1|1|1|N/A|1|0|0|
-|216910473|EYDER URIEL KINIL CERVERA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
-|210674077|JOSE LUIS MEDRANO MEDRANO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|0|0|
-|091420465|CARLOS OCTAVIO MENDOZA RUIZ|1|1|1|1|1|N/A|1|1|1|1|0|1|N/A|1|0|0|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|1|1|1|1|1|N/A|1|0|1|1|1|1|N/A|1|1|1|
+|216910473|EYDER URIEL KINIL CERVERA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
+|210674077|JOSE LUIS MEDRANO MEDRANO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|0|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ|1|1|1|1|1|N/A|1|1|1|1|0|1|N/A|1|1|1|
 
 *__Nota__: el código **1** es "asistencia", **0** es "inasistencia", **N/A** es "no aplica" y se utiliza para los día en que no hubo clase. La asistencia se contabilizó principalmente en función de los QUIZES (controles de lectura).*
 
