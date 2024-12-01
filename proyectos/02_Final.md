@@ -14,7 +14,7 @@ En la siguiente tabla **deberán de sustituir la palabra "PENDIENTE" por el nomb
 |:----------:|:--------|:--------------------------|
 |01| 1️⃣ FERNANDO ARTURO AREVALO PEREZ <br>2️⃣ MARIA DEL CARMEN HERRERA JIMENEZ | PENDIENTE |
 |02| 1️⃣ JOSE LUIS MEDRANO MEDRANO <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ | [Rotación de personal](https://github.com/Jolmed26/PrediccionRotacionPersonal) |
-|03| 1️⃣ EDUARDO CARLOS FLETES ARECHIGA <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ | PENDIENTE |
+|03| 1️⃣ EDUARDO CARLOS FLETES ARECHIGA <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ |  [Analisis de examenes de laboratorio epigen](https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio.git) |
 |04| 1️⃣ EYDER URIEL KINIL CERVERA <br>2️⃣ CRISTIAN ULISES BARENCA SOTELO | [Caracterización de señales eléctricas (Electrical load profiling)](https://github.com/Heyder07/Caracterizacion_de_perfiles_de_carga_electrica)|
 
 ## 🛠 Actividad a desarrollar
