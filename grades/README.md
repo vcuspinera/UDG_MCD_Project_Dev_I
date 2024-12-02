@@ -78,15 +78,14 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 
 |ID.|NOMBRE|PRESENTACIONES<br>(30%)|QUIZES<br>(10%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-|323019027|HUGO FERNANDO ABARCA JIMENEZ|30|9.9|10|18.9|0|0|__68.8__|
-|323018942|FERNANDO ARTURO AREVALO PEREZ|30|9.8|10|19.4|0|0|__69.2__|
-|323018977|CRISTIAN ULISES BARENCA SOTELO|30|10|10|19.8|0|0|__69.8__|
-|323018926|EDUARDO CARLOS FLETES ARECHIGA|30|10|7.9|19.9|0|0|__67.7__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|10|2|1.4|0|0|0|__13.4__|
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|30|9.2|9.1|19.2|0|0|__67.5__|
-|216910473|EYDER URIEL KINIL CERVERA|30|9.9|8.6|19.4|0|0|__67.8__|
-|210674077|JOSE LUIS MEDRANO MEDRANO|30|10|10|20|0|0|__70.0__|
-|091420465|CARLOS OCTAVIO MENDOZA RUIZ|30|10|10|17.6|0|0|__67.6__|
+|323019027|HUGO FERNANDO ABARCA JIMENEZ     |30|9.9|10 |18.9|28.4|10|__100__|
+|323018942|FERNANDO ARTURO AREVALO PEREZ    |30|9.8|10 |19.4|27.6|10|__100__|
+|323018977|CRISTIAN ULISES BARENCA SOTELO   |30|10 |10 |19.8|30  |10|__100__|
+|323018926|EDUARDO CARLOS FLETES ARECHIGA   |30|10 |7.9|19.9|27.0|10|__100__|
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ |30|9.2|9.1|19.2|27.6|5 |__100__|
+|216910473|EYDER URIEL KINIL CERVERA        |30|9.9|8.6|19.4|30  |5 |__100__|
+|210674077|JOSE LUIS MEDRANO MEDRANO        |30|10 |10 |20  |28.4|5 |__100__|
+|091420465|CARLOS OCTAVIO MENDOZA RUIZ      |30|10 |10 |17.6|27.0|10|__100__|
 
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 80% en el “Total” de la Evaluación General.
@@ -102,7 +101,6 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |323018942|FERNANDO ARTURO AREVALO PEREZ|100|100|100|__100__|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|100|100|100|__100__|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|100|100|100|__100__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|__33.3__|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|100|__100__|
 |216910473|EYDER URIEL KINIL CERVERA|100|100|100|__100__|
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|100|100|__100__|
@@ -117,7 +115,6 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |323018942|FERNANDO ARTURO AREVALO PEREZ|100|91.7|90.3|100|100|100|__98.3__|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|100|91.7|100|100|100|100|__100__|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|100|98.3|94.1|100|100|100|__99.7__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|0|0|0|__20.0__|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|86.7|84.4|88.9|0|100|__92.0__|
 |216910473|EYDER URIEL KINIL CERVERA|100|93.3|78.5|100|100|100|__98.7__|
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|83.3|100|100|100|100|__100__|
@@ -134,7 +131,6 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |323018942|FERNANDO ARTURO AREVALO PEREZ|100|100|100|100|100|100|100|__100__|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|100|100|100|100|100|100|100|__100__|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|100|100|50|0|100|100|100|__78.6__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|100|0|0|0|0|0|0|__14.3__|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|100|100|50|85|100|__90.7__|
 |216910473|EYDER URIEL KINIL CERVERA|100|100|100|100|0|100|100|__85.7__|
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|100|100|100|100|100|100|__100__|
@@ -153,7 +149,6 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |323018942|FERNANDO ARTURO AREVALO PEREZ|100|97|95|100|0|__96.8__|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|100|99|98|100|0|__98.8__|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|100|99|100|100|0|__99.6__|
-|323019043|OSCAR FERNANDO FLORES GARCIA|0|0|0|0|0|__0.0__|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|100|100|90|100|0|__96.0__|
 |216910473|EYDER URIEL KINIL CERVERA|100|97|95|100|0|__96.8__|
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|100|100|100|0|__100__|
@@ -163,12 +158,16 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 
 ### Proyecto final:
 
-|No. EQUIPO|INTEGRANTES EQUIPO|PROYECTO|Analisis en Jupyter<br>(30%)|Markdown resultados<br>(10%)|Estructura de Repo<br>(20%)|Comentarios de pares<br>(20%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización deadline<br>( - 20%)|CALIF.|
-|:---:|:---|:---|---:|---:|---:|---:|---:|:---|:---|---:|
-|1| 1️⃣ FERNANDO ARTURO AREVALO PEREZ <br>2️⃣ MARIA DEL CARMEN HERRERA JIMENEZ |PENDIENTE 1|0|0|0|0|0|0|0|__0__|
-|2| 1️⃣ JOSE LUIS MEDRANO MEDRANO <br>2️⃣ HUGO FERNANDO ABARCA JIMENEZ |PENDIENTE 2|0|0|0|0|0|0|0|__0__|
-|3| 1️⃣ EDUARDO CARLOS FLETES ARECHIGA <br>2️⃣ CARLOS OCTAVIO MENDOZA RUIZ |PENDIENTE 3|0|0|0|0|0|0|0|__0__|
-|4| 1️⃣ EYDER URIEL KINIL CERVERA <br>2️⃣ CRISTIAN ULISES BARENCA SOTEL |PENDIENTE 4|0|0|0|0|0|0|0|__0__|
+|No. EQUIPO|ID. UDG|NOMBRE|PROYECTO|Analisis en Jupyter<br>(30%)|Markdown resultados<br>(10%)|Estructura de Repo<br>(20%)|Comentarios de pares<br>(20%)|Colaboración<br>(10%)|Divulgar proyecto<br>(10%)|Penalización deadline<br>( - 20%)|CALIF.|
+|:---:|:---:|:---:|:---|---:|---:|---:|---:|---:|:---|:---|---:|
+|2|323019027|HUGO FERNANDO ABARCA JIMENEZ|Rotación de personal|95|100|80|100|100|100|0|__94.5__|
+|1|323018942|FERNANDO ARTURO AREVALO PEREZ|Asistente Financiero Inteligente|90|100|75|100|100|100|0|__92.0__|
+|4|323018977|CRISTIAN ULISES BARENCA SOTELO|Caracterización de señales eléctricas (Electrical load profiling)|100|100|100|100|100|100|0|__100__|
+|3|323018926|EDUARDO CARLOS FLETES ARECHIGA|Analisis de examenes de laboratorio epigen|80|100|80|100|100|100|0|__90.0__|
+|1|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|Asistente Financiero Inteligente|90|100|75|100|100|100|0|__92.0__|
+|4|216910473|EYDER URIEL KINIL CERVERA|Caracterización de señales eléctricas (Electrical load profiling)|100|100|100|100|100|100|0|__100__|
+|2|210674077|JOSE LUIS MEDRANO MEDRANO|Rotación de personal|95|100|80|100|100|100|0|__94.5__|
+|3|091420465|CARLOS OCTAVIO MENDOZA RUIZ|Analisis de examenes de laboratorio epigen|80|100|80|100|100|100|0|__90.0__|
 
 Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final).
 
@@ -181,12 +180,10 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 |323018942|FERNANDO ARTURO AREVALO PEREZ|3 actividades|Actividades realizadas: (1) certificado de curso "Databricks y Apache Spark para Big Data: d e cero a experto", (2) Hackaton de USI Global, y (3) proyecto personal de difusión de Ciencia de Datos de TikTok|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|2 actividades|Participó como ponente en dos charlas relacionadas con Ciencia de Datos con alumnos de la Universidad de Colima|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|4 o + actividades|Certificado de cursos (1) "CURSO DE INTRODUCCIÓN A AWS: CÓMPUTO, ALMACENAMIENTO Y BASES DE DATOS", (2) "CURSO DE INTRODUCCIÓN AAWS: REDES, GOBERNANZA Y MACHINE LEARNING", (3) "CURSO PRÁCTICO DE AWS: ROLES Y SEGURIDAD CONIAM", (4) "CURSO DE INTRODUCCIÓN A AWS: FUNDAMENTOS DEL CLOUD COMPUTING", (5) "Databricks y Apache Spark para Big Data: d e cero a experto", (6) "Data Science Orientation"|
-|323019043|OSCAR FERNANDO FLORES GARCIA|||
-|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|||
+|208763291|MARIA DEL CARMEN HERRERA JIMENEZ|Curso|Certificado de curso "Databricks y Apache Spark para Big Data: de cero a experto"|
 |216910473|EYDER URIEL KINIL CERVERA|Curso|Certificado de curso "Databricks y Apache Spark para Big Data: de cero a experto"|
 |210674077|JOSE LUIS MEDRANO MEDRANO|Curso|Certificado de curso "Databricks y Apache Spark para Big Data: de cero a experto"|
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ|2 actividades|Certificado de cursos (1) "Fundamentos de IA Generativa por Microsoft", (2) "Databricks y Apache Spark para Big Data: d e cero a experto"|
-
 
 **Nota:** Para tener acceso a los puntos extras es necesario que el alumno tenga una calificación **mayor o igual a 80%** en el “Total” de la Evaluación General.
 
@@ -203,7 +200,6 @@ Proyecto final del curso realizado en equipo, los detalles sobre la forma de eva
 |323018942|FERNANDO ARTURO AREVALO PEREZ|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
 |323018977|CRISTIAN ULISES BARENCA SOTELO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
 |323018926|EDUARDO CARLOS FLETES ARECHIGA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|0|
-|323019043|OSCAR FERNANDO FLORES GARCIA|1|1|1|0|0|N/A|0|0|0|0|0|0|N/A|0|0|0|
 |208763291|MARIA DEL CARMEN HERRERA JIMENEZ|1|1|1|1|1|N/A|1|0|1|1|1|1|N/A|1|1|1|
 |216910473|EYDER URIEL KINIL CERVERA|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|1|
 |210674077|JOSE LUIS MEDRANO MEDRANO|1|1|1|1|1|N/A|1|1|1|1|1|1|N/A|1|1|0|
