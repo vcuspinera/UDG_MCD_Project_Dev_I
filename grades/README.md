@@ -65,16 +65,14 @@ Trabajo para realizar al final del semestre un proyecto.
 # Calificaciones 
 Se comparte el resumen de calificaciones considerando los puntos acumulados por actividad.
 
-Última actualización al: **2024-11-28**
+Última actualización al: **2024-12-02**
 
 <br>
 
 ## Resumen de calificaciones
 
 ### Calificación final 
-Se comparten las calificaciones acumuladas del curso, a la fecha de actualización.
-
-⚠️ En proceso de actualización ⚠️  
+Se comparten las calificaciones finales del curso.
 
 |ID.|NOMBRE|PRESENTACIONES<br>(30%)|QUIZES<br>(10%)|ACTIVIDADES<br>(10%)|PROY. EDA<br>(20%)|PROY. FINAL<br>(30%)|PTOS. EXTRA<br>(+)|CALIF. FINAL|
 |---|---|---:|---:|---:|---:|---:|---:|---:|
@@ -86,7 +84,6 @@ Se comparten las calificaciones acumuladas del curso, a la fecha de actualizaci�
 |216910473|EYDER URIEL KINIL CERVERA        |30|9.9|8.6|19.4|30  |5 |__100__|
 |210674077|JOSE LUIS MEDRANO MEDRANO        |30|10 |10 |20  |28.4|5 |__100__|
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ      |30|10 |10 |17.6|27.0|10|__100__|
-
 
 **Nota:** Para tener acceso a los puntos extras se necesita una calificación mayor o igual a 80% en el “Total” de la Evaluación General.
 
@@ -154,6 +151,7 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |210674077|JOSE LUIS MEDRANO MEDRANO|100|100|100|100|0|__100__|
 |091420465|CARLOS OCTAVIO MENDOZA RUIZ|100|90|80|100|0|__88.0__|
 
+Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto intermedio EDA](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/proyectos/01_EDA.md).
 
 
 ### Proyecto final:
@@ -169,7 +167,7 @@ Proyecto intermedio del curso realizado de forma indiviual por los alumnos. Los 
 |2|210674077|JOSE LUIS MEDRANO MEDRANO|Rotación de personal|95|100|80|100|100|100|0|__94.5__|
 |3|091420465|CARLOS OCTAVIO MENDOZA RUIZ|Analisis de examenes de laboratorio epigen|80|100|80|100|100|100|0|__90.0__|
 
-Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/tree/main/proyectos/final).
+Proyecto final del curso realizado en equipo, los detalles sobre la forma de evaluar este proyecto se encuentran en la [guía para el proyecto final](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/proyectos/02_Final.md).
 
 
 ## Puntos extras:
