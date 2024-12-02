@@ -41,11 +41,10 @@ Lista de alumnos del ciclo escolar otoño 2024.
 |02|FERNANDO ARTURO AREVALO PEREZ |323018942|[fernando.arevalo1894@alumnos.udg.mx](mailto:fernando.arevalo1894@alumnos.udg.mx)| [FernandoA182](https://github.com/FernandoA182)|
 |03|CRISTIAN ULISES BARENCA SOTELO |323018977|[cristian.barenca1897@alumnos.udg.mx](mailto:cristian.barenca1897@alumnos.udg.mx)| [CBarenca](https://github.com/CBarenca)|
 |04|EDUARDO CARLOS FLETES ARECHIGA |323018926|[eduardo.fletes1892@alumnos.udg.mx](mailto:eduardo.fletes1892@alumnos.udg.mx)| [edd885](https://github.com/edd885)|
-|05|OSCAR FERNANDO FLORES GARCIA |323019043|[oscar.flores1904@alumnos.udg.mx](mailto:oscar.flores1904@alumnos.udg.mx)| [fernandofloresg](https://github.com/fernandofloresg)|
-|06|MARIA DEL CARMEN HERRERA JIMENEZ |208763291|[maria.herrera6329@alumnos.udg.mx](mailto:maria.herrera6329@alumnos.udg.mx)| [CarmenH23](https://github.com/CarmenH23)|
-|07|EYDER URIEL KINIL CERVERA |216910473|[eyder.kinil1047@alumnos.udg.mx](mailto:eyder.kinil1047@alumnos.udg.mx)| [Heyder07](https://github.com/Heyder07)|
-|08|JOSE LUIS MEDRANO MEDRANO |210674077|[jose.medrano7407@alumnos.udg.mx](mailto:jose.medrano7407@alumnos.udg.mx)| [Jolmed26](https://github.com/Jolmed26)|
-|09|CARLOS OCTAVIO MENDOZA RUIZ |091420465|[carlos.mendoza2046@alumnos.udg.mx](mailto:carlos.mendoza2046@alumnos.udg.mx)| [OctavioMendoza](https://github.com/OctavioMendoza)|
+|05|MARIA DEL CARMEN HERRERA JIMENEZ |208763291|[maria.herrera6329@alumnos.udg.mx](mailto:maria.herrera6329@alumnos.udg.mx)| [CarmenH23](https://github.com/CarmenH23)|
+|06|EYDER URIEL KINIL CERVERA |216910473|[eyder.kinil1047@alumnos.udg.mx](mailto:eyder.kinil1047@alumnos.udg.mx)| [Heyder07](https://github.com/Heyder07)|
+|07|JOSE LUIS MEDRANO MEDRANO |210674077|[jose.medrano7407@alumnos.udg.mx](mailto:jose.medrano7407@alumnos.udg.mx)| [Jolmed26](https://github.com/Jolmed26)|
+|08|CARLOS OCTAVIO MENDOZA RUIZ |091420465|[carlos.mendoza2046@alumnos.udg.mx](mailto:carlos.mendoza2046@alumnos.udg.mx)| [OctavioMendoza](https://github.com/OctavioMendoza)|
 
 
 ## Evaluación
